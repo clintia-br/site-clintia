@@ -1,372 +1,621 @@
 # ClintIA: site completo em texto
 
-Fonte: https://clintia.com.br/ · gerado em 2026-09-25
+Fonte: https://clintia.com.br/ · gerado em 2026-09-26
 
 ---
 
-# A gente implanta a estrutura que enche a agenda da clínica popular.
+# Sua clínica popular perde paciente todo dia. O método que as grandes redes usam pra virar operação previsível e recorrente, rodando dentro da sua clínica.
 
 URL: https://clintia.com.br/
 
-Infraestrutura comercial para clínica popular: Google, WhatsApp, CRM e painel de CAP. Método CLIP, mais de 100 clínicas implantadas. Rio de Janeiro.
+Sua clínica popular perde paciente todo dia. A ClintIA coloca pra rodar na sua clínica o método das grandes redes pra gerar demanda e converter em agenda.
 
-Google, WhatsApp com CRM e um painel que mostra quanto custou cada paciente. Instalado pela nossa equipe em 45 dias, com o método CLIP, que já rodou em mais de 100 clínicas.
+O mesmo método já roda em mais de 100 clínicas populares. A nossa equipe monta, testa e entrega funcionando.
 
-## O que os números dizem
+Sem aumentar a verba e sem solução mirabolante: a gente trabalha com a estrutura e a equipe que você já tem.
 
-- -53% : no custo de aquisição de paciente: de R$ 28,80 para R$ 13,60, antes e depois da implantação
-- 2,5× : mais pacientes com o mesmo investimento em mídia
-- 2 : meses, no máximo, para a implantação se pagar
-- +100 : clínicas com o método CLIP implantado, em 13 estados
+## Chega gente todo dia. E no fim do mês a conta continua apertada.
 
-## O método CLIP, em quatro pilares
+Aí o dono faz o que parece certo. Troca de agência, aumenta a verba, baixa o preço da consulta. Mexe no que traz gente, quando o furo está no que acontece depois que o paciente chega: o "quanto é?" recebe o preço seco e ninguém volta em quem sumiu. O nome disso é improviso. Improviso se resolve com processo, não com mais verba: quem responde, o que responde, em quanto tempo, e um número toda segunda dizendo se funcionou. É o que a rede grande do seu bairro faz, no tamanho da sua clínica.
 
-Clínica popular vive de volume com margem curta. Cada real mal gasto em mídia sai direto do lucro. O CLIP foi feito para esse modelo, não para o consultório que cobra R$ 500 a consulta. São quatro pilares que dependem um do outro: se um falha, os outros não se sustentam.
+### Se você reconhece três destes, este site é sobre a sua clínica.
 
-- C Canais de Aquisição: 70% da verba vai para quem já está procurando (Google Ads, busca local, recomendações de IA). Os outros 30% lembram quem visitou e não agendou (Meta, remarketing). O Instagram não é o canal principal.
-- L Liderança Local: Ficha do Google acima de 4.8, com avaliações de verdade, e um Instagram que confirma em 30 segundos que a clínica existe, é do bairro e é séria.
-- I Inteligência Comercial: CRM ligado ao WhatsApp oficial, primeira resposta em menos de 5 minutos, follow-up de quem disse "vou pensar" e reativação de quem já passou pela clínica.
-- P Previsibilidade: Painel no celular com CAP, retorno e lucro por canal. O dono sabe de onde veio cada paciente e onde colocar a próxima verba.
+- WhatsApp da recepção sem processo: cada atendente responde de um jeito
+- Verba decidida no achismo e agência que não mostra o que trouxe
+- Briga de preço com a clínica da esquina
+- Paciente que some depois da primeira consulta
+- No-show acima de 30% (agenda e não vem)
+- Receita presa em convênio, sem base própria de paciente particular
 
-## Dois jeitos de levar o método para a sua clínica
+## O que as grandes redes já entenderam
 
--  PROClip: Em 45 dias, a gente instala os quatro pilares na sua clínica: campanhas no Google e no Meta, ficha do Google otimizada, CRM no WhatsApp, treinamento da recepção e o painel de CAP por canal. Você valida informações e aprova criativos. A execução é nossa. Feito para clínica popular, policlínica ou centro de diagnóstico com pelo menos um ano de operação e faturamento entre R$ 15 mil e R$ 200 mil por mês.
--  O Manual da Clínica Popular: O sistema comercial das grandes redes, documentado em 9 capítulos e traduzido para a operação de uma clínica. Vem com planilha de CAP por canal, scripts de resgate no WhatsApp, checklist da ficha do Google, o painel dos cinco números da segunda-feira e uma comunidade com mais de 80 donos de clínica popular.
+Amor Saúde, Dr. Consulta e as redes que abrem unidade atrás de unidade não vivem penduradas em convênio. Construíram demanda própria, de paciente particular. Têm posicionamento no lugar de guerra de preço. Sabem quanto custa cada paciente e por qual canal ele chegou, e o paciente volta todo mês porque existe um sistema pra isso. Nada disso é genialidade. É processo, na ordem certa. Esse processo só nunca tinha chegado até o dono da clínica de bairro.
 
-## Como começa
+Não é uma solução de marketing, de Instagram ou de conteúdo. É um sistema completo, entregue rodando.
 
--  Sessão Estratégica: 30 minutos com o Bernardo. Você traz quantos pacientes procuram a clínica por mês, quantos fecham, quanto falta e quanto gasta em mídia. Se não fizer sentido para a sua operação, a gente fala isso na hora.
--  Diagnóstico e proposta: Com os seus números, não com média de mercado. Você recebe por escrito o que a gente faria, em que ordem e o que espera de resultado.
--  Implantação em 45 dias: Semanas 1 e 2: diagnóstico e setup técnico (ficha do Google, CRM, automação do WhatsApp). Semanas 3 e 4: campanhas no ar e estrutura para busca e IA. Semanas 5 e 6: calibragem de CAP, ajustes de funil e treinamento da recepção.
--  Do dia 46 em diante: A estrutura é sua e continua rodando. Quem quiser a gente por perto na gestão contrata um plano mensal a partir do terceiro mês, sem fidelidade, com aviso de 30 dias para sair.
+Sistema, pra gente, quer dizer as quatro partes juntas: posicionamento, demanda, comercial e controle. Trazer paciente pra uma recepção que não conduz é jogar verba fora, e treinar a recepção de uma clínica que ninguém procura também. A ClintIA entrega o conjunto, montado dentro da sua clínica, e só sai quando está funcionando.
 
-## Por que a gente não se chama de agência
+Marcas citadas como referência pública de modelo de negócio. Não há vínculo, parceria ou endosso entre elas e a ClintIA.
 
-Quem chega até nós em geral já pagou agência. Recebeu post bonito, relatório de curtida e a agenda continuou igual. O problema raramente é a agência ser ruim. Ela foi montada para consultório premium, onde uma consulta de R$ 500 absorve um custo de aquisição alto e dá para investir em marca por meses. Clínica popular faz de 80 a 200 agendamentos por semana com ticket entre R$ 60 e R$ 150. Precisa de volume agora, com custo por paciente baixo e rastreado até o caixa.
+## A clínica popular é o melhor modelo de negócio da saúde hoje.
 
-A gente também não faz consultoria que entrega um plano e vai embora. A equipe instala, calibra e deixa rodando.
+É o que tem mais demanda e mais necessidade, e atende quem mais precisa. E é o dono que menos tem consciência do próprio modelo: procura solução em todo canto e não acha, porque quase tudo que existe foi feito pro consultório particular de ticket alto. O que funciona pra um não funciona pro outro. Por isso a ClintIA escolheu esse modelo, e só ele.
 
-## Para quem faz sentido
+## O método em 4 etapas, na ordem certa
+
+Uma etapa alimenta a outra. Pular uma delas é o que faz o dinheiro de anúncio virar clique e não paciente.
+
+- Posicionamento forte: Ser a escolha de quem procura clínica popular. Resultado: a sua clínica vira a escolha do bairro, não a opção mais barata.
+- Demanda qualificada: Chegar no paciente certo, pelo canal certo. Resultado: demanda que já chega com cara de agendamento.
+- Cultura de venda: Conduzir quem chega até a cadeira. Resultado: a recepção deixa de só atender e passa a agendar.
+- Controle: Colocar tudo em número e saber onde mexer. Resultado: você sabe onde mexer, toda semana.
+
+## O que muda quando o método está rodando
+
+- -53%: no custo de aquisição de paciente: de R$ 28,80 pra R$ 13,60
+- 2,5×: mais pacientes com o mesmo investimento em mídia
+- 2: meses, em média, até a implantação se pagar
+- +100: clínicas populares rodando o método, em 13 estados
+
+CAP é o custo de aquisição de paciente: quanto a clínica pagou pra um paciente chegar, agendar e pagar. Não é custo por clique nem por contato. Médias das clínicas em que o método foi implantado; o resultado de cada uma depende da operação dela.
+
+## Três jeitos de levar o método pra sua clínica
+
+O método é um só. O que muda é quem executa e o tamanho da operação.
+
+- Implantação feita pela nossa equipe PROClip: Em 45 dias a nossa equipe coloca as 4 etapas pra rodar dentro da sua clínica. Você valida informação e aprova o que vai ao ar; a execução é nossa. Feito pra clínica popular, policlínica ou centro de diagnóstico que já tem operação rodando.
+- A porta de entrada O Manual da Clínica Popular: O método escrito, etapa por etapa, pra aplicar com a equipe que você já tem, começando pelo WhatsApp da recepção. Vem com o portal, as ferramentas e a primeira comunidade de donos de clínica popular, com mais de 80 membros.
+- Pra rede e multiunidade Projetos sob medida: Pra rede com várias unidades ou operação maior, o sistema é desenhado sob medida: gestão comercial completa, treinamento de recepção e de pré-venda, posicionamento e identidade da marca. Começa por um diagnóstico da operação.
+
+## O método rende mais em clínica que já tem movimento e não tem ordem
+
+### Faz sentido pra
+
+- Clínica popular, policlínica ou centro de diagnóstico com pelo menos um ano de operação.
+- Dono que atende, vê o WhatsApp apitar e não sabe quantos pediram preço e sumiram no mês passado.
+- Rede que cresceu e cada unidade vende de um jeito, sem o dono conseguir comparar uma com a outra.
+
+### Não faz sentido pra
+
+- Consultório particular de ticket alto: o modelo e os canais são outros.
+- Clínica que quer alguém só pra cuidar do Instagram.
+- Dono que espera resultado sem mexer na recepção.
+
+Na dúvida, a Sessão Estratégica serve pra isso: se não fizer sentido pra sua operação, a gente fala na hora.
+
+## Bernardo Carneiro e a ClintIA
+
+A ClintIA nasceu de um movimento que o Bernardo viu dentro da primeira empresa de marketing médico do Brasil, onde estruturou o setor digital: chegava muita clínica popular pedindo ajuda, e não existia praticamente nada escrito sobre esse modelo de negócio. Muito material sobre consultório, sobre estética, sobre hospital. Sobre clínica popular, quase nada.
+Foi aí que ele parou pra estudar o que faz uma clínica popular virar um negócio previsível e recorrente, e por que algumas dão muito certo enquanto outras, do lado, não saem do lugar. Esse estudo virou método, e o método virou a ClintIA, em 2020, no Rio de Janeiro. Hoje o trabalho é esse: mais de 250 clínicas estruturadas e mais de 100 rodando o método pelo Brasil.
+
+## Uma equipe que só atende clínica popular
+
+Quem fala com a sua clínica é quem executa. O Bernardo responde pelo diagnóstico; a entrega é destas três frentes.
+
+- Liderança de operações: Centraliza a entrega e lidera uma equipe externa de cerca de cinco pessoas de social, design e identidade. O prazo combinado é com ela.
+- Produção digital: Sites e páginas das clínicas.
+- Automação e CRM: O WhatsApp da recepção com processo, follow-up e número.
 
 ## O que a gente aprende dentro das clínicas
 
-Escrito para quem toma a decisão. Nada de dica genérica.
+Escrito pra quem toma a decisão.
 
-## Bernardo Carneiro
+## Perguntas diretas, respostas diretas
 
-Fundador da ClintIA. Trabalha com marketing e comercial de clínicas há 14 anos: fundou a área digital da MarketMED, a primeira agência de marketing médico do Brasil, e passou por mais de 250 clínicas, do consultório de um médico só à rede com várias unidades.
-Criou o método CLIP para o modelo econômico da clínica popular. Hoje ele está rodando em mais de 100 clínicas, em 13 estados. Formado em Estatística pela UFF, conduz pessoalmente cada Sessão Estratégica e o diagnóstico de cada clínica que entra.
+## Continuar no improviso, ou tocar a clínica como as grandes tocam.
 
-## Perguntas frequentes
+O improviso você já sabe quanto custa: é o fim de mês apertado de sempre. A Sessão Estratégica é uma conversa de 30 minutos. Você traz quantos pacientes procuram por mês, quantos fecham e quanto gasta em mídia. A gente devolve um diagnóstico com o que dá pra fazer nos próximos 45 dias e o que não vale a pena.
 
-## Vamos olhar os números da sua clínica
+### Vocês são uma agência?
+
+Não do jeito que o mercado usa a palavra. A gente entrega o método inteiro rodando, e o anúncio é uma parte pequena disso: só entra na segunda etapa.
 
 ### Vocês atendem clínica fora do Rio de Janeiro?
 
-Sim. A implantação é remota e já foi feita em clínicas de 13 estados, de cidade do interior a capital. O comportamento de busca do paciente, o no-show e o modelo econômico da clínica popular são parecidos em quase todo o país. O que muda é o volume de tráfego, e isso a gente calibra na primeira semana.
+Sim. O trabalho é remoto e já rodou em clínicas de cidade do interior a capital. O comportamento de busca do paciente, o no-show e o modelo econômico da clínica popular são parecidos em quase todo o país. O que muda é o volume, e isso a equipe calibra na primeira semana.
 
 ### Preciso aumentar a verba de mídia?
 
-Não. A lógica do método é reduzir o custo por paciente com a verba que você já investe. Nas clínicas em que o CLIP foi implantado, o CAP médio caiu de R$ 28,80 para R$ 13,60. Com o mesmo dinheiro, a clínica passou a atender cerca de 2,5 vezes mais pacientes.
+Não. O método começa arrumando o que acontece depois que o paciente chega, com a verba que você já investe. Mídia nova só entra na etapa 2, e só se a conta por paciente fechar.
 
-### Vou precisar parar a clínica para implantar?
+### Vou precisar parar a clínica?
 
-Não. A equipe da ClintIA faz o setup técnico, as campanhas, o CRM e a automação. Da sua parte, a gente precisa de validação de informações, aprovação de criativos e os acessos, enviados por formulário. São algumas horas distribuídas ao longo dos 45 dias.
+Não. A nossa equipe faz o setup, as campanhas, o CRM e a automação. Da sua parte, precisamos de validação de informação, aprovação do que vai ao ar e os acessos. São algumas horas ao longo das semanas.
 
 ### Já tenho agência e um sistema de agendamento. Vocês substituem ou somam?
 
-A gente olha o que existe antes de propor qualquer coisa. O que funciona fica e é integrado. O que a ClintIA constrói é a estrutura que costuma faltar: rastreio do custo por paciente por canal, CRM ligado ao WhatsApp e painel. Ninguém vai te pedir para jogar fora o que já funciona.
+A gente olha o que existe antes de propor qualquer coisa. O que funciona fica e é integrado. O que costuma faltar é o que a agência não faz: as etapas 1, 3 e 4.
 
-### Tem contrato de fidelidade?
+### Por onde começar: Manual ou Sessão Estratégica?
 
-A implantação tem prazo de 45 dias e acaba quando acaba. O plano mensal, a partir do terceiro mês, é opcional, sem fidelidade, com aviso de 30 dias para encerrar.
+Se a clínica ainda vai aplicar com a própria equipe, o Manual é o caminho: o método no papel, com portal e comunidade. Se o dono quer a implantação feita pela nossa equipe, a Sessão Estratégica é o primeiro passo. Nos 30 minutos a gente olha os números e diz qual dos dois faz sentido.
 
 ---
 
-# Uma empresa feita para um único tipo de clínica
+# Nascemos porque quase ninguém escrevia sobre clínica popular.
 
 URL: https://clintia.com.br/sobre/
 
-Quem está por trás da ClintIA: 14 anos de marketing médico, mais de 250 clínicas estruturadas e o método CLIP criado para o modelo de clínica popular.
+Quem é a ClintIA, por que só atende clínica popular, no que a gente acredita e quem faz o método sair do papel. Rio de Janeiro, desde 2020.
 
-A ClintIA existe desde 2020 para resolver um problema que agência de marketing não resolve. A clínica popular precisa de paciente pagante toda semana, com custo conhecido e sem depender do humor do convênio. A gente cuida disso: marketing, tecnologia e inteligência comercial, no modelo econômico dessa clínica e em nenhum outro. A empresa fica no Rio de Janeiro e atende clínicas em 13 estados.
+Era o dono de clínica popular quem mais chegava pedindo ajuda, e o que existia escrito servia pra consultório, estética e hospital. A ClintIA nasceu desse vazio, em 2020, no Rio de Janeiro, pra colocar dentro da clínica de bairro o jeito de operar que só as grandes redes tinham.
+
+## Chegava dono de clínica popular pedindo ajuda, e a resposta do mercado era a do consultório.
+
+A gente foi procurar quem já tinha resolvido isso. Encontrou nas grandes redes de clínica popular, que abrem unidade atrás de unidade porque operam com processo: sabem quanto custa cada paciente, por qual canal ele chega e o que a recepção faz no minuto em que ele manda mensagem. Esse jeito de operar nunca tinha sido escrito pra clínica de uma unidade só. A ClintIA existe pra escrever e implantar.
+E a gente continua praticamente sozinha nisso. O mercado de marketing e gestão em saúde olha pro consultório e pro hospital, e a clínica popular, que atende quem mais precisa de consulta rápida e que caiba no bolso, ficou quase sem ninguém olhando pra ela com seriedade.
+
+## Consultório e clínica popular não são o mesmo negócio.
+
+Clínica popular não é consultório com preço baixo. É outro negócio, com outra conta, e é o único tipo de clínica que a gente atende.
+
+- Consultório: De 10 a 15 consultas por semana, com ticket entre R$ 400 e R$ 600. Pode esperar meses por marca e paga caro por cada paciente sem quebrar.
+- Clínica popular: De 80 a 200 agendamentos por semana, com ticket entre R$ 60 e R$ 150. Precisa de volume agora, com o custo de cada paciente rastreado até o caixa.
+
+O paciente também é outro. Ele procura, compara, quer agendar no mesmo dia e não compra o mais barato: compra o que cabe no bolso e o que responde primeiro. Quem atende consultório e clínica popular com o mesmo método acerta num e erra no outro.
+
+A gente preferiu acertar num só.
+
+## Cinco coisas que não mudam de projeto pra projeto
+
+Frase de parede não decide nada. Isto aqui decide como a gente trabalha quando o prazo aperta e o número vem ruim.
+
+- Número é a língua da verdade.: Toda conversa aqui começa por um número e termina em outro: quantos procuraram, quantos chegaram na cadeira, quanto custou cada um. Relatório de curtida não entra nessa conta. Quando o número vem ruim, a gente mostra do mesmo jeito, porque é ele que diz onde mexer.
+- A verdade sobre projeto e prazo não se negocia.: Se uma etapa vai atrasar, o dono fica sabendo antes de perguntar. Quando um canal não vale pra clínica dele, a gente fala, mesmo que o projeto fique menor. Dono de clínica popular já pagou caro por promessa que não veio.
+- A gente está criando uma comunidade, não só uma forma de ganhar dinheiro.: O dono de clínica popular passou anos sem ter com quem conversar sobre o próprio negócio. O material não existia e o vizinho de bairro era concorrente. Hoje ele conversa com mais de 80 donos no portal do Manual, e o que um aprende encurta o caminho do outro.
+- Fazer, olhar o número, corrigir. Nessa ordem.: Toda semana, em todo projeto. O método não veio de curso, porque o curso não existia: foi escrito dentro da operação, errando no começo, quando ainda era barato corrigir.
+- O sistema inteiro, rodando dentro da clínica.: Anúncio bom numa recepção sem processo vira clique, e treinar a recepção não adianta se ninguém acha a clínica quando procura. As quatro etapas só funcionam juntas e na ordem certa: posicionamento forte, demanda qualificada, cultura de venda e controle. Por isso o trabalho aqui só termina quando as quatro estão rodando, montadas dentro da clínica, com a equipe que já existe nela.
 
 ## Bernardo Carneiro
 
-O Bernardo Carneiro trabalha com marketing e comercial de clínicas há 14 anos. Começou dentro da MarketMED, a primeira agência de marketing médico do Brasil, uma empresa de família, nascida de dentro do setor. Foi lá que ele fundou a área digital e passou por mais de 250 clínicas, do consultório de um médico só à rede com várias unidades.
-Com o tempo, ficou claro um padrão. O que funciona para o dermatologista que cobra R$ 600 a consulta não funciona para a clínica que cobra R$ 80 e precisa de 150 agendamentos por semana. As grandes redes de clínica popular, como Dr. Consulta e Amor Saúde, já operavam do jeito certo para esse modelo: decisão com número, custo por paciente medido por canal, funil rastreado do anúncio até o caixa. A clínica independente não tinha acesso a esse jeito de operar. Fazia marketing de consultório, com dinheiro de clínica popular.
-O método CLIP nasceu para fechar essa distância. Foram os quatro pilares que se repetiam em toda clínica que dava certo, organizados numa ordem que dá para implantar em 45 dias. Hoje está rodando em mais de 100 clínicas populares, do Pará ao Rio Grande do Sul.
-O Bernardo é formado em Estatística pela UFF, apresenta um podcast sobre gestão e marketing em saúde e mora no Rio de Janeiro. Ele conduz pessoalmente cada Sessão Estratégica e o diagnóstico de cada clínica que entra.
+O Bernardo se formou em Estatística na UFF e passou também por Finanças e Empreendedorismo na mesma universidade. Foi na UFFinance, a empresa júnior da faculdade, que ele estruturou um setor de marketing pela primeira vez. Dali foi pra MarketMED, a primeira agência de marketing médico do Brasil, empresa da família fundada em 2001. Entrou pra montar o setor digital e passou a liderar essa área.
+Em 14 anos de marketing médico, passaram mais de 250 clínicas pelas mãos dele, do consultório de um médico só à rede com várias unidades. Foi olhando o que separava a clínica popular que crescia da que ficava parada na mesma rua que ele escreveu o método em quatro etapas, na ordem em que precisam acontecer.
+Hoje esse método roda em mais de 100 clínicas populares, em 13 estados. O Bernardo responde pelo diagnóstico de toda clínica que entra e apresenta um podcast sobre gestão e marketing em saúde.
 
-## No que a gente acredita
+"A clínica popular é o melhor modelo de negócio da saúde hoje: é o que tem mais demanda e mais necessidade. E é o dono que menos tem consciência do próprio modelo. Procura solução em todo canto e não acha."
 
--  A métrica que importa é o custo por paciente que pagou.: Clique, contato e curtida não pagam boleto. Se a clínica não sabe quanto custou cada paciente por canal, toda decisão de verba é chute.
--  Canal de intenção vem antes.: O paciente da clínica popular procura, ele não espera ser impactado. Google antes de Instagram. Quem inverte a ordem paga mais caro por menos gente.
--  Instagram é vitrine.: Serve para o paciente confirmar em 30 segundos que a clínica existe e é séria. Como canal de captação principal, drena verba.
--  A base de pacientes é o ativo mais valioso da clínica.: Vale mais do que qualquer campanha ativa. Quem tem base limpa e organizada agenda de novo por uma fração do custo do tráfego.
--  Estrutura antes de volume.: Escalar verba sem funil é escalar desperdício.
--  Contrato sem fidelidade.: Quem confia na entrega não precisa amarrar o cliente. A recorrência tem aviso de 30 dias e nada mais.
--  CFM é diferencial, não obstáculo.: Toda comunicação passa por checklist de conformidade antes de ir ao ar. Isso protege o dono e dá uma confiança que a agência genérica não oferece.
+Bernardo Carneiro, fundador da ClintIA
 
-## Quem faz
+## Quem faz o método sair do papel
 
-A ClintIA é uma equipe pequena, com funções bem separadas. O Bernardo conduz as Sessões Estratégicas e o diagnóstico. Uma gerente de operações assume o cliente depois da assinatura, faz o primeiro contato em até 24 horas, conduz a reunião de onboarding e organiza tudo o que a produção precisa. Daí em diante, quem executa é a equipe de tráfego, copy, design e atendimento, com um ponto de contato único para a clínica. Ninguém da parte técnica precisa tomar o tempo do dono em reunião que não muda resultado.
+Quem fala com o dono é quem executa. A equipe inteira trabalha no mesmo método, e é isso que faz ele rodar do mesmo jeito em cada clínica.
 
-## Onde a gente está
+- Fundador e método Bernardo Carneiro: Criou o método e responde pelo diagnóstico de toda clínica que entra: é o diagnóstico que define o plano, antes de qualquer proposta.
+- Liderança de operações: Centraliza a entrega de cada clínica, da assinatura ao fim da implantação, e lidera uma equipe externa de cerca de cinco pessoas de social, design e identidade. Responde pelo prazo combinado e é quem o dono procura quando precisa de retorno.
+- Produção digital: Sites e páginas da clínica, montados pra aparecer pra quem já procura consulta no bairro e transformar essa procura em mensagem na recepção.
+- Automação e CRM: O WhatsApp da recepção com processo, follow-up automático e número no fim da semana. É a parte do sistema que faz a primeira resposta sair em minutos, sem depender de a recepção estar livre.
 
-A empresa fica no Rio de Janeiro. A implantação é remota, com reuniões por vídeo e grupo de WhatsApp com a equipe. Já foram implantações no Ceará, Maranhão, Minas Gerais, Amazonas, Paraíba, São Paulo, Rio de Janeiro, Pará, Goiás, Rio Grande do Sul, Santa Catarina, Bahia e Pernambuco.
+O trabalho é remoto: reunião por vídeo, grupo de WhatsApp com a equipe e o dono validando o que vai ao ar. Ele manda informação, aprova e libera acesso. Executar é com a gente, e reunião que não muda resultado a gente não marca.
 
-- 14 : anos de marketing e comercial de clínicas
-- +250 : clínicas com o comercial estruturado
-- +100 : clínicas com o método CLIP implantado, em 13 estados
-- 13 : estados com implantação remota
+## No Rio de Janeiro, dentro de clínicas em 13 estados
 
-## Perguntas frequentes
+A empresa fica no Rio de Janeiro. As implantações já passaram por Ceará, Maranhão, Minas Gerais, Amazonas, Paraíba, São Paulo, Rio de Janeiro, Pará, Goiás, Rio Grande do Sul, Santa Catarina, Bahia e Pernambuco. O jeito de o paciente procurar clínica popular muda pouco de uma cidade pra outra; o que muda é o tamanho da demanda, e a operação é calibrada pra isso desde o começo.
 
-## Quer saber se faz sentido para a sua clínica?
+- 14: anos do fundador em marketing médico
+- +250: clínicas com o comercial estruturado
+- +100: clínicas populares rodando o método
+- 13: estados com implantação remota
+
+## Levar o método pra cada vez mais clínicas populares do Brasil
+
+Na nossa leitura, a clínica popular é o modelo com mais demanda e mais necessidade na saúde, e ao mesmo tempo é o tipo de clínica com menos gente olhando pro comercial dela com método. A gente quer que o método deixe de ser exceção. Que o dono de clínica popular, em qualquer cidade, saiba quanto custa cada paciente e feche o mês olhando pra número.
+
+## O que perguntam sobre a gente
+
+## Quer saber se faz sentido pra sua clínica?
+
+Comece pelo método. Ele está no site, etapa por etapa, pra você ler antes de falar com a gente. Se fizer sentido, o passo seguinte é a Sessão Estratégica: 30 minutos olhando os números da sua clínica antes de qualquer proposta.
 
 ### O Bernardo participa dos projetos ou só vende?
 
-Ele conduz a Sessão Estratégica, faz o diagnóstico e desenha o plano de cada clínica. A execução dos 45 dias é da equipe, com uma gerente de operações como ponto de contato. O Bernardo acompanha os números de todas as implantações.
+Ele responde pelo diagnóstico e pelo plano de cada clínica que entra. A execução dos 45 dias é da equipe, com a liderança de operações como ponto de contato e respondendo pelo prazo combinado.
 
 ### Vocês atendem clínica de qualquer porte?
 
-Sim, de uma unidade a rede. Já implantamos de clínica de bairro a uma rede com sete unidades. O que define se faz sentido é o modelo: clínica popular, policlínica ou centro de diagnóstico, com pelo menos um ano de operação.
+Sim, de uma unidade a rede. Já trabalhamos de clínica de bairro a uma rede com sete unidades. O que define se faz sentido é o modelo: clínica popular, policlínica ou centro de diagnóstico, com pelo menos um ano de operação. Pra rede e multiunidade, o projeto é desenhado sob medida.
 
 ### E consultório particular de alto padrão?
 
-Não é o nosso trabalho. O consultório com ticket acima de R$ 300 tem outros canais, outro ritmo e outra conta. A gente prefere dizer isso na primeira conversa do que fazer um trabalho que não vai render.
+Não é o nosso trabalho. Consultório de 10 ou 15 consultas na semana e ticket acima de R$ 300 tem outros canais, outro ritmo e outra conta. A gente prefere dizer isso na primeira conversa do que fazer um trabalho que não vai render.
+
+### Por que "só clínica popular" e não "clínicas em geral"?
+
+Porque o método foi escrito pra conta da clínica popular: muito agendamento por semana, ticket baixo, margem curta. O que funciona nessa conta não funciona na do consultório, e o contrário também. Atender os dois com o mesmo processo era exatamente o erro que a gente viu o mercado cometer.
 
 ---
 
-# Método CLIP: quatro pilares para a clínica saber de onde vem cada paciente
+# Sua clínica popular já tem gente procurando. O que falta é o que acontece depois. O método em 4 etapas que leva o paciente da procura até a cadeira.
 
-URL: https://clintia.com.br/metodo-clip/
+URL: https://clintia.com.br/metodo/
 
-Canais, Liderança local, Inteligência comercial e Previsibilidade: como o método CLIP reduz o custo de aquisição de paciente em clínica popular.
+O método da ClintIA em 4 etapas, na ordem certa: posicionamento forte, demanda qualificada, cultura de venda e controle. O que muda na clínica popular.
 
-CLIP é o nome dos quatro pilares que a gente implanta numa clínica popular: Canais de Aquisição, Liderança Local, Inteligência Comercial e Previsibilidade. É a ordem em que eles entram, construída em 14 anos de trabalho com clínicas e validada em mais de 100 clínicas populares em 13 estados.
+Quase toda clínica que chega até a gente já tentou resolver a agenda pelo lado errado: agência nova, mais verba, consulta mais barata. O método coloca as peças na ordem em que elas funcionam. É o mesmo processo que redes como Dr. Consulta e Amor Saúde rodam pra crescer, no tamanho de uma clínica de bairro, em uso em mais de 100 clínicas populares. Sem aumentar a verba e sem solução mirabolante.
 
-A ordem importa porque cada pilar depende do anterior. O canal leva o paciente até a ficha do Google e o Instagram, que confirmam que a clínica é séria. Daí o contato cai no WhatsApp, onde um CRM decide se ele vira agendamento ou se some no meio de 200 mensagens. E o painel é o que mostra, no fim, qual dessas etapas está falhando.
+## Posicionamento, demanda, venda e controle. Nessa ordem.
 
-## Antes dos pilares, uma conta
+Pior do que não gerar demanda é gerar demanda errada. A ordem faz cada real entrar numa clínica preparada pra recebê-lo.
 
-Consultório premium faz 10 a 15 consultas por semana com ticket de R$ 400 a R$ 600. Pode gastar caro para trazer cada paciente porque a consulta paga. Clínica popular faz 80 a 200 agendamentos por semana com ticket de R$ 60 a R$ 150. A margem é curta e cada real desperdiçado em mídia sai do lucro.
-Por isso a métrica central do método é o CAP, o custo de aquisição de paciente. A definição exata: quanto a clínica pagou para um paciente chegar, agendar, comparecer e pagar. Custo por clique e custo por contato são sempre menores e mais bonitos no relatório, mas não representam dinheiro no caixa. Nas clínicas em que o método foi implantado, o CAP médio saiu de R$ 28,80 para R$ 13,60.
+- Posicionamento forte: Ser a escolha de quem procura clínica popular.
+- Demanda qualificada: Chegar no paciente certo, pelo canal certo.
+- Cultura de venda: Conduzir quem chega até a cadeira.
+- Controle: Colocar tudo em número e saber onde mexer.
 
-## Um pilar leva ao outro
+## Posicionamento forte
 
-- C Canais de Aquisição: 70% da verba em intenção (Google, busca local, IA) e 30% em atração (Meta, remarketing).
-- L Liderança Local: Ficha do Google acima de 4.8 e Instagram como vitrine de validação.
-- I Inteligência Comercial: CRM no WhatsApp, primeira resposta em menos de 5 minutos e reativação de base.
-- P Previsibilidade: Painel no celular com CAP, retorno e lucro por canal.
+Ser a escolha de quem procura clínica popular.
 
-## Canais de Aquisição
+O paciente da clínica popular não compra o mais barato: compra o que cabe no bolso, perto de casa, com horário pra esta semana. Ele leva trinta segundos pra decidir se a clínica é séria, e o trabalho dessa etapa é fazer a resposta ser sim. Clínica que sabe dizer por que é a escolha certa para de disputar centavo com a esquina, e o mesmo anúncio converte mais sem um real a mais em mídia.
 
-Existem dois tipos de canal. O de intenção alcança quem já está procurando: a pessoa digita "ultrassom perto de mim" e a clínica aparece. O de atração vai até quem não estava procurando. A verba se divide em 70% para intenção e 30% para atração, porque ninguém precisa ser convencido de que precisa de consulta. Ele já sabe. Só precisa encontrar a clínica na hora em que procura.
-Intenção é Google Ads, busca orgânica local e, cada vez mais, as recomendações de IA (Gemini e ChatGPT já respondem "qual clínica popular perto de mim"). Atração é Meta Ads, com foco em remarketing: quem visitou o site e não agendou vê a clínica de novo no Facebook e no Instagram. O Facebook converte mais que o Instagram para o público de clínica popular. Isso se repete em dezenas de clínicas.
+- Estudo do público da região: quem procura clínica popular ali e o que pesa na escolha.
+- Proposta de valor, identidade visual local e tom das mensagens, num formato que a recepção repete sem decorar.
+- Ficha do Google arrumada e rotina de avaliações com meta acima de 4.8.
 
-Começar pelo Instagram. Gastar meses e verba em seguidores enquanto o concorrente que aparece no Google leva o paciente que estava procurando. O segundo erro é aplicar o modelo do dermatologista: campanha de marca, conteúdo bonito, sem rastreio de quem virou paciente.
+A sua clínica é escolhida por ser a mais barata da região.
 
-- Campanhas de Google Ads e Meta Ads ativas e calibradas para clínica local.
-- Site rápido no celular, estruturado para o Google e para ser lido por IA generativa.
-- Quatro matérias de base para a busca orgânica.
-- Remarketing ligado desde o primeiro dia.
+## Demanda qualificada
 
-## Liderança Local
+Chegar no paciente certo, pelo canal certo.
 
-O paciente da clínica popular quer quatro coisas: preço, rapidez, proximidade e confiança. Os canais resolvem o preço e a rapidez. Este pilar resolve os outros dois. A ficha do Google (o antigo Google Meu Negócio) funciona como GPS e como validador: endereço, rota, horário, fotos, avaliações. Uma ficha com nota acima de 4.8 e volume de avaliações faz o Google empurrar a clínica para cima sem custo de mídia. O Instagram entra como vitrine: o paciente chega pelo Google, abre o perfil para ver se a clínica é de verdade, e decide.
+É aqui, e não antes, que entram anúncio e redes sociais, nos canais que trazem quem já procura clínica no bairro. Esse paciente digita "ultrassom perto de mim", abre o mapa, pergunta pro Google e, cada vez mais, pra IA. Por isso a verba vai primeiro pra busca e só depois pra Meta, com remarketing. Demanda qualificada é o contato que chega com cara de agendamento. Clique não conta.
 
-Pagar cada vez mais por anúncio enquanto a ficha do Google está com nota 3,4, fotos antigas e avaliações sem resposta. O concorrente que paga menos e tem ficha melhor aparece na frente. Outro erro é comprar seguidores ou tratar o Instagram como se fosse o canal de captação.
+- Campanhas de busca e de Meta calibradas pra clínica local, com remarketing ligado junto com a campanha, não depois.
+- Site rápido no celular, feito pra busca e legível por IA.
+- Presença orgânica local e Instagram como vitrine, e só como vitrine: o paciente acha a clínica na busca e abre o Instagram pra confirmar que ela existe.
 
-- Ficha do Google otimizada e disputando as três primeiras posições da região.
-- Estratégia de captação de avaliações com meta acima de 4.8.
-- Instagram arrumado: bio direta, destaques com serviços, horários, contato e localização, e conteúdo que mostra que a clínica é do bairro.
+Você paga anúncio e não sabe quantos pacientes ele trouxe.
 
-## Inteligência Comercial
+## Cultura de venda
 
-O gargalo raramente é gerar contato. É perder o paciente que já chegou no caos do WhatsApp. A resposta é um CRM ligado ao WhatsApp Business oficial. Cada contato vira um card numa coluna: novo, em atendimento, orçamento enviado, agendado, compareceu, inativo. A primeira resposta sai em menos de 5 minutos, sem depender de a recepção estar livre, porque tempo de resposta é o fator que mais pesa na conversão da clínica popular. Quem disse "vou pensar" recebe follow-up. E a base de pacientes que já passou pela clínica vira a fonte mais barata de agendamento que existe.
+Conduzir quem chega até a cadeira.
 
-Automação pirata no WhatsApp. Quando o algoritmo da Meta detecta, o número é banido sem aviso e sem recurso. Clínica com milhares de contatos perde tudo de um dia para o outro. O segundo erro é o WhatsApp no celular pessoal da recepcionista, com 200 mensagens sem resposta e nenhum registro de quem pediu orçamento na semana passada.
+Com o paciente certo chegando, o trabalho passa pra recepção, e é aqui que a maioria das clínicas populares perde dinheiro sem ver: a mensagem que espera até de noite, o "quanto é?" respondido com o preço seco, o "vou pensar" que ninguém acompanha. Esse paciente manda mensagem pra três clínicas ao mesmo tempo e fecha com a primeira que responde direito. Quando a recepção deixa de só atender e passa a agendar, a clínica para de perder quem já tinha pago pra trazer.
 
-- CRM implantado e integrado ao WhatsApp. Funil em colunas.
-- Automação de primeira resposta. Follow-up automático para quem não respondeu.
-- Treinamento da recepção com script comercial e uso do CRM.
-- Estratégia de reativação da base de pacientes inativos.
+- CRM no WhatsApp da recepção, pra ninguém sumir no meio das mensagens.
+- Resposta em menos de 5 minutos e script pra conduzir o "quanto é?" até o horário.
+- Follow-up de quem pediu orçamento e reativação de quem já passou pela clínica, que custa muito menos do que trazer paciente novo por anúncio.
 
-## Previsibilidade
+O "quanto é?" recebe só o preço, e ninguém volta em quem sumiu.
 
-Um painel no celular, atualizado em tempo real, com o que interessa: CAP por canal, retorno por canal, agendamentos feitos e perdidos, faturamento do dia e do período, investimento feito, funil completo do clique ao pagamento. O painel também é ferramenta de diagnóstico. Se a queda grande está entre clique e agendamento, o problema é comunicação ou recepção. Se está entre agendamento e comparecimento, o problema é confirmação e follow-up.
+## Controle
 
-Decidir por sensação: a semana foi boa, a outra foi ruim e ninguém sabe explicar por quê. Alguém acha que o Google está rendendo mais, mas ninguém tem o número. Sem o custo de cada canal, a clínica corta o que estava rendendo e mantém o que drena. O outro erro é aceitar como controle um PDF mensal de cliques e alcance.
+Colocar tudo em número e saber onde mexer.
 
-- Painel mobile com CAP, retorno, agendamentos, faturamento e funil.
-- Relatório de origem por canal: de onde veio cada paciente.
-- Leitura simples, sem precisar de analista.
+A régua é o custo de aquisição de paciente: quanto a clínica pagou pra um paciente chegar, agendar, comparecer e pagar. Clique e contato ficam bonitos no relatório, mas não são dinheiro no caixa. Controle é o dono saber, toda semana, quanto custou cada paciente e por qual canal chegou, e decidir com número em vez de no achismo. O número também aponta o gargalo: queda entre contato e agendamento é problema de recepção; entre agendamento e comparecimento, é falta de confirmação e follow-up; e quando o contato nem chega, o ajuste é lá na etapa 2.
 
-## Por que os quatro juntos
+- Painel no celular com o custo de cada paciente por canal.
+- Funil inteiro, do clique ao pagamento, com a origem de cada paciente rastreada.
+- Uma leitura semanal simples, sem analista, que diz se o mês vai fechar.
 
-Campanha boa com WhatsApp desorganizado é pagar pelo paciente e perder na resposta. Já um CRM bem montado numa clínica com ficha do Google fraca recebe contato de quem desconfia e não agenda. E dá para ter tudo isso e ainda gastar no lugar errado, porque sem painel ninguém sabe qual parte está falhando. Os quatro pilares se alimentam: o canal traz o paciente, a presença local convence, o CRM converte e segura, e o painel diz onde vai o próximo real. Por isso a gente não implanta um pilar só.
+Você não sabe quanto custa cada paciente da sua clínica.
 
-- -53% : no CAP médio: de R$ 28,80 para R$ 13,60
-- 2,5× : mais pacientes com a mesma verba de mídia
-- 2 : meses, no máximo, para a implantação se pagar
+## Por que a gente não implanta uma etapa só
 
-## Perguntas frequentes
+Onde a maioria erra é começar pela etapa 2 sem a 1 e sem a 3. Anúncio numa clínica que ainda não sabe dizer por que vale a pena traz quem compara preço; anúncio numa recepção sem processo traz contato que ninguém responde. Nos dois casos o dinheiro vira clique. Por isso a implantação começa pela etapa que está travando e monta as outras em cima dela.
+
+## O método é pra clínica que já tem movimento e não tem ordem
+
+Cinco perguntas. Cada "sim" aponta a etapa que está travando.
+
+- A sua clínica é escolhida por ser a mais barata da região?: 1 · Posicionamento
+- Você paga anúncio e não sabe quantos pacientes ele trouxe?: 2 · Demanda
+- O "quanto é?" recebe só o preço, e ninguém volta em quem sumiu?: 3 · Cultura de venda
+- Cada atendente responde de um jeito?: 3 · Cultura de venda
+- A verba do mês é decidida pela sensação da semana passada?: 4 · Controle
+
+Respondeu sim a uma: é por aí que a gente começaria. Sim a três ou mais: o problema é a falta do conjunto.
+
+## O que muda quando as 4 etapas estão rodando
+
+- -53%: no custo de aquisição de paciente: de R$ 28,80 pra R$ 13,60, antes e depois da implantação
+- 2,5×: mais pacientes com o mesmo investimento em mídia
+- 2: meses, em média, até a implantação se pagar
+- +100: clínicas populares rodando o método
+
+Médias dos casos acompanhados pela ClintIA antes e depois da implantação. O resultado de cada clínica depende da operação dela.
+
+## Implantado pela nossa equipe ou aplicado por você. O método é o mesmo.
+
+Anúncio é uma parte pequena disso e só entra na etapa 2. O que muda entre os três caminhos é quem executa e o tamanho da operação.
+
+- Implantado pela nossa equipe PROClip: As 4 etapas rodando na sua clínica em 45 dias, implantadas pela nossa equipe. Você valida informação e aprova o que vai ao ar.
+- Aplicado por você O Manual da Clínica Popular: O método escrito, etapa por etapa, com checklist por capítulo, portal e comunidade com mais de 80 donos de clínica popular. Pra aplicar com a própria equipe.
+- Pra rede e multiunidade Projetos sob medida: Gestão comercial completa, treinamento de recepção e pré-venda, posicionamento e identidade. Começa por um diagnóstico da operação.
+
+## Perguntas diretas, respostas diretas
 
 ## Quer ver como isso fica na sua clínica?
 
-### O CLIP serve para consultório de um médico só?
+A Sessão Estratégica são 30 minutos. Você traz quantos pacientes procuram por mês, quantos fecham e quanto gasta em mídia. A gente diz em qual etapa a sua clínica está travando e o que dá pra fazer nos próximos 45 dias.
 
-Foi feito para clínica popular, policlínica e centro de diagnóstico: operação de volume, ticket entre R$ 60 e R$ 150, mais de um profissional. Consultório de alto padrão tem outra economia e outros canais. Nesse caso a gente prefere indicar outro caminho.
+### O método serve pra consultório de um médico só?
 
-### Preciso ter site?
+Foi feito pra clínica popular, policlínica e centro de diagnóstico: operação de volume, ticket entre R$ 60 e R$ 150, mais de um profissional. Consultório com ticket acima de R$ 300 é outro negócio, com outros canais e outra conta. A gente diz isso na primeira conversa em vez de forçar o método onde ele não cabe.
 
-Sim, e ele faz parte da implantação. Sem site rápido, estruturado para busca e legível por IA, a campanha manda o paciente para um lugar que não converte e a clínica não aparece nas recomendações orgânicas. O Instagram não substitui o site nesse papel.
+### Dá pra implantar só uma etapa? Só o CRM, por exemplo.
+
+A gente não recomenda. CRM numa clínica que ninguém procura organiza o vazio, e campanha numa recepção sem processo paga pra perder. Qual etapa entra primeiro muda de clínica pra clínica, e é isso que a Sessão Estratégica descobre.
 
 ### Quanto preciso investir em mídia?
 
-Depende da cidade e da especialidade, e isso se define no diagnóstico. O que o método não pede é aumentar a verba: a lógica é fazer a mesma verba trazer mais paciente, reduzindo o CAP.
-
-### Funciona em cidade pequena?
-
-Já foi implantado em capital e em cidade do interior de 13 estados. O modelo econômico da clínica popular é parecido em todo o Brasil. Muda o volume de busca, e isso a gente calibra na primeira semana.
-
-### Qual a diferença entre o PROClip e o Manual?
-
-O mesmo método, com dois níveis de entrega. No PROClip a equipe da ClintIA implanta tudo em 45 dias. No Manual o dono recebe o método documentado, com planilhas e scripts, e aplica na própria clínica, com o apoio de uma comunidade de outros donos.
+Depende da cidade e da especialidade, e isso se define no diagnóstico. O que o método não pede é aumentar a verba. A lógica é fazer a mesma verba trazer mais paciente, reduzindo o custo de cada um. O número está logo acima.
 
 ---
 
-# A infraestrutura comercial da sua clínica popular, implantada e funcionando em 45 dias
+# Três jeitos de colocar o método pra rodar na sua clínica popular
 
-URL: https://clintia.com.br/proclip/
+URL: https://clintia.com.br/solucoes/
 
-Programa Done For You: Google Ads, WhatsApp com resposta em 5 minutos, CRM e painel de CAP implantados em 45 dias. Sem fidelidade. Agende uma sessão.
+PROClip, O Manual da Clínica Popular e projetos sob medida pra rede: o mesmo método em 4 etapas, com três jeitos de entrar. Veja qual é o seu.
 
-Campanhas no Google e no Meta, ficha do Google otimizada, CRM ligado ao WhatsApp, recepção treinada e painel com o custo de cada paciente por canal. Você aprova. A gente executa.
+Com a nossa equipe, por conta própria ou desenhado pra sua rede. O método é o mesmo nos três: posicionamento forte, demanda qualificada, cultura de venda e controle, nessa ordem. O que muda é quem executa, em quanto tempo e pra que tamanho de operação.
 
-- -53% : no custo de aquisição de paciente: de R$ 28,80 para R$ 13,60
-- 2,5× : mais pacientes com a mesma verba de mídia
-- 2 : meses, no máximo, para a implantação se pagar
-- 45 : dias de prazo contratual de implantação
+## O que muda de um caminho pro outro
 
-## O que é o PROClip
+- Quem executa | PROClip: A equipe da ClintIA, dentro da sua clínica. Você valida e aprova. | O Manual da Clínica Popular: Você, com a equipe que já tem, seguindo o passo a passo. | Projetos sob medida: A equipe da ClintIA, com um desenho próprio pra sua rede.
+- Prazo | PROClip: 45 dias de implantação. | O Manual da Clínica Popular: Acesso imediato. O ritmo é o seu, capítulo a capítulo. | Projetos sob medida: Definido no diagnóstico, unidade por unidade.
+- Pra quem é | PROClip: "A clínica atende, o WhatsApp apita e você não tem braço pra montar isso." | O Manual da Clínica Popular: "Você quer entender o método e aplicar com a sua equipe, no seu ritmo." | Projetos sob medida: "Você tem mais de uma unidade e cada uma vende de um jeito."
+- O que você recebe | PROClip: As 4 etapas montadas e funcionando: posicionamento, canais de demanda, processo na recepção e painel com o custo de cada paciente. | O Manual da Clínica Popular: O método escrito, as ferramentas de cada etapa, o portal e a comunidade de donos de clínica popular. | Projetos sob medida: Gestão comercial completa, recepção e pré-venda treinadas, marca e posicionamento da rede.
+- Próximo passo | PROClip: Sessão Estratégica de 30 minutos. | O Manual da Clínica Popular: Página do Manual. | Projetos sob medida: Conversa sobre o projeto.
 
-O PROClip é a implantação dos quatro pilares do método CLIP dentro de uma clínica popular, policlínica ou centro de diagnóstico, com prazo contratual de 45 dias. A diferença para agência é o que fica pronto no fim: uma estrutura de aquisição e atendimento que a clínica passa a operar, com número de cada canal na mão. A diferença para consultoria é que a equipe da ClintIA faz, não recomenda.
-Quem contrata não para de trabalhar para implantar. O dono valida informações, aprova criativos e envia acessos por formulário. O resto é nosso.
+## PROClip: o método rodando na sua clínica em 45 dias
 
-## O que a equipe implanta
+O PROClip é a nossa equipe montando as 4 etapas dentro da sua operação, em 45 dias. Nas duas primeiras semanas a gente entende a clínica e escreve o posicionamento: quem é o paciente, qual é o carro-chefe, como a clínica se apresenta pra quem procura. Depois entram os canais de demanda, o processo comercial na recepção e o número de cada canal na mão do dono.
+O dono não para de trabalhar pra implantar. Da parte dele, uma reunião de onboarding, os acessos enviados por formulário e a aprovação do que vai ao ar.
+É pra clínica popular, policlínica ou centro de diagnóstico que já tem procura e ainda não tem processo. Começa com uma conversa de 30 minutos com a nossa equipe sobre os números da clínica.
 
-Toda comunicação passa por auditoria antes de ir ao ar, com checklist de conformidade aplicado a cada criativo. O medo de autuação é legítimo. Por isso a auditoria faz parte do método e não é opcional.
+## O método no papel, pra aplicar com a equipe que você já tem
 
-- C Canais de Aquisição:
-- L Liderança Local:
-- I Inteligência Comercial:
-- P Previsibilidade:
+O Manual é o mesmo método, organizado na mesma ordem das 4 etapas, pra quem vai aplicar por conta própria. Cada capítulo termina num checklist "faça hoje". E dá pra começar a aplicar no mesmo dia pelo WhatsApp da recepção, que é onde a maior parte das clínicas perde paciente sem perceber: o script pronto vem junto com o Manual.
+Junto com o texto vem o portal, com as ferramentas de cada etapa: scripts de WhatsApp pra recepção, a planilha de custo por paciente por canal, o checklist da ficha do Google e os cinco números pra olhar toda segunda-feira. E vem a primeira comunidade de donos de clínica popular, com mais de 80 membros, onde quem já aplica troca o que funcionou e o que deu errado.
+É a porta de entrada da ClintIA: o jeito de ver o método por dentro antes de chamar a equipe. O acesso e o valor vigente ficam na página oficial do Manual.
 
-## Para quem é o PROClip
+## Quando a clínica virou rede, o sistema é desenhado pra ela
 
-Clínica popular, policlínica ou centro de diagnóstico com pelo menos um ano de operação e faturamento entre R$ 15 mil e R$ 200 mil por mês. Em geral, com pelo menos um especialista parceiro além do dono, boa parte da receita vindo de convênio e o comercial rodando em planilha ou no WhatsApp da recepção. Quem já pagou agência e nunca conseguiu ligar o relatório com paciente na cadeira costuma reconhecer o problema na primeira conversa.
-Também faz sentido para quem quer estruturar cartão de benefícios como receita recorrente e não tem processo de venda e renovação.
-Não é para consultório de alto padrão, clínica que ainda vai abrir, nem para quem quer alguém cuidando do Instagram por um valor baixo ao mês.
+Rede que cresceu tem um problema que a clínica de uma unidade não tem: cada recepção vende de um jeito, o que funciona numa unidade não chega na outra e o dono não consegue comparar. O PROClip resolve a operação de uma clínica, com uma ou poucas unidades do mesmo dono. Pra rede, o desenho é outro, e começa por um diagnóstico da operação, unidade por unidade.
 
-## O que costuma acontecer
+### O que a gente entrega nesses projetos
 
-Nas clínicas em que o método foi implantado, o custo de aquisição de paciente caiu de uma média de R$ 28,80 para R$ 13,60, uma redução de 53%. Com a mesma verba de mídia, a clínica passou a atender cerca de 2,5 vezes mais pacientes. O investimento na implantação costuma se pagar em até dois meses. A partir daí, o ganho é da clínica.
-O resultado de cada clínica depende da operação dela: especialidade, cidade, recepção, verba. Por isso a proposta é feita com os seus números, não com essa média.
+- **Gestão comercial completa da rede.** Um processo só de atendimento e venda em todas as unidades, o mesmo CRM, número por unidade e a comparação entre elas que hoje não existe. A gente monta o processo e acompanha a operação da rede durante o projeto, com escopo e prazo definidos no diagnóstico.
+- **Treinamento de recepção e de equipe de pré-venda.** Quem responde o WhatsApp antes da recepção (o SDR, na linguagem do mercado), o que responde, em quanto tempo e como conduz até o agendamento. Treinamento com script, fila de atendimento e acompanhamento nas semanas seguintes.
+- **Posicionamento e identidade da marca.** Como a rede se apresenta pra quem procura clínica popular, da fachada à comunicação, pra ser a escolha do bairro em cada unidade sem entrar na guerra de preço.
 
-## Como começa
+Não existe pacote nem tabela pra isso. Cada projeto tem escopo e prazo próprios, definidos depois do diagnóstico.
 
--  Sessão Estratégica (30 minutos): Conversa com o Bernardo sobre os números da sua clínica: quantos procuram, quantos fecham, quanto de no-show, de onde vêm os pacientes hoje, quanto vai para mídia. Se não fizer sentido, a gente diz.
--  Diagnóstico e proposta: Você recebe por escrito o que a gente faria, em que ordem e o que espera de resultado, com os dados da sua operação.
--  Assinatura e primeiro contato em 24 horas: Depois da assinatura, a gerente de operações entra em contato em até 24 horas para marcar a reunião de onboarding.
--  Onboarding: Uma reunião gravada com o dono ou sócio para levantar carro-chefe, perfil de paciente, objeções que a recepção ouve todo dia e diferenciais reais. Acessos vêm depois, por formulário, sem pedir senha ao vivo.
--  Os 45 dias: Semanas 1 e 2: diagnóstico e setup técnico (ficha do Google, CRM, automação do WhatsApp). Semanas 3 e 4: campanhas no Google e no Meta no ar, estrutura para busca e IA. Semanas 5 e 6: calibragem de CAP, ajustes de funil e treinamento da recepção.
--  Do dia 46 em diante: A estrutura fica com a clínica. Quem quiser a ClintIA na gestão contínua contrata um plano mensal a partir do terceiro mês, sem fidelidade, com aviso de 30 dias para encerrar.
-
-## O que a gente precisa de você
-
-Uma reunião de onboarding de cerca de 45 minutos. Logotipo em boa resolução. Acessos ao gerenciador de negócios da Meta, ao Instagram, ao domínio e ao sistema que a clínica já usa, enviados por formulário e preenchíveis pela secretária ou pelo administrativo. Validação de informações e aprovação de criativos ao longo do prazo. No total, algumas horas distribuídas nos 45 dias.
-
-## Já tenho agência, CRM ou sistema de agendamento
-
-A gente olha o que existe antes de propor qualquer coisa. O que funciona fica e é integrado. O que a ClintIA constrói é o que costuma faltar: o rastreio do custo por paciente por canal, o CRM ligado ao WhatsApp e o painel. Se a agência atual não consegue dizer quanto custa cada agendamento pago, não é que ela seja ruim; é que essa estrutura não existe. É ela que a gente monta.
-
-## Investimento
-
-O valor da implantação depende do número de unidades e é apresentado na proposta, junto com o diagnóstico da sua clínica. O plano mensal, a partir do terceiro mês, é opcional e não tem fidelidade. Não existe multa de cancelamento; o aviso é de 30 dias.
-
-## Perguntas frequentes
+## Perguntas diretas, respostas diretas
 
 ## Vamos olhar os números da sua clínica
 
-### Em quanto tempo vejo resultado?
+Trinta minutos com a nossa equipe, sem custo. Você traz quantos pacientes procuram por mês, quantos fecham e quanto vai em mídia. A gente devolve um diagnóstico e diz qual dos três caminhos faz sentido, ou se nenhum faz agora.
 
-As campanhas entram no ar entre a terceira e a quarta semana. A calibragem de CAP acontece nas semanas 5 e 6. Nas clínicas em que o método foi implantado, o investimento se pagou em até dois meses. Quem promete resultado em uma semana está prometendo o que não controla.
+### Posso começar pelo Manual e contratar o PROClip depois?
 
-### Preciso aumentar a verba de mídia?
+Pode. O método é o mesmo, então nada do que você aplicou se perde. Na Sessão Estratégica a gente parte do que já está rodando na clínica e monta o que falta.
 
-Não. O método trabalha a eficiência da verba que já existe. Se a sua clínica ainda não investe em mídia, o valor inicial é definido no diagnóstico, de acordo com a cidade e a especialidade.
+### O PROClip serve pra rede?
 
-### O que acontece depois dos 45 dias?
+O PROClip foi desenhado pra clínica com uma ou poucas unidades do mesmo dono. Quando cada unidade tem recepção, meta e problema próprios, o desenho passa a ser sob medida, com o diagnóstico feito unidade por unidade.
 
-A estrutura é sua: campanhas, ficha do Google, CRM, painel. Quem quiser a ClintIA na gestão contínua contrata um plano mensal a partir do terceiro mês, sem fidelidade. Quem preferir tocar sozinho segue com o que foi implantado.
+### Vocês fazem só uma parte, tipo só tráfego ou só CRM?
 
-### Tenho medo de problema com o CFM.
+Não como serviço solto. O que já funciona na clínica entra no sistema; o que falta, a gente monta. Mas a entrega é o conjunto: anúncio sem recepção preparada vira clique caro, e CRM numa clínica que ninguém procura fica vazio.
 
-O medo faz sentido e é levado a sério. Toda comunicação passa por checklist de conformidade antes de ir ao ar. A regra é clara: nada de prometer resultado de tratamento, de se comparar com concorrente ou de apelar para sensacionalismo.
+### Qual a diferença entre o PROClip e um projeto sob medida?
 
-### Minha recepção vai dar conta?
+O PROClip tem escopo fechado e prazo de 45 dias, pensado pra clínica com uma ou poucas unidades do mesmo dono. O projeto sob medida nasce do diagnóstico da rede e junta o que ela precisa: gestão comercial, treinamento, posicionamento. Escopo e prazo são definidos depois de olhar cada unidade.
 
-A recepção recebe treinamento com script comercial e uso do CRM, e a automação cobre a primeira resposta e o follow-up sem depender de alguém estar livre. A responsabilidade pelo conjunto é nossa. Não vale dizer no fim que "não deu certo porque a recepção não executou".
+### Por onde começar se a clínica ainda não investe em mídia?
+
+Pelo posicionamento, que é a etapa 1 em qualquer um dos três caminhos. Anúncio só entra na etapa 2, depois que a clínica sabe quem é o paciente dela e como se apresenta pra ele. Se a clínica já tem operação, a Sessão Estratégica diz se faz sentido entrar pelo PROClip ou começar pelo Manual.
 
 ---
 
-# O Manual da Clínica Popular
+# Sua clínica popular já tem procura. Em 45 dias a nossa equipe monta o que falta pra ela virar operação previsível.
+
+URL: https://clintia.com.br/proclip/
+
+A nossa equipe implanta o método em 4 etapas dentro da sua clínica popular em 45 dias: posicionamento, demanda, recepção que agenda e número na mão.
+
+Posicionamento, demanda qualificada, recepção que agenda e número na mão, colocados pra rodar com a equipe que você já tem. Você aprova o que vai ao ar; a execução é nossa.
+
+Sem aumentar a verba de mídia e sem parar a clínica pra implantar.
+
+- -53%: no custo de aquisição de paciente: de R$ 28,80 pra R$ 13,60, antes e depois da implantação
+- 2,5×: mais pacientes com o mesmo investimento em mídia
+- 2: meses, em média, pra implantação se pagar nas clínicas implantadas
+- +100: clínicas populares rodando o método
+
+CAP é o custo de aquisição de paciente: quanto a clínica pagou pra um paciente chegar, agendar e pagar. Não conta clique nem contato. As médias vêm das clínicas em que o método foi implantado. O resultado de cada clínica depende da operação dela, e por isso a proposta é feita com os seus números, não com essa média.
+
+## A diferença está no que fica pronto no fim
+
+Agência costuma entregar campanha e relatório; consultoria, um plano que fica na gaveta. No PROClip, o que fica pronto no fim são as 4 etapas funcionando dentro da clínica: a clínica posicionada pra quem procura, os canais de demanda no ar, a recepção com processo pra conduzir até o agendamento e o painel com o custo de cada paciente por canal. Tudo montado pela nossa equipe, com a estrutura e as pessoas que já existem na sua clínica.
+Quem contrata não para de trabalhar pra implantar. Montar o conjunto, treinar a recepção e deixar tudo rodando é responsabilidade nossa. O que a gente pede da clínica está no cronograma, mais abaixo.
+O método é o que as grandes redes de clínica popular usam pra crescer, como Amor Saúde e Dr. Consulta, ajustado pro tamanho de uma clínica de bairro e implantado em mais de 100 clínicas populares, em 13 estados.
+
+Marcas citadas como referência pública de modelo de negócio. Não há vínculo, parceria ou endosso entre elas e a ClintIA.
+
+## As 4 etapas, dentro da sua clínica
+
+Uma etapa alimenta a outra, e a ordem é essa. Abaixo, o que a nossa equipe monta em cada uma ao longo dos 45 dias, e o que muda na clínica quando a etapa está de pé.
+
+- 1 Posicionamento forte: Ser a escolha de quem procura clínica popular. O que muda: quem pesquisa clínica no bairro acha a sua primeiro e entende por que ela, e não a esquina.
+  - Leitura do público e do carro-chefe da clínica: quem é o paciente, o que ele procura, quanto cabe no bolso dele e por que ele escolheria você e não a esquina.
+  - Proposta de valor e diferenciais reais, por escrito, pra toda comunicação sair do mesmo lugar.
+  - Ficha do Google otimizada e estratégia de avaliações, com meta acima de 4.8. É a primeira coisa que o paciente vê e o que confirma que a clínica é séria.
+  - Instagram organizado como vitrine: bio, destaques e identidade local. Quem acha a clínica no Google abre o Instagram pra confirmar que ela existe.
+- 2 Demanda qualificada: Chegar no paciente certo, pelo canal certo. O que muda: a verba vai pra quem já procura consulta, e o custo por paciente de cada canal aparece na tela.
+  - Campanhas no Google pra quem já está procurando consulta, exame ou clínica no seu bairro. É o canal de intenção, e é por ele que a maior parte da verba entra.
+  - Campanhas no Meta com remarketing: quem visitou e não agendou volta a ver a clínica.
+  - Site rápido no celular, estruturado pra busca e pra leitura por IA generativa, que hoje já responde "qual clínica popular perto de mim".
+  - Quatro matérias de base pro Google orgânico.
+  - Auditoria de conformidade com o CFM em toda comunicação, antes de ir ao ar.
+- 3 Cultura de venda: Conduzir quem chega até a cadeira. O que muda: o "quanto é?" recebe resposta em menos de 5 minutos e vira agendamento, não preço seco.
+  - CRM ligado ao WhatsApp Business oficial, com funil em colunas: novo, em atendimento, orçamento enviado, agendado, compareceu, inativo.
+  - Primeira resposta em menos de 5 minutos, automática, sem depender de alguém estar livre.
+  - Follow-up automático pra quem pediu preço e sumiu.
+  - Treinamento da recepção: o que responder no "quanto é?", como conduzir até o agendamento e como usar o CRM no dia a dia.
+  - Reativação da base: os pacientes que já passaram pela clínica e não voltaram.
+- 4 Controle: Colocar tudo em número e saber onde mexer. O que muda: a decisão de verba sai do achismo e vai pro número de cada canal.
+  - Painel no celular, em tempo real: custo por paciente por canal, retorno, agendamentos, faturamento e o funil do clique ao pagamento.
+  - Origem de cada paciente rastreada por canal. Acaba o "foi indicação" como resposta pra tudo.
+  - Leitura simples, sem analista. O dono abre o celular e sabe se o mês vai fechar.
+  - Calibragem do custo por paciente nas últimas semanas, com os números reais da clínica, e a leitura do funil pra saber se o ajuste é na demanda ou na recepção.
+
+### Dentro das normas do CFM
+
+O medo de autuação é legítimo, e por isso a auditoria não é opcional: toda comunicação passa por checklist de conformidade antes de ir ao ar. A regra é clara: nada de prometer resultado de tratamento, de se comparar com concorrente ou de apelar pro sensacionalismo.
+
+## Do primeiro contato ao primeiro dia de implantação
+
+- Sessão Estratégica (30 minutos): Conversa com a nossa equipe sobre os números da sua clínica: quantos procuram, quantos fecham, quanto de no-show, de onde vêm os pacientes hoje, quanto vai pra mídia.
+- Diagnóstico e proposta: Você recebe por escrito o que a gente faria, em que ordem e o que espera de resultado, com os dados da sua operação.
+- Assinatura e onboarding: Depois da assinatura, a liderança de operações marca o onboarding em até 24 horas. O detalhe está no cronograma abaixo.
+
+## O que acontece em cada semana dos 45 dias
+
+O cronograma segue a ordem das etapas: primeiro a base e o posicionamento, depois a demanda, depois o comercial na recepção e, por fim, o número. É o roteiro padrão dos 45 dias; o cronograma da sua clínica vem na proposta.
+
+- Semanas 1 e 2 · Base e posicionamento (etapa 1): **A equipe:** kickoff com acessos e cronograma; onboarding gravado; leitura do público e do carro-chefe; proposta de valor e diferenciais por escrito; ficha do Google e estratégia de avaliações; Instagram como vitrine.
+
+**O dono:** participa do onboarding, envia logo e acessos por formulário, valida as informações da clínica.
+- Semanas 3 e 4 · Demanda no ar (etapa 2): **A equipe:** site rápido no celular, estruturado pra busca e pra IA; campanhas no Google e no Meta no ar; quatro matérias de base; checklist do CFM em cada criativo antes de publicar.
+
+**O dono:** aprova os criativos e o que vai ao ar. Nada é publicado sem esse aval.
+- Semanas 5 e 6 · Recepção e número (etapas 3 e 4): **A equipe:** CRM ligado ao WhatsApp, com automação da primeira resposta e follow-up; treinamento da recepção com script e uso do CRM; reativação da base; calibragem do custo por paciente com os números reais; painel no ar e lido junto com o dono.
+
+**O dono:** libera a recepção pro treinamento e passa a olhar o painel com a gente, toda semana.
+
+No total, o que a gente precisa do dono são algumas horas distribuídas ao longo dos 45 dias. A clínica não para em nenhum momento.
+
+## O que muda quando a implantação termina
+
+A estrutura fica com a clínica: campanhas no ar, ficha do Google ganhando avaliação, recepção com script e processo, base de pacientes organizada. A recepção sabe o que responder e em quanto tempo. O dono abre o celular na segunda-feira e sabe onde mexer, sem esperar o fim do mês.
+O que muda de verdade é a decisão: ela deixa de ser no achismo. Antes, "acho que o Google está funcionando melhor". Depois, o número de cada canal na tela, dizendo onde colocar mais verba e onde cortar.
+
+## O PROClip foi feito pra clínica que já roda e precisa de sistema
+
+### Faz sentido pra
+
+- Clínica popular, policlínica ou centro de diagnóstico com pelo menos um ano de operação.
+- Dono que já pagou agência e nunca conseguiu ligar o relatório com paciente na cadeira.
+- Clínica em que boa parte da receita vem de convênio e o dono quer construir base própria de paciente particular.
+- Quem quer estruturar cartão de benefícios como receita recorrente e não tem processo de venda e renovação.
+- Quem quer saber de onde vem cada paciente e quanto custou, e não relatório de clique e curtida.
+
+### Não faz sentido pra
+
+- Consultório premium com ticket acima de R$ 300: o modelo e os canais são outros.
+- Clínica que ainda vai abrir e não tem operação mínima.
+- Quem procura alguém pra cuidar do Instagram.
+- Quem espera resultado em uma semana, sem método e sem estrutura.
+- Quem quer dicas soltas, sem compromisso de montar a estrutura.
+
+Faturamento e número de especialistas parceiros a gente vê na Sessão.
+
+## Perguntas diretas, respostas diretas
+
+## Vamos olhar os números da sua clínica
+
+Trinta minutos com a nossa equipe, sem custo. Você sai com um diagnóstico e com uma resposta honesta sobre o que dá pra fazer em 45 dias, e sobre o que não vale a pena.
+
+### Em quanto tempo vejo resultado?
+
+As campanhas entram no ar entre a terceira e a quarta semana. A calibragem do custo por paciente acontece nas semanas 5 e 6. Nas clínicas em que o método foi implantado, a média foi de dois meses até a implantação se pagar. O resultado de cada clínica depende da operação dela, e é por isso que a proposta sai com os seus números. Quem promete resultado em uma semana está prometendo o que não controla.
+
+### Preciso aumentar a verba de mídia?
+
+Não. O método trabalha a eficiência da verba que já existe: nas clínicas implantadas, o custo médio por paciente caiu de R$ 28,80 pra R$ 13,60, e a mesma verba passou a trazer cerca de 2,5 vezes mais pacientes. Se a sua clínica ainda não investe em mídia, o valor inicial é definido no diagnóstico, de acordo com a cidade e a especialidade.
+
+### O que acontece depois dos 45 dias?
+
+A estrutura fica com a clínica: campanhas, ficha do Google, recepção treinada e a base organizada. Quem quiser a gente por perto na gestão do que foi implantado, com CRM e painel acompanhados pela equipe, conversa sobre isso na proposta.
+
+### Já tenho agência, CRM ou sistema de agendamento. Substitui ou soma?
+
+O que funciona fica e entra no sistema: o agendamento, a ficha do Google com avaliação, a campanha que traz paciente. O que a gente monta é o que costuma faltar: posicionamento por escrito, custo por paciente por canal, processo na recepção e painel.
+
+### Quanto custa?
+
+Sob proposta, junto com o diagnóstico. O valor depende do tamanho da operação. Não existe tabela pública porque não existe proposta de prateleira: cada uma sai com os números da clínica que a gente olhou.
+
+### E se der problema com o CFM?
+
+O medo é legítimo e é levado a sério: nenhuma peça vai ao ar sem passar pelo checklist de conformidade. O que gera autuação é anúncio prometendo cura ou comparando preço com a esquina, e é exatamente isso que o checklist barra.
+
+### Minha recepção vai dar conta?
+
+A recepção recebe treinamento com script e uso do CRM. A primeira resposta e o follow-up são automáticos, então ninguém precisa estar livre pra o paciente ser atendido. Se travar em algum ponto durante os 45 dias, a gente ajusta o processo. Manter a rotina depois é da clínica, e o treinamento é feito pra isso.
+
+### O Bernardo participa ou só vende?
+
+O Bernardo responde pelo diagnóstico e pelo plano de cada clínica que entra: a Sessão Estratégica é com a nossa equipe, e o que sai dela passa por ele antes da proposta. A implantação é feita pela equipe, com a liderança de operações centralizando a entrega e respondendo pelo prazo combinado.
+
+---
+
+# O Manual da Clínica Popular: o passo a passo das grandes redes, escrito pra clínica de bairro
 
 URL: https://clintia.com.br/manual/
 
-Ebook com o sistema comercial das grandes redes traduzido para a clínica popular: 9 capítulos, planilha de CAP, scripts de WhatsApp e comunidade de donos.
+O método em 4 etapas no papel, com as ferramentas de cada etapa, o portal e a primeira comunidade de donos de clínica popular. A porta de entrada.
 
-O método CLIP documentado para o dono que prefere implantar sozinho, com as planilhas, os scripts e uma comunidade de quem já está aplicando.
+As 4 etapas do método no papel, pra aplicar com a equipe que você já tem. Começa pelo WhatsApp da recepção.
 
-## O sistema comercial das grandes redes, no tamanho da sua clínica
+## O método no papel, na ordem certa
 
-O Manual é o sistema comercial que as grandes redes de clínica popular usam, traduzido para a operação de uma clínica independente. São 9 capítulos em 4 fases, cada um terminando com um checklist "faça hoje": a sequência de decisões que faz a agenda encher com custo conhecido, escrita por quem implantou isso em mais de 100 clínicas.
+Quase toda clínica popular que a gente entra tem procura. O que ela não tem é ordem: o "quanto é?" respondido com o preço seco, a mensagem que fica pra depois, o orçamento que ninguém acompanha, a verba de anúncio decidida no achismo. O Manual é o método que a nossa equipe implanta nas clínicas, escrito pra você aplicar por conta própria, na ordem em que as coisas precisam acontecer: entender o público e se posicionar, gerar a demanda certa, conduzir quem chega até a cadeira e, por fim, controlar tudo por número.
+Cada capítulo termina num checklist "faça hoje". Ler sem fazer não muda nada, e o Manual foi escrito pra ser feito. Sem aumentar a verba e sem solução mirabolante: você usa a estrutura e a equipe que já tem.
+É o mesmo processo que Amor Saúde, Dr. Consulta e as redes que abrem unidade atrás de unidade rodam pra crescer, no tamanho da sua clínica, escrito por quem colocou isso pra funcionar em mais de 100 clínicas populares.
 
-## O que vem junto
+Marcas citadas como referência pública de modelo de negócio. Não há vínculo, parceria ou endosso entre elas e este material.
 
-- O Manual, 9 capítulos em 4 fases
-- Planilha "conta de padaria" e CAP por canal
-- Scripts de resgate no WhatsApp: quem sumiu depois do orçamento, quem faltou, quem não vem há meses
-- Checklist para levar a ficha do Google acima de 4.8
-- Painel do Dono: os cinco números para olhar toda segunda-feira
-- Acesso ao portal e à comunidade, com mais de 80 donos de clínica popular
+## O que você aprende a fazer, etapa por etapa
 
-## Para quem é
+- **Posicionar a clínica no bairro** e se distanciar da concorrência sem entrar na guerra de preço. O paciente de clínica popular não compra o mais barato: compra o que cabe no bolso.
+- **Gerar demanda do paciente certo**, pelos canais que trazem quem já procura clínica no bairro, e fazer tráfego pago que traz paciente, não clique, com o custo por paciente na mão.
+- **Treinar a recepção pra cultura de venda**: scripts de WhatsApp e fila de atendimento pra conduzir até a cadeira, e um processo escrito de quem faz o quê, em quanto tempo, com que resultado.
+- **Enxergar os números da clínica**: os cinco números que dizem, toda segunda, se o mês vai fechar, e onde mexer quando não vai.
 
-É para o dono de clínica estabelecida que já investe em mídia e não sabe se está rendendo, e para quem quer entender o método antes de contratar qualquer serviço. Quem tem equipe para executar e só precisa do roteiro também se resolve com ele. Se a ideia é a implantação ser feita pela nossa equipe, o caminho é o [PROClip](/proclip/).
+## O Manual, as ferramentas de cada etapa e a comunidade
 
-## Sete dias de garantia incondicional
+- O Manual, o método em 4 etapas, na ordem certa
+- Planilha de custo por paciente por canal, a "conta de padaria" da clínica
+- Scripts de WhatsApp pra recepção: quem sumiu depois do orçamento, quem faltou, quem não vem há meses
+- Checklist pra levar a ficha do Google acima de 4.8
+- Os cinco números da segunda-feira, num painel simples
+- Portal com tudo num lugar só, no celular ou no computador
+- A primeira comunidade de donos de clínica popular, com mais de 80 membros, de 19 estados
 
-Se não fizer sentido para a sua clínica, você responde o e-mail de entrega e recebe o valor de volta, sem precisar justificar.
+## Se você se reconhece em duas destas, o Manual é o seu começo
 
-## O Manual está na página oficial
+- Chega mensagem o dia inteiro e o orçamento enviado ontem ninguém acompanhou.
+- Você paga anúncio e não sabe o que ele trouxe. Passa a calcular o custo por paciente em cada canal.
+- Você está começando a estruturar o comercial e precisa de demanda: a etapa 2 resolve aparecer pra quem procura clínica no seu bairro hoje.
+- Você quer entender o método antes de contratar qualquer serviço, inclusive o nosso.
 
-## Perguntas frequentes
+Não é pra quem quer terceirizar: o processo vem pronto, mas quem instala é você com a sua equipe. E não é pra quem espera resultado sem aplicar.
 
-### Qual a diferença entre o Manual e o PROClip?
+## Mesmo método. Muda quem executa.
 
-O método é o mesmo. No Manual, o dono aplica na própria clínica com o roteiro, as planilhas e os scripts. No PROClip, a equipe da ClintIA implanta tudo em 45 dias. Muita gente começa pelo Manual, aplica o que consegue e depois chama a equipe para o resto.
+No Manual, você aplica na própria clínica, com o roteiro, as ferramentas e a comunidade. No PROClip, quem monta é a nossa equipe, dentro da clínica, em 45 dias; da sua parte, o aval do que vai ao ar. Quem começa pelo Manual e depois quer a equipe executando não perde nada: o método é o mesmo, e a Sessão Estratégica parte do que já está rodando.
+
+## Bernardo Carneiro, fundador da ClintIA
+
+14 anos em marketing médico, formado em Estatística pela UFF. Veio da primeira empresa de marketing médico do Brasil, onde estruturou o setor digital e viu chegar, uma atrás da outra, clínica popular pedindo ajuda sem que existisse praticamente nada escrito sobre esse modelo. Estudou o que separa a clínica popular que dá certo da que não sai do lugar, transformou isso em método e o método virou a ClintIA. Mais de 250 clínicas estruturadas e mais de 100 rodando o método pelo Brasil. O Manual é esse método no papel.
+
+## Perguntas diretas, respostas diretas
+
+## Comece hoje, pelo WhatsApp da recepção
+
+O Manual, o portal e a comunidade estão em proclip.com.br/apostila. Lá tem o vídeo de três minutos que explica o método.
+
+### Preciso de equipe pra aplicar?
+
+Precisa da equipe que já tem. O Manual foi escrito pra ser aplicado com a recepção que existe hoje, começando pelo WhatsApp. Não pede contratação nem aumento de verba.
 
 ### Quanto custa?
 
 O valor vigente está sempre na página do produto, em proclip.com.br/apostila.
-
-### Como recebo?
-
-O acesso é imediato depois do pagamento aprovado: o PDF e o acesso ao portal com os bônus e a comunidade.
 
 ---
 
@@ -374,9 +623,9 @@ O acesso é imediato depois do pagamento aprovado: o PDF e o acesso ao portal co
 
 URL: https://clintia.com.br/contato/
 
-Agende uma Sessão Estratégica gratuita ou fale pelo WhatsApp com a equipe ClintIA. Atendemos clínicas populares em todo o Brasil.
+WhatsApp, e-mail e a Sessão Estratégica: 30 minutos, sem custo, olhando os números da sua clínica popular antes de qualquer proposta. Todo o Brasil.
 
-O caminho mais rápido é o WhatsApp. Se for para falar da sua clínica, melhor ainda: agende a Sessão Estratégica e a conversa já começa pelos números.
+O caminho mais rápido é o WhatsApp. Se o assunto é a sua clínica, melhor ainda: agende a Sessão Estratégica e a conversa já começa pelos números.
 
 ### Vocês respondem em quanto tempo?
 
@@ -384,11 +633,15 @@ No WhatsApp, dentro do horário comercial, no mesmo dia. E-mail em até um dia �
 
 ### Atendem clínica fora do Rio?
 
-Sim. A implantação é remota e já foi feita em clínicas de 13 estados.
+Sim. A implantação é remota e já rodou em clínicas de 13 estados, do Pará ao Rio Grande do Sul.
 
 ### Posso falar direto com o Bernardo?
 
-A Sessão Estratégica é com ele. Para dúvidas rápidas, o WhatsApp comercial é atendido pela equipe e, quando for o caso, encaminhado.
+O diagnóstico de toda clínica que entra passa por ele. A Sessão Estratégica é com a nossa equipe, e o WhatsApp comercial também: dúvida rápida é respondida na hora e, quando for o caso, encaminhada pra ele.
+
+### A Sessão Estratégica tem custo?
+
+Não. São 30 minutos olhando os números da sua clínica. Se não fizer sentido pra sua operação, a gente fala na hora.
 
 ---
 
@@ -423,7 +676,7 @@ Exemplo hipotético, a conta de padaria: se 20 pessoas perguntam preço por dia 
 
 Existem dois tipos de canal. O de **intenção** entrega a clínica para quem já está procurando: alguém digita "ultrassom perto de mim" e você aparece. O de **atração** vai atrás de quem não estava procurando nada: o anúncio no feed, o reel.
 
-O paciente de clínica popular busca ativamente. Isso decide a divisão da verba: no método CLIP, cerca de **70% vai para intenção** (Google Ads, busca orgânica local, Maps e IA) e **30% para atração** (Meta Ads, principalmente remarketing). A maioria das clínicas investe ao contrário.
+O paciente de clínica popular busca ativamente. Isso decide a divisão da verba: no método, cerca de **70% vai para intenção** (Google Ads, busca orgânica local, Maps e IA) e **30% para atração** (Meta Ads, principalmente remarketing). A maioria das clínicas investe ao contrário.
 
 O Instagram tem uma função: validar. O paciente acha a clínica no Google, abre o perfil por 30 segundos para conferir se ela existe e é do bairro, e volta para o WhatsApp. O perfil precisa estar limpo, com bio direta e destaques de serviços, horários e endereço, mas não gera caixa rápido.
 
@@ -526,7 +779,7 @@ Exemplo hipotético de uma clínica que investe R$ 3.000 por mês e passou a mar
 
 Nesse exemplo o dono descobre que a base rende três vezes mais barato que o Google e que o remarketing custa 50% mais que a busca para o que devolve. Sem a coluna de canal, a leitura seria "o marketing custa R$ 3.000 e a agenda está mais ou menos".
 
-Agora o número real. Nas clínicas que implantaram o método CLIP, o **CAP médio caiu de R$ 28,80 para R$ 13,60**, uma redução de 53%, com a mesma verba. Em média, essas clínicas passaram a atender **2,5 vezes mais pacientes com o mesmo investimento**. O método atua exatamente nos pontos deste texto: resposta em minutos, corte do canal caro, uso da base e medição por paciente que pagou.
+Agora o número real. Nas clínicas que implantaram o método, o **CAP médio caiu de R$ 28,80 para R$ 13,60**, uma redução de 53%, com a mesma verba. Em média, essas clínicas passaram a atender **2,5 vezes mais pacientes com o mesmo investimento**. O método atua exatamente nos pontos deste texto: resposta em minutos, corte do canal caro, uso da base e medição por paciente que pagou.
 
 Uma armadilha que só aparece quando se mede por canal: dá para faturar mais e ganhar menos. Uma rede que acompanhamos viu o faturamento subir enquanto a fatia de particular caía de 17% para 14%. Naquela operação, o convênio pagava cerca da metade do particular e custava o dobro para atender, então a margem caiu sem ninguém perceber olhando o caixa.
 
@@ -558,7 +811,7 @@ Na ordem: WhatsApp pronto para responder em menos de 5 minutos, perfil no Google
 
 ### Quanto custa fazer marketing para clínica popular?
 
-Não existe valor de tabela: guias de mercado sugerem um piso de poucos milhares de reais por mês em Google Ads, mas o número que importa é quanto custa cada paciente que pagou e foi atendido (CAP). Nas clínicas que implantaram o método CLIP, o CAP médio caiu de R$ 28,80 para R$ 13,60 com o mesmo investimento.
+Não existe valor de tabela: guias de mercado sugerem um piso de poucos milhares de reais por mês em Google Ads, mas o número que importa é quanto custa cada paciente que pagou e foi atendido (CAP). Nas clínicas que implantaram o método, o CAP médio caiu de R$ 28,80 para R$ 13,60 com o mesmo investimento.
 
 ### Pode divulgar o preço da consulta?
 
@@ -718,7 +971,7 @@ A régua que usamos é a contribuição do primeiro atendimento, o número da ta
 2. **CAP entre a metade e o total**: aceitável se a clínica mede o retorno e o paciente de fato volta. Exige CRM e follow-up funcionando.
 3. **CAP acima da contribuição do primeiro atendimento**: a clínica está pagando para atender. Só se justifica em procedimento com retorno certo, com a conta na mão.
 
-Como referência do que é possível: nas clínicas em que implantamos o método CLIP, o CAP médio saiu de R$ 28,80 para R$ 13,60, uma queda de 53%. Com a mesma verba de mídia, essas clínicas passaram a atender cerca de 2,5 vezes mais pacientes. O resultado varia com cidade, especialidade, recepção e verba, mas a ordem de grandeza mostra o ponto: em clínica popular, o CAP se mede em dezenas de reais. Quem mede com a régua do consultório acha que está bem quando está perdendo dinheiro.
+Como referência do que é possível: nas clínicas em que implantamos o método, o CAP médio saiu de R$ 28,80 para R$ 13,60, uma queda de 53%. Com a mesma verba de mídia, essas clínicas passaram a atender cerca de 2,5 vezes mais pacientes. O resultado varia com cidade, especialidade, recepção e verba, mas a ordem de grandeza mostra o ponto: em clínica popular, o CAP se mede em dezenas de reais. Quem mede com a régua do consultório acha que está bem quando está perdendo dinheiro.
 
 ## Como reduzir o CAP sem cortar a verba
 

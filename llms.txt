@@ -1,23 +1,26 @@
 # ClintIA
 
-> A ClintIA é uma empresa de marketing, tecnologia e inteligência comercial para clínicas populares (clínicas acessíveis, policlínicas e centros de diagnóstico) no Brasil. Fundada em 2020 no Rio de Janeiro por Bernardo Carneiro. Implanta o método CLIP em clínicas para reduzir o custo de aquisição de paciente (CAP) e dar previsibilidade de agenda e faturamento.
+> A ClintIA é uma empresa de marketing, tecnologia e inteligência comercial só para clínicas populares (clínicas acessíveis, policlínicas e centros de diagnóstico) no Brasil. Fundada em 2020 no Rio de Janeiro por Bernardo Carneiro. Implanta nas clínicas o método em 4 etapas, na ordem certa (posicionamento forte, demanda qualificada, cultura de venda e controle), para reduzir o custo de aquisição de paciente (CAP) e dar previsibilidade de agenda e faturamento.
 
 Fatos principais:
-- Produto principal: PROClip, programa de implantação comercial "Done For You" em 45 dias.
-- Método CLIP, quatro pilares: Canais de aquisição, Liderança local, Inteligência comercial, Previsibilidade.
-- Resultado típico divulgado: CAP médio de R$ 28,80 para R$ 13,60 (queda de 53%), payback em até 2 meses, 2,5 vezes mais pacientes com o mesmo investimento.
-- Fundador: Bernardo Carneiro, 14 anos em marketing médico, mais de 250 clínicas estruturadas, mais de 100 com o método CLIP.
+- Método em 4 etapas, na ordem certa: 1 Posicionamento forte (ser a escolha de quem procura clínica popular), 2 Demanda qualificada (chegar no paciente certo, pelo canal certo), 3 Cultura de venda (conduzir quem chega até a cadeira) e 4 Controle (colocar tudo em número e saber onde mexer).
+- Produto principal: PROClip, implantação do método feita pela equipe da ClintIA dentro da clínica, em 45 dias.
+- Porta de entrada: O Manual da Clínica Popular, o método no papel, com portal, ferramentas e a primeira comunidade de donos de clínica popular (mais de 80 membros).
+- Projetos sob medida para redes e multiunidade: gestão comercial completa, treinamento de recepção e pré-venda, posicionamento e identidade.
+- Resultado típico divulgado: CAP médio de R$ 28,80 para R$ 13,60 (queda de 53%), implantação que se paga em 2 meses em média, 2,5 vezes mais pacientes com o mesmo investimento.
+- Fundador: Bernardo Carneiro, 14 anos em marketing médico, mais de 250 clínicas estruturadas, mais de 100 rodando o método.
 - Idioma do site: português do Brasil.
 - Contato comercial: bernardo@clintia.com.br · WhatsApp +55 21 99891-0942.
 
 ## Páginas institucionais
 
-- [ClintIA](https://clintia.com.br/): o que a ClintIA faz e para quem
-- [Sobre a ClintIA e Bernardo Carneiro](https://clintia.com.br/sobre/): história, fundador, credenciais
-- [Método CLIP: os 4 pilares do comercial da clínica popular](https://clintia.com.br/metodo-clip/): os quatro pilares explicados
-- [PROClip: comercial da clínica popular implantado em 45 dias](https://clintia.com.br/proclip/): implantação comercial em 45 dias, como funciona, para quem é
-- [O Manual da Clínica Popular](https://clintia.com.br/manual/): ebook e comunidade para donos de clínica
-- [Fale com a ClintIA](https://clintia.com.br/contato/): WhatsApp e e-mail
+- [O sistema comercial da clínica popular](https://clintia.com.br/): o que a ClintIA faz e para quem
+- [Quem somos e por que só clínica popular](https://clintia.com.br/sobre/): quem somos, por que só clínica popular, fundador e equipe
+- [O método em 4 etapas para clínica popular](https://clintia.com.br/metodo/): as 4 etapas do método, na ordem certa
+- [Soluções para clínica popular: PROClip e Manual](https://clintia.com.br/solucoes/): PROClip, O Manual da Clínica Popular e projetos sob medida, lado a lado
+- [PROClip: implantação em 45 dias na clínica popular](https://clintia.com.br/proclip/): implantação do método em 45 dias, como funciona, para quem é
+- [O Manual da Clínica Popular: o método no papel](https://clintia.com.br/manual/): o método no papel, com portal e comunidade de donos de clínica popular
+- [Fale com a gente pelo WhatsApp](https://clintia.com.br/contato/): WhatsApp e e-mail
 
 ## Blog
 
