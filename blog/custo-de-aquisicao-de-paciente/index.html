@@ -1,0 +1,578 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Custo de aquisição de paciente: como calcular · ClintIA</title>
+<meta name="description" content="Como calcular o custo de aquisição de paciente por canal e por paciente atendido, cruzar com margem e mix convênio/particular e baixar sem cortar verba.">
+<link rel="canonical" href="https://clintia.com.br/blog/custo-de-aquisicao-de-paciente/">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+<meta name="theme-color" content="#051E32">
+<link rel="preload" as="font" type="font/woff2" crossorigin href="https://clintia.com.br/assets/fonts/red-hat-display-latin.woff2">
+<style>
+/* Red Hat Display self-host (fonte variavel, eixo wght 300-900, OFL): 2 arquivos WOFF2 no lugar das 2 conexoes do Google Fonts. Preload so do subset latin. */
+@font-face{font-family:"Red Hat Display";font-style:normal;font-weight:300 900;font-display:swap;src:url("https://clintia.com.br/assets/fonts/red-hat-display-latin.woff2") format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Red Hat Display";font-style:normal;font-weight:300 900;font-display:swap;src:url("https://clintia.com.br/assets/fonts/red-hat-display-latin-ext.woff2") format("woff2");unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+/* fallback com metricas ajustadas (reduz o pulo de layout na troca) */
+@font-face{font-family:"RHD Fallback";src:local("Arial"),local("Helvetica");size-adjust:104%;ascent-override:95%;descent-override:25%;line-gap-override:0%}
+</style>
+<link rel="stylesheet" href="https://clintia.com.br/assets/css/site.c6344228.css">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="ClintIA">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:title" content="Custo de aquisição de paciente é o número que separa faturar de lucrar">
+<meta property="og:description" content="Como calcular o custo de aquisição de paciente por canal e por paciente atendido, cruzar com margem e mix convênio/particular e baixar sem cortar verba.">
+<meta property="og:url" content="https://clintia.com.br/blog/custo-de-aquisicao-de-paciente/">
+<meta property="og:image" content="https://clintia.com.br/assets/og/blog/custo-de-aquisicao-de-paciente.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Custo de aquisição de paciente é o número que separa faturar de lucrar sobre fundo escuro com a marca ClintIA">
+<meta property="article:published_time" content="2026-09-25T09:00:00-03:00">
+<meta property="article:modified_time" content="2026-09-25T09:00:00-03:00">
+<meta property="article:author" content="https://clintia.com.br/sobre/#bernardo">
+<meta property="article:section" content="Números e previsibilidade">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Custo de aquisição de paciente é o número que separa faturar de lucrar">
+<meta name="twitter:description" content="Como calcular o custo de aquisição de paciente por canal e por paciente atendido, cruzar com margem e mix convênio/particular e baixar sem cortar verba.">
+<meta name="twitter:image" content="https://clintia.com.br/assets/og/blog/custo-de-aquisicao-de-paciente.png">
+<meta name="twitter:image:alt" content="Custo de aquisição de paciente é o número que separa faturar de lucrar sobre fundo escuro com a marca ClintIA">
+<link rel="icon" href="https://clintia.com.br/favicon.ico" sizes="32x32">
+<link rel="icon" type="image/png" sizes="192x192" href="https://clintia.com.br/assets/icons/favicon-192.png">
+<link rel="apple-touch-icon" href="https://clintia.com.br/assets/icons/favicon-180.png">
+<link rel="manifest" href="https://clintia.com.br/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="ClintIA · Blog" href="https://clintia.com.br/feed.xml">
+<link rel="author" href="https://clintia.com.br/sobre/#bernardo"><script>document.documentElement.classList.add('js')</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "BlogPosting", "@id": "https://clintia.com.br/blog/custo-de-aquisicao-de-paciente/#article", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://clintia.com.br/blog/custo-de-aquisicao-de-paciente/"}, "url": "https://clintia.com.br/blog/custo-de-aquisicao-de-paciente/", "headline": "Custo de aquisição de paciente: como calcular", "alternativeHeadline": "Custo de aquisição de paciente é o número que separa faturar de lucrar", "description": "Como calcular o custo de aquisição de paciente por canal e por paciente atendido, cruzar com margem e mix convênio/particular e baixar sem cortar verba.", "image": ["https://clintia.com.br/assets/og/blog/custo-de-aquisicao-de-paciente-16x9.webp", "https://clintia.com.br/assets/og/blog/custo-de-aquisicao-de-paciente-4x3.webp", "https://clintia.com.br/assets/og/blog/custo-de-aquisicao-de-paciente-1x1.webp"], "datePublished": "2026-09-25T09:00:00-03:00", "dateModified": "2026-09-25T09:00:00-03:00", "author": {"@id": "https://clintia.com.br/sobre/#bernardo"}, "publisher": {"@id": "https://clintia.com.br/#organization"}, "isPartOf": {"@id": "https://clintia.com.br/blog/#blog"}, "articleSection": "Números e previsibilidade", "keywords": ["custo de aquisição de paciente", "CAP", "CAC clínica", "como calcular o custo de aquisição de paciente", "custo por paciente google ads", "quanto custa um paciente novo", "CAC por canal clínica", "custo por agendamento clínica"], "wordCount": 2614, "inLanguage": "pt-BR", "isAccessibleForFree": true, "about": [{"@type": "Thing", "name": "Clínica popular"}, {"@type": "Thing", "name": "custo de aquisição de paciente"}, {"@type": "Thing", "name": "CAP"}]}, {"@type": "Person", "@id": "https://clintia.com.br/sobre/#bernardo", "name": "Bernardo Carneiro", "url": "https://clintia.com.br/sobre/", "jobTitle": "Fundador e CEO", "worksFor": {"@id": "https://clintia.com.br/#organization"}, "image": {"@type": "ImageObject", "url": "https://clintia.com.br/assets/img/avatar-bernardo-256.webp", "width": 256, "height": 256}}, {"@type": "Organization", "@id": "https://clintia.com.br/#organization", "name": "ClintIA", "url": "https://clintia.com.br/", "logo": {"@type": "ImageObject", "@id": "https://clintia.com.br/#logo", "url": "https://clintia.com.br/assets/logo/clintia-logo-horizontal-cor-600.png", "contentUrl": "https://clintia.com.br/assets/logo/clintia-logo-horizontal-cor-600.png", "width": 600, "height": 135, "caption": "ClintIA"}}, {"@type": "BreadcrumbList", "@id": "https://clintia.com.br/blog/custo-de-aquisicao-de-paciente/#breadcrumb", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Início", "item": "https://clintia.com.br/"}, {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://clintia.com.br/blog/"}, {"@type": "ListItem", "position": 3, "name": "Números e previsibilidade", "item": "https://clintia.com.br/blog/categoria/numeros-e-previsibilidade/"}, {"@type": "ListItem", "position": 4, "name": "CAP separa faturar de lucrar"}]}, {"@type": "FAQPage", "@id": "https://clintia.com.br/blog/custo-de-aquisicao-de-paciente/#faq", "mainEntity": [{"@type": "Question", "name": "O que é CAC ou CAP na saúde?", "acceptedAnswer": {"@type": "Answer", "text": "É o custo de aquisição de paciente: quanto a clínica gastou para trazer um paciente novo que foi atendido e pagou. CAC é o nome genérico, usado em qualquer empresa. Em clínica a gente usa CAP, porque a conta precisa parar no paciente atendido, não no clique nem no contato."}}, {"@type": "Question", "name": "Como calcular o custo de aquisição de paciente?", "acceptedAnswer": {"@type": "Answer", "text": "Some o que saiu no mês para trazer gente nova (mídia, agência ou gestor de tráfego, ferramentas de captação e comissão de quem só vende) e divida pelo número de pacientes novos atendidos no mesmo mês. Faça por canal, não só a média. Uma clínica que gastou R$ 5.800 e atendeu 240 pacientes novos tem CAP de R$ 24,17."}}, {"@type": "Question", "name": "Qual custo de aquisição de paciente é aceitável para uma clínica popular?", "acceptedAnswer": {"@type": "Answer", "text": "Os benchmarks que circulam na internet (R$ 120 a R$ 350 por paciente) vêm de consultório com ticket alto e não servem para quem cobra entre R$ 60 e R$ 150 pela consulta. A régua útil é a contribuição do primeiro atendimento: CAP abaixo da metade dela é saudável. Nas clínicas em que implantamos o método CLIP, a média saiu de R$ 28,80 para R$ 13,60."}}, {"@type": "Question", "name": "Como reduzir o CAP sem cortar o investimento em marketing?", "acceptedAnswer": {"@type": "Answer", "text": "Trabalhando o que acontece depois do clique: primeira resposta em menos de 5 minutos, recepção que conduz a conversa antes de informar o preço, retorno em 24 horas para quem pediu orçamento e sumiu, confirmação de véspera contra a falta e reativação da base. Com a mesma verba, mais gente chega até a cadeira e o CAP cai."}}]}]}</script>
+</head>
+<body class="page-artigo">
+<a class="skip-link" href="#conteudo">Ir para o conteúdo</a>
+<header class="site-header">
+  <div class="container site-header-inner">
+    <a class="logo" href="https://clintia.com.br/" aria-label="ClintIA, página inicial">
+      <img src="https://clintia.com.br/assets/logo/clintia-logo-horizontal-cor-600.png" width="600" height="135" alt="ClintIA" decoding="async" fetchpriority="high">
+    </a>
+    <nav class="nav" aria-label="Principal">
+      <ul>
+        <li><a href="https://clintia.com.br/metodo-clip/">Método CLIP</a></li>
+        <li><a href="https://clintia.com.br/proclip/">PROClip</a></li>
+        <li><a href="https://clintia.com.br/manual/">Manual</a></li>
+        <li><a href="https://clintia.com.br/blog/" aria-current="page">Blog</a></li>
+        <li><a href="https://clintia.com.br/sobre/">Sobre</a></li>
+        <li><a href="https://clintia.com.br/contato/">Contato</a></li>
+      </ul>
+    </nav>
+    <a class="btn btn-primary btn-sm header-cta" href="https://lp.clintia.com.br/sessao-estrategica-2026?utm_source=site&amp;utm_medium=cta&amp;utm_campaign=custo-de-aquisicao-de-paciente" rel="noopener"><span><span class="hide-lg">Agendar </span>Sessão Estratégica</span></a>
+    <button type="button" class="menu-btn" aria-expanded="false" aria-controls="menu-drawer" aria-label="Abrir menu">
+      <span class="ico-menu"><svg class="ico " width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><line x1="4" x2="20" y1="12" y2="12"/><line x1="4" x2="20" y1="6" y2="6"/><line x1="4" x2="20" y1="18" y2="18"/></svg></span><span class="ico-x"><svg class="ico " width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg></span>
+    </button>
+  </div>
+  <div class="menu-drawer" id="menu-drawer" hidden>
+    <nav aria-label="Menu">
+      <ul class="menu-list">
+        <li><a href="https://clintia.com.br/">Início</a></li>
+        <li><a href="https://clintia.com.br/metodo-clip/">Método CLIP</a></li>
+        <li><a href="https://clintia.com.br/proclip/">PROClip</a></li>
+        <li><a href="https://clintia.com.br/manual/">Manual</a></li>
+        <li><a href="https://clintia.com.br/blog/" aria-current="page">Blog</a></li>
+        <li><a href="https://clintia.com.br/sobre/">Sobre</a></li>
+        <li><a href="https://clintia.com.br/contato/">Contato</a></li>
+      </ul>
+      <a class="btn btn-primary btn-block" href="https://lp.clintia.com.br/sessao-estrategica-2026?utm_source=site&amp;utm_medium=cta&amp;utm_campaign=custo-de-aquisicao-de-paciente" rel="noopener">Agendar Sessão Estratégica</a>
+      <p class="menu-contact"><a href="https://wa.me/5521998910942?text=Ol%C3%A1%2C%20vim%20pelo%20site%20da%20ClintIA%20e%20quero%20falar%20sobre%20a%20minha%20cl%C3%ADnica." rel="noopener"><svg class="ico " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/></svg>WhatsApp +55 21 99891-0942</a></p>
+    </nav>
+  </div>
+</header>
+<div class="reading-progress" aria-hidden="true"></div><main id="conteudo" tabindex="-1">
+<div class="container container--article article-layout">
+  <header class="article-header">
+    <nav class="crumbs" aria-label="Você está em">
+  <ol>
+<li><a href="https://clintia.com.br/">Início</a><svg class="ico " width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m9 18 6-6-6-6"/></svg></li><li><a href="https://clintia.com.br/blog/">Blog</a><svg class="ico " width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m9 18 6-6-6-6"/></svg></li><li><a href="https://clintia.com.br/blog/categoria/numeros-e-previsibilidade/">Números e previsibilidade</a><svg class="ico " width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m9 18 6-6-6-6"/></svg></li><li aria-current="page">CAP separa faturar de lucrar</li>  </ol>
+</nav>
+    <p class="overline"><a href="https://clintia.com.br/blog/categoria/numeros-e-previsibilidade/">Números e previsibilidade</a></p>
+    <h1 class="t-h1-article">Custo de aquisição de paciente é o número que separa faturar de lucrar</h1>
+<p class="t-lede">Custo de aquisição de paciente (CAP) é quanto a sua clínica pagou para um paciente novo chegar, agendar, comparecer e pagar. A conta é simples: tudo o que saiu no mês para trazer gente nova, dividido pelo número de pacientes novos atendidos. O que quase ninguém faz é olhar esse número por canal e cruzar com a margem de cada tipo de atendimento. É nesse cruzamento que uma clínica popular descobre que está faturando mais e ganhando menos.</p>    <div class="byline">
+      <img class="byline-avatar" src="https://clintia.com.br/assets/img/avatar-bernardo-128.webp" srcset="https://clintia.com.br/assets/img/avatar-bernardo-128.webp 1x, https://clintia.com.br/assets/img/avatar-bernardo-256.webp 2x" width="40" height="40" alt="" decoding="async">
+      <p>
+        <span>Por <a rel="author" href="https://clintia.com.br/sobre/#bernardo">Bernardo Carneiro</a></span>
+        <span><time datetime="2026-09-25">25 set 2026</time></span>
+        <span>14 min de leitura</span>
+      </p>
+    </div>
+    <div class="share " data-share>
+  <span class="share-label">Compartilhar</span>
+  <button type="button" class="share-btn" data-copy="https://clintia.com.br/blog/custo-de-aquisicao-de-paciente/" aria-label="Copiar link"><svg class="ico " width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg></button>
+  <a class="share-btn" href="https://wa.me/?text=Custo%20de%20aquisi%C3%A7%C3%A3o%20de%20paciente%20%C3%A9%20o%20n%C3%BAmero%20que%20separa%20faturar%20de%20lucrar%20https%3A//clintia.com.br/blog/custo-de-aquisicao-de-paciente/" rel="noopener" target="_blank" aria-label="Compartilhar no WhatsApp"><svg class="ico " width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/></svg></a>
+  <a class="share-btn" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//clintia.com.br/blog/custo-de-aquisicao-de-paciente/" rel="noopener" target="_blank" aria-label="Compartilhar no LinkedIn"><svg class="ico " width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect width="4" height="12" x="2" y="9"/><circle cx="4" cy="4" r="2"/></svg></a>
+  <a class="share-btn" href="mailto:?subject=Custo%20de%20aquisi%C3%A7%C3%A3o%20de%20paciente%20%C3%A9%20o%20n%C3%BAmero%20que%20separa%20faturar%20de%20lucrar&body=https%3A//clintia.com.br/blog/custo-de-aquisicao-de-paciente/" aria-label="Enviar por e-mail"><svg class="ico " width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg></a>
+  <span class="share-feedback" aria-live="polite"></span>
+</div>
+  </header>
+
+  <figure class="article-cover wide">
+    <img src="https://clintia.com.br/assets/og/blog/custo-de-aquisicao-de-paciente-16x9.webp" srcset="https://clintia.com.br/assets/og/blog/custo-de-aquisicao-de-paciente-16x9-800.webp 800w, https://clintia.com.br/assets/og/blog/custo-de-aquisicao-de-paciente-16x9.webp 1600w" sizes="(min-width: 1280px) 1000px, (min-width: 1024px) 660px, 100vw" width="1600" height="900" alt="Capa da matéria: CAP separa faturar de lucrar, sobre fundo escuro com a marca ClintIA" fetchpriority="high" decoding="async">
+  </figure>
+
+  <nav class="article-toc toc" aria-label="Neste artigo">
+    <p class="overline">Neste artigo</p>
+    <ol><li><a href="#o-que-e-custo-de-aquisicao-de-paciente-e-por-que-cap-nao-cac-em-clinica">O que é custo de aquisição de paciente (e por que CAP, não CAC, em clínica)</a></li><li><a href="#a-formula-e-o-que-entra-na-conta">A fórmula e o que entra na conta</a></li><li><a href="#cap-por-canal-google-meta-ficha-do-google-indicacao-e-base">CAP por canal: Google, Meta, ficha do Google, indicação e base</a></li><li><a href="#faturar-mais-e-ganhar-menos-cap-margem-e-mix-particular-convenio">Faturar mais e ganhar menos: CAP, margem e mix particular/convênio</a></li><li><a href="#no-show-e-orcamento-aberto-inflam-o-cap-real">No-show e orçamento aberto inflam o CAP real</a></li><li><a href="#qual-custo-de-aquisicao-de-paciente-e-aceitavel-em-clinica-popular">Qual custo de aquisição de paciente é aceitável em clínica popular</a></li><li><a href="#como-reduzir-o-cap-sem-cortar-a-verba">Como reduzir o CAP sem cortar a verba</a></li><li><a href="#o-painel-de-segunda-feira-os-5-numeros-que-o-dono-precisa-ver">O painel de segunda-feira: os 5 números que o dono precisa ver</a></li><li><a href="#perguntas-frequentes">Perguntas frequentes</a></li><li><a href="#faca-hoje">Faça hoje</a></li></ol>
+  </nav>
+
+  <article class="article-body">
+    <details class="toc toc--inline">
+      <summary><span>Neste artigo</span><svg class="ico chev" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m6 9 6 6 6-6"/></svg></summary>
+      <ol><li><a href="#o-que-e-custo-de-aquisicao-de-paciente-e-por-que-cap-nao-cac-em-clinica">O que é custo de aquisição de paciente (e por que CAP, não CAC, em clínica)</a></li><li><a href="#a-formula-e-o-que-entra-na-conta">A fórmula e o que entra na conta</a></li><li><a href="#cap-por-canal-google-meta-ficha-do-google-indicacao-e-base">CAP por canal: Google, Meta, ficha do Google, indicação e base</a></li><li><a href="#faturar-mais-e-ganhar-menos-cap-margem-e-mix-particular-convenio">Faturar mais e ganhar menos: CAP, margem e mix particular/convênio</a></li><li><a href="#no-show-e-orcamento-aberto-inflam-o-cap-real">No-show e orçamento aberto inflam o CAP real</a></li><li><a href="#qual-custo-de-aquisicao-de-paciente-e-aceitavel-em-clinica-popular">Qual custo de aquisição de paciente é aceitável em clínica popular</a></li><li><a href="#como-reduzir-o-cap-sem-cortar-a-verba">Como reduzir o CAP sem cortar a verba</a></li><li><a href="#o-painel-de-segunda-feira-os-5-numeros-que-o-dono-precisa-ver">O painel de segunda-feira: os 5 números que o dono precisa ver</a></li><li><a href="#perguntas-frequentes">Perguntas frequentes</a></li><li><a href="#faca-hoje">Faça hoje</a></li></ol>
+    </details>
+
+    <div class="prose prose--article">
+      <h2 id="o-que-e-custo-de-aquisicao-de-paciente-e-por-que-cap-nao-cac-em-clinica">O que é custo de aquisição de paciente (e por que CAP, não CAC, em clínica)</h2>
+<p>Em qualquer empresa, o custo de trazer um cliente novo se chama CAC. Em clínica, o cliente é o paciente, e por isso a gente chama de CAP. A troca de letra serve para lembrar onde a conta tem que parar: no paciente que sentou na cadeira e pagou.</p>
+<p>A maioria dos relatórios que chegam ao dono para antes disso. A agência entrega custo por clique, custo por contato ou custo por conversa iniciada, e todos são menores do que o CAP, porque cada etapa depois deles perde gente. O relatório fica bonito e o caixa não confirma.</p>
+<p>Para clínica popular isso pesa mais. Um consultório premium faz de 10 a 15 consultas por semana com ticket entre R$ 400 e R$ 600, e uma consulta absorve um custo de aquisição alto. Uma clínica acessível faz de 80 a 200 agendamentos por semana com ticket entre R$ 60 e R$ 150. A margem é curta, e cada real gasto para trazer um paciente que não veio sai direto do lucro.</p>
+<h2 id="a-formula-e-o-que-entra-na-conta">A fórmula e o que entra na conta</h2>
+<p><strong>CAP = (mídia + agência ou gestor de tráfego + ferramentas de captação + comissão de quem só vende) ÷ pacientes novos atendidos no mês</strong></p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Tabela; role para o lado se necessário"><table>
+<thead>
+<tr>
+<th class="num">Entra no CAP</th>
+<th class="num">Fica fora do CAP</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Verba de Google Ads e Meta Ads</td>
+<td>Aluguel, luz, água, internet</td>
+</tr>
+<tr>
+<td>Honorário de agência ou gestor de tráfego</td>
+<td>Salário de quem atende o paciente que já chegou</td>
+</tr>
+<tr>
+<td>Ferramenta de CRM e WhatsApp usada para captar</td>
+<td>Repasse do médico ou especialista</td>
+</tr>
+<tr>
+<td>Comissão ou salário de quem só converte contato em agendamento</td>
+<td>Insumos, exames, material</td>
+</tr>
+<tr>
+<td>Produção de anúncio, página e conteúdo de captação</td>
+<td>Confirmação e lembrete de consulta (custo de retenção)</td>
+</tr>
+</tbody>
+</table></div>
+<p>A zona cinzenta é a recepção. Se a mesma pessoa atende o balcão e responde o WhatsApp de quem ainda não é paciente, rateie pelo tempo: metade do dia convertendo contato novo, metade do salário entra. O critério pode ser imperfeito, desde que seja o mesmo todo mês. O repasse do médico fica de fora de propósito: é custo de entregar o atendimento e vai aparecer na margem.</p>
+<h3 id="a-conta-feita-exemplo-hipotetico">A conta feita (exemplo hipotético)</h3>
+<p>Uma clínica que gasta R$ 5.800 por mês para trazer paciente novo:</p>
+<ol>
+<li>Google Ads: R$ 3.000</li>
+<li>Meta Ads: R$ 1.200</li>
+<li>Gestor de tráfego: R$ 1.200</li>
+<li>Ferramenta de CRM e WhatsApp: R$ 400</li>
+</ol>
+<p>No mês, 800 pessoas novas chamaram no WhatsApp. Dessas, 320 agendaram. Das 320, 240 compareceram e pagaram.</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Tabela; role para o lado se necessário"><table>
+<thead>
+<tr>
+<th class="num">Medida</th>
+<th class="num">Conta</th>
+<th class="num">Resultado</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="num">Custo por contato</td>
+<td class="num">R$ 5.800 ÷ 800</td>
+<td class="num">R$ 7,25</td>
+</tr>
+<tr>
+<td>Custo por agendamento</td>
+<td class="num">R$ 5.800 ÷ 320</td>
+<td class="num">R$ 18,13</td>
+</tr>
+<tr>
+<td>CAP (por paciente atendido)</td>
+<td class="num">R$ 5.800 ÷ 240</td>
+<td class="num">R$ 24,17</td>
+</tr>
+</tbody>
+</table></div>
+<p>Os três números são verdadeiros. Só o último diz quanto custou o paciente que pagou. Quando a agência reporta R$ 7,25, o número está certo, só que mede o começo do funil.</p>
+<div class="ad-slot ad-slot--mobile"><div class="ad-wrap ad-wrap--336x280">
+  <span class="ad-label" aria-hidden="true">publicidade</span>
+  <a class="house-ad house-ad--336x280 house-ad--light" href="https://lp.clintia.com.br/sessao-estrategica-2026?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=sessao-estrategica&amp;utm_content=336x280-custo-de-aquisicao-de-paciente" rel="noopener" data-ad="sessao-estrategica" data-format="336x280" aria-label="Publicidade: Sessão Estratégica PROClip, diagnóstico comercial de 30 minutos sem custo">
+    <img class="house-ad-logo" src="https://clintia.com.br/assets/logo/clintia-logo-horizontal-cor-600.png" width="600" height="135" alt="" loading="lazy" decoding="async">
+    <span class="house-ad-kicker">PROClip</span>
+    <span class="house-ad-title">Quanto custa cada paciente da sua clínica hoje?</span>
+    <span class="house-ad-line">30 minutos, sem custo, com os seus números.</span>
+    <span class="btn btn-primary house-ad-btn">Agendar Sessão Estratégica</span>
+  </a>
+</div></div><h2 id="cap-por-canal-google-meta-ficha-do-google-indicacao-e-base">CAP por canal: Google, Meta, ficha do Google, indicação e base</h2>
+<p>A média esconde o problema. Uma clínica com CAP médio de R$ 24 pode ter um canal a R$ 8 e outro a R$ 40 e, sem separar, mantém verba no caro e corta o barato. A regra de rateio que usamos: mídia é custo direto do canal; o honorário do gestor de tráfego é dividido entre os canais pagos na proporção da verba, arredondado no exemplo para R$ 900 no Google e R$ 300 no Meta; a ferramenta de CRM e WhatsApp vai para os canais que a recepção trabalha sem mídia, a ficha do Google e a base (R$ 200 para cada), porque é nela que a resposta e a reativação acontecem.</p>
+<p>A mesma clínica, por canal (hipotético). Os R$ 5.800 são os mesmos, agora com o rateio dentro do custo de cada canal:</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Tabela; role para o lado se necessário"><table>
+<thead>
+<tr>
+<th class="num">Canal</th>
+<th class="num">Custo no mês</th>
+<th class="num">Novos atendidos</th>
+<th class="num">CAP do canal</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="num">Google Ads (busca)</td>
+<td class="num">R$ 3.900</td>
+<td class="num">150</td>
+<td class="num">R$ 26,00</td>
+</tr>
+<tr>
+<td>Meta Ads (remarketing)</td>
+<td class="num">R$ 1.500</td>
+<td class="num">40</td>
+<td class="num">R$ 37,50</td>
+</tr>
+<tr>
+<td>Ficha do Google (avaliações e fotos)</td>
+<td class="num">R$ 200</td>
+<td class="num">30</td>
+<td class="num">R$ 6,67</td>
+</tr>
+<tr>
+<td>Base de pacientes (reativação)</td>
+<td class="num">R$ 200</td>
+<td class="num">20</td>
+<td class="num">R$ 10,00</td>
+</tr>
+<tr>
+<td class="num">Total</td>
+<td class="num">R$ 5.800</td>
+<td class="num">240</td>
+<td class="num">R$ 24,17</td>
+</tr>
+</tbody>
+</table></div>
+<p>Duas leituras saltam da tabela. O canal mais barato da clínica não é pago. E o remarketing parece caro, mas boa parte de quem ele traz já tinha custado um clique no Google e ia embora sem agendar. Ele existe para não deixar escapar quem já custou dinheiro; julgado sozinho, é o canal que a clínica corta por engano.</p>
+<p>A indicação não está na tabela porque não tem custo de aquisição, e porque, na maioria das clínicas, "indicação" é a resposta padrão de quem não perguntou direito. A conta por canal depende do que a recepção anota.</p>
+<h3 id="como-a-origem-some-na-recepcao">Como a origem some na recepção</h3>
+<p>O jeito que não funciona:</p>
+<blockquote>
+<p><strong>Recepção:</strong> Como a senhora conheceu a clínica?<br />
+<strong>Paciente:</strong> Uma amiga me falou.<br />
+<strong>Recepção:</strong> (anota "indicação" e segue)</p>
+</blockquote>
+<p>O jeito que funciona:</p>
+<blockquote>
+<p><strong>Recepção:</strong> Como a senhora chegou até a gente?<br />
+<strong>Paciente:</strong> Uma amiga me falou.<br />
+<strong>Recepção:</strong> Que bom. E hoje, para marcar, a senhora pesquisou no Google, viu no Instagram ou já veio direto pelo WhatsApp?<br />
+<strong>Paciente:</strong> Pesquisei o endereço no Google e mandei mensagem pelo anúncio.<br />
+<strong>Recepção:</strong> (anota origem "Google Ads" e "indicação" como reforço)</p>
+</blockquote>
+<p>A amiga falou e o Google fechou. Sem a segunda pergunta, o Google Ads fica com CAP maior do que o real e a indicação com um número inflado. Quem tem CRM ligado ao WhatsApp resolve parte disso sozinho, com um número ou link por canal. Quem ainda não tem faz na planilha.</p>
+<h2 id="faturar-mais-e-ganhar-menos-cap-margem-e-mix-particular-convenio">Faturar mais e ganhar menos: CAP, margem e mix particular/convênio</h2>
+<p>É aqui que a maioria dos textos sobre o tema para. CAP é o custo de trazer o paciente. Margem é o que sobra depois de atender. Os dois precisam ser lidos juntos, porque o tipo de paciente que o canal traz muda a conta inteira.</p>
+<p>Numa clínica acessível, uma consulta particular e uma de convênio ocupam o mesmo horário do mesmo médico e deixam quantias muito diferentes. Exemplo hipotético:</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Tabela; role para o lado se necessário"><table>
+<thead>
+<tr>
+<th></th>
+<th class="num">Particular</th>
+<th class="num">Convênio</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Valor recebido pela clínica</td>
+<td class="num">R$ 120 (na hora)</td>
+<td>R$ 65 (depois, no prazo da operadora e sujeito a glosa)</td>
+</tr>
+<tr>
+<td>Repasse ao especialista</td>
+<td class="num">R$ 60</td>
+<td class="num">R$ 45</td>
+</tr>
+<tr>
+<td>Custo variável do atendimento</td>
+<td class="num">R$ 10</td>
+<td class="num">R$ 10</td>
+</tr>
+<tr>
+<td>Contribuição por atendimento</td>
+<td class="num">R$ 50</td>
+<td class="num">R$ 10</td>
+</tr>
+</tbody>
+</table></div>
+<p>O particular deixa cinco vezes mais por horário. Coloque o CAP em cima: R$ 26 come metade da contribuição do particular no primeiro atendimento e duas vezes e meia a contribuição do paciente de convênio. Se a campanha traz maioria de convênio, ela pode estar dando prejuízo mesmo com um CAP que parece bom.</p>
+<p>É assim que a clínica fatura mais e ganha menos. Numa rede de clínicas que acompanhamos, o faturamento subiu enquanto a fatia do particular caía três pontos percentuais, e a margem caiu junto. Ninguém tinha visto antes de o painel entrar, porque o número que todo mundo olhava era o faturamento, e ele subia.</p>
+<p>O mesmo movimento em exemplo hipotético:</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Tabela; role para o lado se necessário"><table>
+<thead>
+<tr>
+<th></th>
+<th class="num">Antes</th>
+<th class="num">Depois</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Atendimentos no mês</td>
+<td class="num">1.000</td>
+<td class="num">1.100</td>
+</tr>
+<tr>
+<td>Participação do particular</td>
+<td class="num">17% (170)</td>
+<td class="num">14% (154)</td>
+</tr>
+<tr>
+<td class="num">Faturamento</td>
+<td class="num">R$ 74.350</td>
+<td class="num">R$ 79.970 (+7,6%)</td>
+</tr>
+<tr>
+<td>Contribuição dos atendimentos</td>
+<td class="num">R$ 16.800</td>
+<td class="num">R$ 17.160</td>
+</tr>
+<tr>
+<td>Investimento em aquisição</td>
+<td class="num">R$ 4.000</td>
+<td class="num">R$ 5.500</td>
+</tr>
+<tr>
+<td class="num">O que sobrou</td>
+<td class="num">R$ 12.800</td>
+<td class="num">R$ 11.660</td>
+</tr>
+</tbody>
+</table></div>
+<p>Faturou R$ 5.620 a mais. Sobrou R$ 1.140 a menos. O caixa demora a mostrar isso porque o convênio paga com atraso e a glosa chega depois; quando a diferença aparece no banco, já são meses de mix errado.</p>
+<p>A conclusão prática: o CAP também tem que ser aberto por tipo de paciente. Uma campanha com CAP de R$ 30 trazendo particular é melhor negócio do que uma com CAP de R$ 15 trazendo convênio. Sem essa separação, a clínica otimiza a verba para o paciente errado.</p>
+<div class="ad-slot ad-slot--mobile"><div class="ad-wrap ad-wrap--336x280">
+  <span class="ad-label" aria-hidden="true">publicidade</span>
+  <a class="house-ad house-ad--336x280 house-ad--dark" href="https://www.proclip.com.br/apostila?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=comunidade-manual&amp;utm_content=336x280-custo-de-aquisicao-de-paciente" rel="noopener" data-ad="comunidade-manual" data-format="336x280" aria-label="Publicidade: comunidade do Manual da Clínica Popular, mais de 80 donos de clínica">
+    <img class="house-ad-logo" src="https://clintia.com.br/assets/logo/logo-clintia-branca-horizontal.png" width="1215" height="281" alt="" loading="lazy" decoding="async">
+    <span class="house-ad-kicker">Comunidade do Manual</span>
+    <span class="house-ad-title">Mais de 80 donos de clínica popular no mesmo grupo</span>
+    <span class="house-ad-line">Quem já aplica o método troca o que funcionou e o que deu errado.</span>
+    <span class="btn btn-on-dark house-ad-btn">Conhecer o Manual</span>
+  </a>
+</div></div><h2 id="no-show-e-orcamento-aberto-inflam-o-cap-real">No-show e orçamento aberto inflam o CAP real</h2>
+<p>Dois vazamentos empurram o CAP para cima sem que a verba mude.</p>
+<p>O primeiro é a falta. No exemplo, 320 agendamentos viraram 240 atendimentos (25% de falta), e o custo por paciente subiu de R$ 18,13 para R$ 24,17: 33% a mais sem gastar um real. O médico estava na sala, o horário não pode ser refaturado e o clique já foi pago. Por isso o CAP que importa é por paciente atendido: ele carrega a falta dentro dele e obriga a clínica a tratá-la.</p>
+<p>O segundo é o orçamento aberto. A pessoa chama no WhatsApp, pergunta o preço, recebe o valor e some. Ela já custou o clique e a conversa. Se ninguém volta a falar com ela em 24 horas, esse custo fica sem receita e infla o CAP de todo mundo. Em clínica popular a primeira mensagem quase sempre é "quanto custa a consulta", então o volume de orçamento aberto é grande. O que responder nessa hora está na matéria sobre <a href="https://clintia.com.br/blog/quanto-custa-a-consulta-whatsapp/">o preço da consulta no WhatsApp</a>.</p>
+<h2 id="qual-custo-de-aquisicao-de-paciente-e-aceitavel-em-clinica-popular">Qual custo de aquisição de paciente é aceitável em clínica popular</h2>
+<p>Os benchmarks que aparecem nas primeiras páginas do Google ficam entre R$ 120 e R$ 350 por paciente, conforme a especialidade. São números de consultório, com ticket alto e tratamento longo. Para uma clínica que cobra R$ 90 a consulta, um CAP de R$ 120 já é prejuízo no primeiro atendimento.</p>
+<p>A régua que usamos é a contribuição do primeiro atendimento, o número da tabela do particular e do convênio:</p>
+<ol>
+<li><strong>CAP abaixo da metade da contribuição</strong>: saudável. O paciente se paga na primeira visita e o retorno é lucro.</li>
+<li><strong>CAP entre a metade e o total</strong>: aceitável se a clínica mede o retorno e o paciente de fato volta. Exige CRM e follow-up funcionando.</li>
+<li><strong>CAP acima da contribuição do primeiro atendimento</strong>: a clínica está pagando para atender. Só se justifica em procedimento com retorno certo, com a conta na mão.</li>
+</ol>
+<p>Como referência do que é possível: nas clínicas em que implantamos o método CLIP, o CAP médio saiu de R$ 28,80 para R$ 13,60, uma queda de 53%. Com a mesma verba de mídia, essas clínicas passaram a atender cerca de 2,5 vezes mais pacientes. O resultado varia com cidade, especialidade, recepção e verba, mas a ordem de grandeza mostra o ponto: em clínica popular, o CAP se mede em dezenas de reais. Quem mede com a régua do consultório acha que está bem quando está perdendo dinheiro.</p>
+<h2 id="como-reduzir-o-cap-sem-cortar-a-verba">Como reduzir o CAP sem cortar a verba</h2>
+<p>Cortar mídia reduz a conta de anúncio e quase sempre aumenta o CAP, porque agência e ferramenta continuam custando e chegam menos pacientes. A redução de verdade vem do que acontece depois do clique. Quatro alavancas, em ordem de custo:</p>
+<p><strong>Primeira resposta em menos de 5 minutos.</strong> O paciente de clínica popular decide rápido e, enquanto espera a sua resposta, está falando com outras clínicas do bairro. Quem responde antes fica com o paciente. Uma automação de primeira resposta no WhatsApp da clínica cobre o horário em que ninguém está no balcão e o momento em que ele está cheio.</p>
+<p><strong>Conversão da recepção.</strong> No exemplo, 800 contatos viraram 320 agendamentos, 40%. Se a recepção passa a conduzir a conversa (perguntar o motivo, o bairro e a urgência antes de dizer o preço, e oferecer horário na mesma mensagem), essa taxa sobe. A 50%, os mesmos R$ 5.800 gerariam 400 agendamentos e, com o mesmo comparecimento, 300 atendidos: CAP de R$ 19,33 em vez de R$ 24,17. Vinte por cento a menos sem mexer na verba.</p>
+<p><strong>Reativação da base.</strong> Paciente que já passou pela clínica e sumiu custa uma fração do paciente novo para voltar, porque já conhece o lugar e o clique foi pago no passado. Na tabela por canal, a base apareceu com CAP de R$ 10 contra R$ 26 do Google. Uma clínica com alguns anos de operação costuma ter milhares de cadastros parados. O passo a passo está na matéria sobre <a href="https://clintia.com.br/blog/reativacao-de-pacientes/">reativação de pacientes</a>.</p>
+<p><strong>Remarketing e ficha do Google.</strong> Quem visitou o site ou chamou no WhatsApp e não agendou volta a ver a clínica no Facebook e no Instagram nos dias seguintes, por um custo pequeno. A ficha do Google acima de 4.8 faz o paciente confirmar em 30 segundos que a clínica é séria e converte melhor o clique que o anúncio já pagou. A visão completa está na matéria sobre <a href="https://clintia.com.br/blog/marketing-para-clinica-popular/">marketing para clínica popular</a>.</p>
+<h2 id="o-painel-de-segunda-feira-os-5-numeros-que-o-dono-precisa-ver">O painel de segunda-feira: os 5 números que o dono precisa ver</h2>
+<p>O dono não precisa de painel com 40 indicadores. Precisa de cinco números da semana fechada, no celular, toda segunda de manhã, e de saber que decisão cada um puxa.</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Tabela; role para o lado se necessário"><table>
+<thead>
+<tr>
+<th class="num">#</th>
+<th class="num">Número</th>
+<th class="num">O que responde</th>
+<th class="num">Decisão que puxa</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="num">1</td>
+<td>Investimento em aquisição por canal</td>
+<td>Quanto saiu para trazer paciente novo</td>
+<td>Onde a verba está concentrada</td>
+</tr>
+<tr>
+<td class="num">2</td>
+<td>Contatos novos por canal e tempo da primeira resposta</td>
+<td>Quantos chamaram e quanto esperaram</td>
+<td>Se o gargalo é mídia ou atendimento</td>
+</tr>
+<tr>
+<td class="num">3</td>
+<td>Taxa de contato para agendamento</td>
+<td>Quantos a recepção converteu</td>
+<td>Treinar recepção ou ajustar anúncio</td>
+</tr>
+<tr>
+<td class="num">4</td>
+<td>Taxa de comparecimento</td>
+<td>Quantos agendados vieram</td>
+<td>Confirmação, sinal, política de falta</td>
+</tr>
+<tr>
+<td class="num">5</td>
+<td>CAP por paciente atendido, por canal, separando particular e convênio</td>
+<td>Quanto custou cada paciente que pagou</td>
+<td>Onde vai o próximo real de verba</td>
+</tr>
+</tbody>
+</table></div>
+<p>O painel também é diagnóstico. Se muita gente chama e pouca agenda, o problema está na resposta ou na recepção, e mais verba só multiplica o desperdício. Se quem agenda não aparece, a falha é a confirmação. Se o CAP do convênio está baixo e o do particular alto, a campanha está falando com o paciente errado. Sem esses cinco números, toda decisão de verba é chute.</p>
+<h2 id="perguntas-frequentes">Perguntas frequentes</h2>
+<div class="faq">
+  <details class="faq-item">
+    <summary><span>O que é CAC ou CAP na saúde?</span><svg class="ico chev" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m6 9 6 6 6-6"/></svg></summary>
+    <div class="faq-a"><p>É o custo de aquisição de paciente: quanto a clínica gastou para trazer um paciente novo que foi atendido e pagou. CAC é o nome genérico, usado em qualquer empresa. Em clínica a gente usa CAP, porque a conta precisa parar no paciente atendido, não no clique nem no contato.</p></div>
+  </details>
+  <details class="faq-item">
+    <summary><span>Como calcular o custo de aquisição de paciente?</span><svg class="ico chev" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m6 9 6 6 6-6"/></svg></summary>
+    <div class="faq-a"><p>Some o que saiu no mês para trazer gente nova (mídia, agência ou gestor de tráfego, ferramentas de captação e comissão de quem só vende) e divida pelo número de pacientes novos atendidos no mesmo mês. Faça por canal, não só a média. Uma clínica que gastou R$ 5.800 e atendeu 240 pacientes novos tem CAP de R$ 24,17.</p></div>
+  </details>
+  <details class="faq-item">
+    <summary><span>Qual custo de aquisição de paciente é aceitável para uma clínica popular?</span><svg class="ico chev" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m6 9 6 6 6-6"/></svg></summary>
+    <div class="faq-a"><p>Os benchmarks que circulam na internet (R$ 120 a R$ 350 por paciente) vêm de consultório com ticket alto e não servem para quem cobra entre R$ 60 e R$ 150 pela consulta. A régua útil é a contribuição do primeiro atendimento: CAP abaixo da metade dela é saudável. Nas clínicas em que implantamos o método CLIP, a média saiu de R$ 28,80 para R$ 13,60.</p></div>
+  </details>
+  <details class="faq-item">
+    <summary><span>Como reduzir o CAP sem cortar o investimento em marketing?</span><svg class="ico chev" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m6 9 6 6 6-6"/></svg></summary>
+    <div class="faq-a"><p>Trabalhando o que acontece depois do clique: primeira resposta em menos de 5 minutos, recepção que conduz a conversa antes de informar o preço, retorno em 24 horas para quem pediu orçamento e sumiu, confirmação de véspera contra a falta e reativação da base. Com a mesma verba, mais gente chega até a cadeira e o CAP cai.</p></div>
+  </details>
+</div>
+<h2 id="faca-hoje">Faça hoje</h2>
+<ol>
+<li><strong>Feche a conta do mês passado.</strong> Some mídia, agência, ferramenta e comissão. Divida pelos pacientes novos atendidos, não pelos agendados. Esse é o seu CAP de partida.</li>
+<li><strong>Mude a pergunta da recepção.</strong> Troque "como conheceu a clínica?" por "como chegou até a gente hoje?" e crie um campo de origem com opções fixas: Google, Instagram, Facebook, ficha do Google, indicação, retorno da base.</li>
+<li><strong>Abra o CAP por tipo de paciente.</strong> Conte quantos dos novos atendidos eram particulares e quantos de convênio. Se o particular cai enquanto o faturamento sobe, a margem está indo embora.</li>
+<li><strong>Meça o tempo da primeira resposta.</strong> Pegue as últimas 20 conversas de contato novo no WhatsApp. Acima de 5 minutos, essa é a alavanca mais barata para baixar o CAP.</li>
+<li><strong>Liste os orçamentos abertos da semana.</strong> Quem perguntou preço e não agendou recebe um retorno em até 24 horas. Registre quantos voltaram.</li>
+</ol>
+<p>Se você quer ver essa conta feita com os números da sua clínica, a Sessão Estratégica é uma conversa de 30 minutos, online, com o Bernardo. Você traz quantos pacientes procuram por mês, quantos fecham, quanto vai para mídia e quanto da receita vem de convênio, e sai com o gargalo apontado e o que dá para fazer em 45 dias. <a href="https://lp.clintia.com.br/sessao-estrategica-2026?utm_source=site&amp;utm_medium=cta&amp;utm_campaign=custo-de-aquisicao-de-paciente">Agendar Sessão Estratégica</a>.</p>
+    </div>
+
+    <div class="share share--end" data-share>
+  <span class="share-label">Compartilhar</span>
+  <button type="button" class="share-btn" data-copy="https://clintia.com.br/blog/custo-de-aquisicao-de-paciente/" aria-label="Copiar link"><svg class="ico " width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg></button>
+  <a class="share-btn" href="https://wa.me/?text=Custo%20de%20aquisi%C3%A7%C3%A3o%20de%20paciente%20%C3%A9%20o%20n%C3%BAmero%20que%20separa%20faturar%20de%20lucrar%20https%3A//clintia.com.br/blog/custo-de-aquisicao-de-paciente/" rel="noopener" target="_blank" aria-label="Compartilhar no WhatsApp"><svg class="ico " width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/></svg></a>
+  <a class="share-btn" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//clintia.com.br/blog/custo-de-aquisicao-de-paciente/" rel="noopener" target="_blank" aria-label="Compartilhar no LinkedIn"><svg class="ico " width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect width="4" height="12" x="2" y="9"/><circle cx="4" cy="4" r="2"/></svg></a>
+  <a class="share-btn" href="mailto:?subject=Custo%20de%20aquisi%C3%A7%C3%A3o%20de%20paciente%20%C3%A9%20o%20n%C3%BAmero%20que%20separa%20faturar%20de%20lucrar&body=https%3A//clintia.com.br/blog/custo-de-aquisicao-de-paciente/" aria-label="Enviar por e-mail"><svg class="ico " width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg></a>
+  <span class="share-feedback" aria-live="polite"></span>
+</div>
+
+    <div class="cta-inline">
+      <h2 class="t-h3">Quer ver esses números na sua clínica?</h2>
+      <p>Uma conversa com o Bernardo sobre a sua operação, sem custo: quantos pacientes procuram, quantos fecham, quanto vai para mídia e o que dá para fazer em 45 dias.</p>
+      <div class="cta-inline-actions">
+        <a class="btn btn-primary " href="https://lp.clintia.com.br/sessao-estrategica-2026?utm_source=site&amp;utm_medium=cta&amp;utm_campaign=custo-de-aquisicao-de-paciente" rel="noopener">Agendar Sessão Estratégica</a>
+        <a class="btn-link " href="https://www.proclip.com.br/apostila?utm_source=site&amp;utm_medium=cta&amp;utm_campaign=custo-de-aquisicao-de-paciente" rel="noopener">Conhecer o Manual<svg class="ico " width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></a>
+      </div>
+    </div>
+
+    <aside class="author-box" aria-label="Sobre o autor">
+  <img class="author-avatar" src="https://clintia.com.br/assets/img/avatar-bernardo-128.webp" srcset="https://clintia.com.br/assets/img/avatar-bernardo-128.webp 1x, https://clintia.com.br/assets/img/avatar-bernardo-256.webp 2x" width="64" height="64" alt="" loading="lazy" decoding="async">
+  <div>
+    <p class="author-name"><a rel="author" href="https://clintia.com.br/sobre/#bernardo">Bernardo Carneiro</a></p>
+    <p class="author-role">Fundador da ClintIA</p>
+    <p class="author-bio">Fundador da ClintIA. Há 14 anos trabalha com marketing e comercial de clínicas; criou o método CLIP, implantado em mais de 100 clínicas populares em 13 estados. Formado em Estatística pela UFF.</p>
+    <p class="author-links">
+      <a href="https://www.instagram.com/clintia.br" rel="noopener" target="_blank"><svg class="ico " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect width="20" height="20" x="2" y="2" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" x2="17.51" y1="6.5" y2="6.5"/></svg><span>Instagram</span></a>
+      <a href="https://clintia.com.br/sobre/"><svg class="ico " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg><span>Sobre a ClintIA</span></a>
+    </p>
+  </div>
+</aside>
+  </article>
+
+  <aside class="article-rail" aria-label="Publicidade">
+    <div class="rail-ad"><div class="ad-wrap ad-wrap--300x250">
+  <span class="ad-label" aria-hidden="true">publicidade</span>
+  <a class="house-ad house-ad--300x250 house-ad--light" href="https://lp.clintia.com.br/sessao-estrategica-2026?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=sessao-estrategica&amp;utm_content=300x250-custo-de-aquisicao-de-paciente" rel="noopener" data-ad="sessao-estrategica" data-format="300x250" aria-label="Publicidade: Sessão Estratégica PROClip, diagnóstico comercial de 30 minutos sem custo">
+    <img class="house-ad-logo" src="https://clintia.com.br/assets/logo/clintia-logo-horizontal-cor-600.png" width="600" height="135" alt="" loading="lazy" decoding="async">
+    <span class="house-ad-kicker">PROClip</span>
+    <span class="house-ad-title">Quanto custa cada paciente da sua clínica hoje?</span>
+    <span class="house-ad-line">30 minutos, sem custo, com os seus números.</span>
+    <span class="btn btn-primary house-ad-btn">Agendar Sessão Estratégica</span>
+  </a>
+</div></div>
+    <div class="rail-ad rail-sticky"><div class="ad-wrap ad-wrap--300x600">
+  <span class="ad-label" aria-hidden="true">publicidade</span>
+  <a class="house-ad house-ad--300x600 house-ad--dark" href="https://www.proclip.com.br/apostila?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=comunidade-manual&amp;utm_content=300x600-custo-de-aquisicao-de-paciente" rel="noopener" data-ad="comunidade-manual" data-format="300x600" aria-label="Publicidade: comunidade do Manual da Clínica Popular, mais de 80 donos de clínica">
+    <img class="house-ad-logo" src="https://clintia.com.br/assets/logo/logo-clintia-branca-horizontal.png" width="1215" height="281" alt="" loading="lazy" decoding="async">
+    <span class="house-ad-kicker">Comunidade do Manual</span>
+    <span class="house-ad-title">Mais de 80 donos de clínica popular no mesmo grupo</span>
+    <span class="house-ad-line">Quem já aplica o método troca o que funcionou e o que deu errado. O acesso vem com o Manual.</span>
+<span class="house-ad-list"><span>Scripts que outros donos já testaram</span><span>CAP por canal de quem já mediu</span><span>Erro evitado antes de gastar</span></span>    <span class="btn btn-on-dark house-ad-btn">Conhecer o Manual</span>
+  </a>
+</div></div>
+  </aside>
+
+  <section class="article-related" aria-label="Leia também">
+    <p class="overline">Leia também</p>
+    <div class="grid grid-3">
+<article class="card card-post">
+  <a class="card-post-img" href="https://clintia.com.br/blog/marketing-para-clinica-popular/" tabindex="-1" aria-hidden="true">
+    <img src="https://clintia.com.br/assets/og/blog/marketing-para-clinica-popular-16x9-800.webp" srcset="https://clintia.com.br/assets/og/blog/marketing-para-clinica-popular-16x9-800.webp 800w, https://clintia.com.br/assets/og/blog/marketing-para-clinica-popular-16x9.webp 1600w" sizes="(min-width: 1024px) 380px, (min-width: 768px) 50vw, 100vw" width="1600" height="900" alt="" loading="lazy" decoding="async">
+  </a>
+  <div class="card-post-body">
+    <p class="overline"><a href="https://clintia.com.br/blog/categoria/aquisicao-de-pacientes/">Aquisição de pacientes</a></p>
+    <h3 class="t-h4"><a class="stretched" href="https://clintia.com.br/blog/marketing-para-clinica-popular/">Marketing para clínica popular começa no Google, não no Instagram</a></h3>
+    <p class="post-meta"><time datetime="2026-09-25">25 set 2026</time><span>13 min de leitura</span></p>
+  </div>
+</article><article class="card card-post">
+  <a class="card-post-img" href="https://clintia.com.br/blog/quanto-custa-a-consulta-whatsapp/" tabindex="-1" aria-hidden="true">
+    <img src="https://clintia.com.br/assets/og/blog/quanto-custa-a-consulta-whatsapp-16x9-800.webp" srcset="https://clintia.com.br/assets/og/blog/quanto-custa-a-consulta-whatsapp-16x9-800.webp 800w, https://clintia.com.br/assets/og/blog/quanto-custa-a-consulta-whatsapp-16x9.webp 1600w" sizes="(min-width: 1024px) 380px, (min-width: 768px) 50vw, 100vw" width="1600" height="900" alt="" loading="lazy" decoding="async">
+  </a>
+  <div class="card-post-body">
+    <p class="overline"><a href="https://clintia.com.br/blog/categoria/comercial-e-whatsapp/">Comercial e WhatsApp</a></p>
+    <h3 class="t-h4"><a class="stretched" href="https://clintia.com.br/blog/quanto-custa-a-consulta-whatsapp/">Quanto custa a consulta? O que responder no WhatsApp da clínica</a></h3>
+    <p class="post-meta"><time datetime="2026-09-25">25 set 2026</time><span>12 min de leitura</span></p>
+  </div>
+</article><article class="card card-post">
+  <a class="card-post-img" href="https://clintia.com.br/blog/reativacao-de-pacientes/" tabindex="-1" aria-hidden="true">
+    <img src="https://clintia.com.br/assets/og/blog/reativacao-de-pacientes-16x9-800.webp" srcset="https://clintia.com.br/assets/og/blog/reativacao-de-pacientes-16x9-800.webp 800w, https://clintia.com.br/assets/og/blog/reativacao-de-pacientes-16x9.webp 1600w" sizes="(min-width: 1024px) 380px, (min-width: 768px) 50vw, 100vw" width="1600" height="900" alt="" loading="lazy" decoding="async">
+  </a>
+  <div class="card-post-body">
+    <p class="overline"><a href="https://clintia.com.br/blog/categoria/base-e-recorrencia/">Base e recorrência</a></p>
+    <h3 class="t-h4"><a class="stretched" href="https://clintia.com.br/blog/reativacao-de-pacientes/">Reativação de pacientes enche a agenda sem gastar um real de mídia</a></h3>
+    <p class="post-meta"><time datetime="2026-09-25">25 set 2026</time><span>13 min de leitura</span></p>
+  </div>
+</article>    </div>
+  </section>
+</div>
+</main>
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <a href="https://clintia.com.br/" aria-label="ClintIA"><img src="https://clintia.com.br/assets/logo/logo-clintia-branca-horizontal.png" width="1215" height="281" alt="ClintIA" loading="lazy" decoding="async"></a>
+        <p>Infraestrutura comercial para clínica popular. Rio de Janeiro, Brasil.</p>
+      </div>
+      <nav class="footer-col" aria-label="Soluções">
+        <p class="footer-title">Soluções</p>
+        <ul><li><a href="https://clintia.com.br/proclip/" rel="noopener">PROClip</a></li><li><a href="https://clintia.com.br/manual/" rel="noopener">O Manual da Clínica Popular</a></li><li><a href="https://lp.clintia.com.br/sessao-estrategica-2026?utm_source=site&amp;utm_medium=cta&amp;utm_campaign=custo-de-aquisicao-de-paciente" rel="noopener">Sessão Estratégica</a></li></ul>
+      </nav>
+      <nav class="footer-col" aria-label="Empresa">
+        <p class="footer-title">Empresa</p>
+        <ul><li><a href="https://clintia.com.br/metodo-clip/" rel="noopener">Método CLIP</a></li><li><a href="https://clintia.com.br/blog/" rel="noopener">Blog</a></li><li><a href="https://clintia.com.br/sobre/" rel="noopener">Sobre a ClintIA</a></li><li><a href="https://clintia.com.br/contato/" rel="noopener">Contato</a></li></ul>
+      </nav>
+      <nav class="footer-col" aria-label="Contato">
+        <p class="footer-title">Contato</p>
+        <ul>
+          <li><a href="https://wa.me/5521998910942?text=Ol%C3%A1%2C%20vim%20pelo%20site%20da%20ClintIA%20e%20quero%20falar%20sobre%20a%20minha%20cl%C3%ADnica." rel="noopener"><svg class="ico " width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/></svg>WhatsApp +55 21 99891-0942</a></li>
+          <li><a href="mailto:bernardo@clintia.com.br"><svg class="ico " width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>bernardo@clintia.com.br</a></li>
+          <li><a href="https://www.instagram.com/clintia.br" rel="noopener" target="_blank"><svg class="ico " width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect width="20" height="20" x="2" y="2" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" x2="17.51" y1="6.5" y2="6.5"/></svg>Instagram @clintia.br</a></li>
+          <li><span><svg class="ico " width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"/><circle cx="12" cy="10" r="3"/></svg>Rio de Janeiro, RJ</span></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="footer-bar">
+      <p>ClintIA Soluções Tecnológicas para Clínicas Ltda. Todos os direitos reservados. Rio de Janeiro, RJ.</p>
+      <p class="footer-links"><a href="https://clintia.com.br/sitemap.xml">Sitemap</a><a href="https://clintia.com.br/feed.xml">RSS</a><span>&copy; 2026 ClintIA</span></p>
+    </div>
+  </div>
+</footer>
+<script src="https://clintia.com.br/assets/js/site.bc8c9108.js" defer></script>
+</body>
+</html>

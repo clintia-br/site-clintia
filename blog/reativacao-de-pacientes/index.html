@@ -1,0 +1,486 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Reativação de pacientes na clínica popular · ClintIA</title>
+<meta name="description" content="Reativação de pacientes na clínica popular: como definir quem está inativo, o que mandar, a cadência de 3 toques e a conta de custo e retorno.">
+<link rel="canonical" href="https://clintia.com.br/blog/reativacao-de-pacientes/">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+<meta name="theme-color" content="#051E32">
+<link rel="preload" as="font" type="font/woff2" crossorigin href="https://clintia.com.br/assets/fonts/red-hat-display-latin.woff2">
+<style>
+/* Red Hat Display self-host (fonte variavel, eixo wght 300-900, OFL): 2 arquivos WOFF2 no lugar das 2 conexoes do Google Fonts. Preload so do subset latin. */
+@font-face{font-family:"Red Hat Display";font-style:normal;font-weight:300 900;font-display:swap;src:url("https://clintia.com.br/assets/fonts/red-hat-display-latin.woff2") format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Red Hat Display";font-style:normal;font-weight:300 900;font-display:swap;src:url("https://clintia.com.br/assets/fonts/red-hat-display-latin-ext.woff2") format("woff2");unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+/* fallback com metricas ajustadas (reduz o pulo de layout na troca) */
+@font-face{font-family:"RHD Fallback";src:local("Arial"),local("Helvetica");size-adjust:104%;ascent-override:95%;descent-override:25%;line-gap-override:0%}
+</style>
+<link rel="stylesheet" href="https://clintia.com.br/assets/css/site.c6344228.css">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="ClintIA">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:title" content="Reativação de pacientes enche a agenda sem gastar um real de mídia">
+<meta property="og:description" content="Reativação de pacientes na clínica popular: como definir quem está inativo, o que mandar, a cadência de 3 toques e a conta de custo e retorno.">
+<meta property="og:url" content="https://clintia.com.br/blog/reativacao-de-pacientes/">
+<meta property="og:image" content="https://clintia.com.br/assets/og/blog/reativacao-de-pacientes.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Reativação de pacientes enche a agenda sem gastar um real de mídia sobre fundo escuro com a marca ClintIA">
+<meta property="article:published_time" content="2026-09-25T09:00:00-03:00">
+<meta property="article:modified_time" content="2026-09-25T09:00:00-03:00">
+<meta property="article:author" content="https://clintia.com.br/sobre/#bernardo">
+<meta property="article:section" content="Base e recorrência">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Reativação de pacientes enche a agenda sem gastar um real de mídia">
+<meta name="twitter:description" content="Reativação de pacientes na clínica popular: como definir quem está inativo, o que mandar, a cadência de 3 toques e a conta de custo e retorno.">
+<meta name="twitter:image" content="https://clintia.com.br/assets/og/blog/reativacao-de-pacientes.png">
+<meta name="twitter:image:alt" content="Reativação de pacientes enche a agenda sem gastar um real de mídia sobre fundo escuro com a marca ClintIA">
+<link rel="icon" href="https://clintia.com.br/favicon.ico" sizes="32x32">
+<link rel="icon" type="image/png" sizes="192x192" href="https://clintia.com.br/assets/icons/favicon-192.png">
+<link rel="apple-touch-icon" href="https://clintia.com.br/assets/icons/favicon-180.png">
+<link rel="manifest" href="https://clintia.com.br/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="ClintIA · Blog" href="https://clintia.com.br/feed.xml">
+<link rel="author" href="https://clintia.com.br/sobre/#bernardo"><script>document.documentElement.classList.add('js')</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "BlogPosting", "@id": "https://clintia.com.br/blog/reativacao-de-pacientes/#article", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://clintia.com.br/blog/reativacao-de-pacientes/"}, "url": "https://clintia.com.br/blog/reativacao-de-pacientes/", "headline": "Reativação de pacientes na clínica popular", "alternativeHeadline": "Reativação de pacientes enche a agenda sem gastar um real de mídia", "description": "Reativação de pacientes na clínica popular: como definir quem está inativo, o que mandar, a cadência de 3 toques e a conta de custo e retorno.", "image": ["https://clintia.com.br/assets/og/blog/reativacao-de-pacientes-16x9.webp", "https://clintia.com.br/assets/og/blog/reativacao-de-pacientes-4x3.webp", "https://clintia.com.br/assets/og/blog/reativacao-de-pacientes-1x1.webp"], "datePublished": "2026-09-25T09:00:00-03:00", "dateModified": "2026-09-25T09:00:00-03:00", "author": {"@id": "https://clintia.com.br/sobre/#bernardo"}, "publisher": {"@id": "https://clintia.com.br/#organization"}, "isPartOf": {"@id": "https://clintia.com.br/blog/#blog"}, "articleSection": "Base e recorrência", "keywords": ["reativação de pacientes", "pacientes inativos clínica", "resgatar pacientes antigos", "mensagem para paciente sumido", "campanha de reativação clínica", "busca ativa de pacientes", "base de pacientes inativos"], "wordCount": 2453, "inLanguage": "pt-BR", "isAccessibleForFree": true, "about": [{"@type": "Thing", "name": "Clínica popular"}, {"@type": "Thing", "name": "reativação de pacientes"}, {"@type": "Thing", "name": "pacientes inativos clínica"}]}, {"@type": "Person", "@id": "https://clintia.com.br/sobre/#bernardo", "name": "Bernardo Carneiro", "url": "https://clintia.com.br/sobre/", "jobTitle": "Fundador e CEO", "worksFor": {"@id": "https://clintia.com.br/#organization"}, "image": {"@type": "ImageObject", "url": "https://clintia.com.br/assets/img/avatar-bernardo-256.webp", "width": 256, "height": 256}}, {"@type": "Organization", "@id": "https://clintia.com.br/#organization", "name": "ClintIA", "url": "https://clintia.com.br/", "logo": {"@type": "ImageObject", "@id": "https://clintia.com.br/#logo", "url": "https://clintia.com.br/assets/logo/clintia-logo-horizontal-cor-600.png", "contentUrl": "https://clintia.com.br/assets/logo/clintia-logo-horizontal-cor-600.png", "width": 600, "height": 135, "caption": "ClintIA"}}, {"@type": "BreadcrumbList", "@id": "https://clintia.com.br/blog/reativacao-de-pacientes/#breadcrumb", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Início", "item": "https://clintia.com.br/"}, {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://clintia.com.br/blog/"}, {"@type": "ListItem", "position": 3, "name": "Base e recorrência", "item": "https://clintia.com.br/blog/categoria/base-e-recorrencia/"}, {"@type": "ListItem", "position": 4, "name": "A agenda que já está na base"}]}, {"@type": "FAQPage", "@id": "https://clintia.com.br/blog/reativacao-de-pacientes/#faq", "mainEntity": [{"@type": "Question", "name": "Depois de quanto tempo um paciente vira inativo?", "acceptedAnswer": {"@type": "Answer", "text": "Depende do ciclo clínico da especialidade, não de um número fixo: cerca de 90 dias em estética e sessões recorrentes, 9 meses em pediatria e odontologia preventiva, 12 a 15 meses em clínica geral e check-up. Sem data prevista de retorno no sistema, comece por 180 dias sem passar e ajuste depois."}}, {"@type": "Question", "name": "O que escrever para um paciente que sumiu?", "acceptedAnswer": {"@type": "Answer", "text": "Nome dele, o motivo concreto do contato (o retorno que venceu, o exame pendente, o orçamento aberto), quem está falando e uma pergunta fechada com dois horários. Mensagem curta, sem promoção; quem passou de 12 meses recebe também uma frase oferecendo sair da lista."}}, {"@type": "Question", "name": "Vale dar desconto para reativar paciente?", "acceptedAnswer": {"@type": "Answer", "text": "Só quando o desconto tem motivo e prazo, como um exame de rotina que venceu ou uma campanha sazonal de uma especialidade. Desconto como abertura de conversa ensina a base a esperar desconto e derruba o ticket de quem voltaria de qualquer jeito."}}, {"@type": "Question", "name": "Com que frequência mandar mensagem sem ser bloqueado?", "acceptedAnswer": {"@type": "Answer", "text": "No máximo três toques por ciclo (dois no WhatsApp e um por ligação), com alguns dias entre eles, e depois silêncio por 90 a 180 dias antes de tentar de novo. Use o WhatsApp Business oficial, respeite quem pede para sair e nunca dispare para toda a base de uma vez."}}, {"@type": "Question", "name": "Quantos pacientes da base voltam numa campanha de reativação?", "acceptedAnswer": {"@type": "Answer", "text": "Não existe percentual universal e a gente não publica taxa de resposta de cliente como se fosse média: depende da idade da base, de quantos telefones ainda funcionam e da qualidade do motivo. Rode um piloto com 300 a 500 contatos da janela mais quente, meça agendados e atendidos, e projete a partir do seu próprio número."}}]}]}</script>
+</head>
+<body class="page-artigo">
+<a class="skip-link" href="#conteudo">Ir para o conteúdo</a>
+<header class="site-header">
+  <div class="container site-header-inner">
+    <a class="logo" href="https://clintia.com.br/" aria-label="ClintIA, página inicial">
+      <img src="https://clintia.com.br/assets/logo/clintia-logo-horizontal-cor-600.png" width="600" height="135" alt="ClintIA" decoding="async" fetchpriority="high">
+    </a>
+    <nav class="nav" aria-label="Principal">
+      <ul>
+        <li><a href="https://clintia.com.br/metodo-clip/">Método CLIP</a></li>
+        <li><a href="https://clintia.com.br/proclip/">PROClip</a></li>
+        <li><a href="https://clintia.com.br/manual/">Manual</a></li>
+        <li><a href="https://clintia.com.br/blog/" aria-current="page">Blog</a></li>
+        <li><a href="https://clintia.com.br/sobre/">Sobre</a></li>
+        <li><a href="https://clintia.com.br/contato/">Contato</a></li>
+      </ul>
+    </nav>
+    <a class="btn btn-primary btn-sm header-cta" href="https://lp.clintia.com.br/sessao-estrategica-2026?utm_source=site&amp;utm_medium=cta&amp;utm_campaign=reativacao-de-pacientes" rel="noopener"><span><span class="hide-lg">Agendar </span>Sessão Estratégica</span></a>
+    <button type="button" class="menu-btn" aria-expanded="false" aria-controls="menu-drawer" aria-label="Abrir menu">
+      <span class="ico-menu"><svg class="ico " width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><line x1="4" x2="20" y1="12" y2="12"/><line x1="4" x2="20" y1="6" y2="6"/><line x1="4" x2="20" y1="18" y2="18"/></svg></span><span class="ico-x"><svg class="ico " width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg></span>
+    </button>
+  </div>
+  <div class="menu-drawer" id="menu-drawer" hidden>
+    <nav aria-label="Menu">
+      <ul class="menu-list">
+        <li><a href="https://clintia.com.br/">Início</a></li>
+        <li><a href="https://clintia.com.br/metodo-clip/">Método CLIP</a></li>
+        <li><a href="https://clintia.com.br/proclip/">PROClip</a></li>
+        <li><a href="https://clintia.com.br/manual/">Manual</a></li>
+        <li><a href="https://clintia.com.br/blog/" aria-current="page">Blog</a></li>
+        <li><a href="https://clintia.com.br/sobre/">Sobre</a></li>
+        <li><a href="https://clintia.com.br/contato/">Contato</a></li>
+      </ul>
+      <a class="btn btn-primary btn-block" href="https://lp.clintia.com.br/sessao-estrategica-2026?utm_source=site&amp;utm_medium=cta&amp;utm_campaign=reativacao-de-pacientes" rel="noopener">Agendar Sessão Estratégica</a>
+      <p class="menu-contact"><a href="https://wa.me/5521998910942?text=Ol%C3%A1%2C%20vim%20pelo%20site%20da%20ClintIA%20e%20quero%20falar%20sobre%20a%20minha%20cl%C3%ADnica." rel="noopener"><svg class="ico " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/></svg>WhatsApp +55 21 99891-0942</a></p>
+    </nav>
+  </div>
+</header>
+<div class="reading-progress" aria-hidden="true"></div><main id="conteudo" tabindex="-1">
+<div class="container container--article article-layout">
+  <header class="article-header">
+    <nav class="crumbs" aria-label="Você está em">
+  <ol>
+<li><a href="https://clintia.com.br/">Início</a><svg class="ico " width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m9 18 6-6-6-6"/></svg></li><li><a href="https://clintia.com.br/blog/">Blog</a><svg class="ico " width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m9 18 6-6-6-6"/></svg></li><li><a href="https://clintia.com.br/blog/categoria/base-e-recorrencia/">Base e recorrência</a><svg class="ico " width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m9 18 6-6-6-6"/></svg></li><li aria-current="page">A agenda que já está na base</li>  </ol>
+</nav>
+    <p class="overline"><a href="https://clintia.com.br/blog/categoria/base-e-recorrencia/">Base e recorrência</a></p>
+    <h1 class="t-h1-article">Reativação de pacientes enche a agenda sem gastar um real de mídia</h1>
+<p class="t-lede">Reativação de pacientes é um dos canais mais baratos que uma clínica popular tem, e quase sempre o menos usado. A base de pacientes inativos, quem já passou pela recepção e não voltou, guarda retornos vencidos, exames pendentes e orçamentos abertos que podem ocupar uma parte relevante da agenda de todo dia sem verba de anúncio. Neste texto a gente mostra como definir quem está inativo, o que mandar, em que ritmo, e a conta de quanto custa e quanto volta.</p>    <div class="byline">
+      <img class="byline-avatar" src="https://clintia.com.br/assets/img/avatar-bernardo-128.webp" srcset="https://clintia.com.br/assets/img/avatar-bernardo-128.webp 1x, https://clintia.com.br/assets/img/avatar-bernardo-256.webp 2x" width="40" height="40" alt="" decoding="async">
+      <p>
+        <span>Por <a rel="author" href="https://clintia.com.br/sobre/#bernardo">Bernardo Carneiro</a></span>
+        <span><time datetime="2026-09-25">25 set 2026</time></span>
+        <span>13 min de leitura</span>
+      </p>
+    </div>
+    <div class="share " data-share>
+  <span class="share-label">Compartilhar</span>
+  <button type="button" class="share-btn" data-copy="https://clintia.com.br/blog/reativacao-de-pacientes/" aria-label="Copiar link"><svg class="ico " width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg></button>
+  <a class="share-btn" href="https://wa.me/?text=Reativa%C3%A7%C3%A3o%20de%20pacientes%20enche%20a%20agenda%20sem%20gastar%20um%20real%20de%20m%C3%ADdia%20https%3A//clintia.com.br/blog/reativacao-de-pacientes/" rel="noopener" target="_blank" aria-label="Compartilhar no WhatsApp"><svg class="ico " width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/></svg></a>
+  <a class="share-btn" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//clintia.com.br/blog/reativacao-de-pacientes/" rel="noopener" target="_blank" aria-label="Compartilhar no LinkedIn"><svg class="ico " width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect width="4" height="12" x="2" y="9"/><circle cx="4" cy="4" r="2"/></svg></a>
+  <a class="share-btn" href="mailto:?subject=Reativa%C3%A7%C3%A3o%20de%20pacientes%20enche%20a%20agenda%20sem%20gastar%20um%20real%20de%20m%C3%ADdia&body=https%3A//clintia.com.br/blog/reativacao-de-pacientes/" aria-label="Enviar por e-mail"><svg class="ico " width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg></a>
+  <span class="share-feedback" aria-live="polite"></span>
+</div>
+  </header>
+
+  <figure class="article-cover wide">
+    <img src="https://clintia.com.br/assets/og/blog/reativacao-de-pacientes-16x9.webp" srcset="https://clintia.com.br/assets/og/blog/reativacao-de-pacientes-16x9-800.webp 800w, https://clintia.com.br/assets/og/blog/reativacao-de-pacientes-16x9.webp 1600w" sizes="(min-width: 1280px) 1000px, (min-width: 1024px) 660px, 100vw" width="1600" height="900" alt="Capa da matéria: A agenda que já está na base, sobre fundo escuro com a marca ClintIA" fetchpriority="high" decoding="async">
+  </figure>
+
+  <nav class="article-toc toc" aria-label="Neste artigo">
+    <p class="overline">Neste artigo</p>
+    <ol><li><a href="#quantos-pacientes-inativos-a-sua-clinica-popular-ja-tem-e-nao-usa">Quantos pacientes inativos a sua clínica popular já tem e não usa</a></li><li><a href="#retorno-vencido-e-produto-como-definir-inativo-por-especialidade">Retorno vencido é produto: como definir &#34;inativo&#34; por especialidade</a></li><li><a href="#quanto-da-agenda-pode-vir-da-base-um-exemplo-de-40-em-160-horarios">Quanto da agenda pode vir da base: um exemplo de 40 em 160 horários</a></li><li><a href="#segmentar-antes-de-disparar-janelas-de-90-180-e-365-dias">Segmentar antes de disparar: janelas de 90, 180 e 365 dias</a></li><li><a href="#reativacao-de-pacientes-a-mensagem-para-paciente-sumido-que-funciona-e-a-que-da-bloqueio">Reativação de pacientes: a mensagem para paciente sumido que funciona e a que dá bloqueio</a></li><li><a href="#whatsapp-ligacao-ou-os-dois-a-cadencia-de-3-toques">WhatsApp, ligação ou os dois: a cadência de 3 toques</a></li><li><a href="#sem-crm-a-busca-ativa-morre-em-30-dias">Sem CRM a busca ativa morre em 30 dias</a></li><li><a href="#quanto-custa-uma-campanha-de-reativacao-de-pacientes-e-quanto-volta">Quanto custa uma campanha de reativação de pacientes e quanto volta</a></li><li><a href="#perguntas-frequentes">Perguntas frequentes</a></li><li><a href="#faca-hoje">Faça hoje</a></li><li><a href="#o-proximo-passo">O próximo passo</a></li></ol>
+  </nav>
+
+  <article class="article-body">
+    <details class="toc toc--inline">
+      <summary><span>Neste artigo</span><svg class="ico chev" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m6 9 6 6 6-6"/></svg></summary>
+      <ol><li><a href="#quantos-pacientes-inativos-a-sua-clinica-popular-ja-tem-e-nao-usa">Quantos pacientes inativos a sua clínica popular já tem e não usa</a></li><li><a href="#retorno-vencido-e-produto-como-definir-inativo-por-especialidade">Retorno vencido é produto: como definir &#34;inativo&#34; por especialidade</a></li><li><a href="#quanto-da-agenda-pode-vir-da-base-um-exemplo-de-40-em-160-horarios">Quanto da agenda pode vir da base: um exemplo de 40 em 160 horários</a></li><li><a href="#segmentar-antes-de-disparar-janelas-de-90-180-e-365-dias">Segmentar antes de disparar: janelas de 90, 180 e 365 dias</a></li><li><a href="#reativacao-de-pacientes-a-mensagem-para-paciente-sumido-que-funciona-e-a-que-da-bloqueio">Reativação de pacientes: a mensagem para paciente sumido que funciona e a que dá bloqueio</a></li><li><a href="#whatsapp-ligacao-ou-os-dois-a-cadencia-de-3-toques">WhatsApp, ligação ou os dois: a cadência de 3 toques</a></li><li><a href="#sem-crm-a-busca-ativa-morre-em-30-dias">Sem CRM a busca ativa morre em 30 dias</a></li><li><a href="#quanto-custa-uma-campanha-de-reativacao-de-pacientes-e-quanto-volta">Quanto custa uma campanha de reativação de pacientes e quanto volta</a></li><li><a href="#perguntas-frequentes">Perguntas frequentes</a></li><li><a href="#faca-hoje">Faça hoje</a></li><li><a href="#o-proximo-passo">O próximo passo</a></li></ol>
+    </details>
+
+    <div class="prose prose--article">
+      <h2 id="quantos-pacientes-inativos-a-sua-clinica-popular-ja-tem-e-nao-usa">Quantos pacientes inativos a sua clínica popular já tem e não usa</h2>
+<p>Toda clínica com alguns anos de porta aberta tem um número que o dono raramente olha: a quantidade de cadastros no sistema. Em clínica popular esse número é grande porque o modelo é de volume, 80 a 200 agendamentos por semana com ticket entre R$ 60 e R$ 150. Em cinco anos isso passa de dez mil pessoas com nome, telefone e histórico, e nas clínicas maiores chega a dezenas de milhares.</p>
+<p>Nas conversas que temos com donos, a cena se repete. A base tem dezenas de milhares de cadastros, às vezes muito mais, e quando perguntamos o que a clínica faz com ela, a resposta mais comum é que não faz nada: nem aviso de retorno, nem uma ligação para quem começou um tratamento e parou no meio.</p>
+<p>Enquanto isso, o mesmo dono paga anúncio para atrair gente que nunca ouviu falar da clínica, e deixa parado o paciente que já confiou uma vez e já tem prontuário aberto. A gente chama isso de ouro parado na base: o valor está lá e ninguém foi buscar.</p>
+<h2 id="retorno-vencido-e-produto-como-definir-inativo-por-especialidade">Retorno vencido é produto: como definir "inativo" por especialidade</h2>
+<p>O primeiro erro de quem tenta reativar é tratar a base como uma lista só. Inativo depende do ciclo clínico da especialidade contado a partir da última visita: quem fez limpeza dental há 8 meses está atrasado; quem fez check-up há 8 meses está em dia.</p>
+<p>Por isso o retorno vencido precisa ser tratado como produto. Cada especialidade tem um intervalo em que o paciente deveria voltar, e cada intervalo vencido é uma consulta que já tem dono, só não tem data. A tabela abaixo é a régua que a gente usa como ponto de partida. Os prazos vêm da prática, sem levantamento estatístico por trás; ajuste pelo protocolo dos seus médicos.</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Tabela; role para o lado se necessário"><table>
+<thead>
+<tr>
+<th>Especialidade ou tipo de atendimento</th>
+<th>Ciclo esperado de retorno</th>
+<th>A partir de quando tratar como inativo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Estética, dermatologia com sessões, fisioterapia</td>
+<td class="num">30 a 60 dias</td>
+<td class="num">90 dias sem passar</td>
+</tr>
+<tr>
+<td>Odontologia preventiva</td>
+<td class="num">6 meses</td>
+<td class="num">9 meses</td>
+</tr>
+<tr>
+<td>Pediatria de rotina</td>
+<td class="num">6 meses</td>
+<td class="num">9 meses</td>
+</tr>
+<tr>
+<td>Ginecologia preventiva</td>
+<td class="num">12 meses</td>
+<td class="num">15 a 18 meses</td>
+</tr>
+<tr>
+<td>Clínica geral, check-up, exames de rotina</td>
+<td class="num">6 a 12 meses</td>
+<td class="num">12 a 15 meses</td>
+</tr>
+<tr>
+<td>Tratamento longo interrompido (ortodontia, terapia, fisioterapia)</td>
+<td class="num">Conforme o plano</td>
+<td>60 dias depois da última sessão prevista</td>
+</tr>
+<tr>
+<td>Orçamento de exame ou procedimento que não fechou</td>
+<td class="num">Imediato</td>
+<td>24 horas depois do orçamento</td>
+</tr>
+</tbody>
+</table></div>
+<p>Repare na última linha. Orçamento aberto é a fatia mais quente da base: a pessoa perguntou, recebeu o valor e sumiu. Em clínica acessível isso acontece todo dia no WhatsApp, e quase nunca alguém volta para perguntar se ficou dúvida. O que responder quando a primeira mensagem é o preço, e como registrar o orçamento aberto, está em <a href="https://clintia.com.br/blog/quanto-custa-a-consulta-whatsapp/">outra matéria</a>. Se a sua clínica não registra data prevista de retorno, comece com 180 dias sem nenhuma passagem e refine depois.</p>
+<div class="ad-slot ad-slot--mobile"><div class="ad-wrap ad-wrap--336x280">
+  <span class="ad-label" aria-hidden="true">publicidade</span>
+  <a class="house-ad house-ad--336x280 house-ad--light" href="https://www.proclip.com.br/apostila?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=comunidade-manual&amp;utm_content=336x280-reativacao-de-pacientes" rel="noopener" data-ad="comunidade-manual" data-format="336x280" aria-label="Publicidade: comunidade do Manual da Clínica Popular, mais de 80 donos de clínica">
+    <img class="house-ad-logo" src="https://clintia.com.br/assets/logo/clintia-logo-horizontal-cor-600.png" width="600" height="135" alt="" loading="lazy" decoding="async">
+    <span class="house-ad-kicker">Comunidade do Manual</span>
+    <span class="house-ad-title">Mais de 80 donos de clínica popular no mesmo grupo</span>
+    <span class="house-ad-line">Quem já aplica o método troca o que funcionou e o que deu errado.</span>
+    <span class="btn btn-primary house-ad-btn">Conhecer o Manual</span>
+  </a>
+</div></div><h2 id="quanto-da-agenda-pode-vir-da-base-um-exemplo-de-40-em-160-horarios">Quanto da agenda pode vir da base: um exemplo de 40 em 160 horários</h2>
+<p>Uma clínica de especialidades com base antiga que acompanhamos preenche cerca de 40 dos 160 horários do dia só com chamada ativa para pacientes antigos, um quarto da agenda sem um real de mídia. Trate esse número como teto, não como média: ele depende de base antiga, de alguém com tempo reservado para ligar e de um público que atende telefone. Uma clínica de três anos vai preencher menos, e mais por WhatsApp.</p>
+<p>Faça a conta na sua escala. Se 10% da sua agenda diária viesse da base, quantos horários seriam? Numa agenda de 100 atendimentos por dia são 10 pacientes que hoje você compra com anúncio ou deixa vazios.</p>
+<h2 id="segmentar-antes-de-disparar-janelas-de-90-180-e-365-dias">Segmentar antes de disparar: janelas de 90, 180 e 365 dias</h2>
+<p>Resgatar pacientes antigos começa por escolher quem chamar. Base grande disparada de uma vez produz duas coisas: bloqueio do número e uma agenda que enche em dois dias e esvazia na semana seguinte. A gente trabalha com janelas, sempre contadas a partir do que a especialidade define como inativo.</p>
+<p><strong>Até 90 dias além do retorno previsto.</strong> O grupo mais quente. A pessoa ainda lembra da clínica, do médico e do motivo, e um lembrete direto de continuidade resolve.</p>
+<p><strong>De 90 a 180 dias.</strong> A memória esfriou. Aqui entra o motivo clínico com contexto: o exame que precisa repetir, a sessão que ficou pela metade, a data preventiva que passou. Vale ligar para os casos de maior valor.</p>
+<p><strong>De 180 a 365 dias.</strong> Parte dos telefones já não funciona e parte das pessoas mudou de bairro ou de convênio. A mensagem reapresenta a clínica em uma frase e dá uma saída fácil para quem não quer mais contato.</p>
+<p><strong>Acima de 365 dias.</strong> Base fria. Teste um lote pequeno, meça número inválido e resposta, e só depois decida se vale o esforço. Muitas vezes o melhor uso dessa faixa é limpar o cadastro.</p>
+<p>Um dono de clínica que acompanhamos já faz um recorte parecido por conta própria: seleciona no sistema quem está entre 200 e 320 dias sem passar e dispara só para esse grupo, nunca para a base inteira. O tamanho do lote é o que cabe para a recepção responder na semana; para a maioria das clínicas isso fica entre 300 e 500 contatos.</p>
+<p>Antes de qualquer envio, dois filtros: telefone válido com DDD e ninguém que já pediu para não receber contato.</p>
+<div class="ad-slot ad-slot--mobile"><div class="ad-wrap ad-wrap--336x280">
+  <span class="ad-label" aria-hidden="true">publicidade</span>
+  <a class="house-ad house-ad--336x280 house-ad--dark" href="https://www.proclip.com.br/apostila?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=manual&amp;utm_content=336x280-reativacao-de-pacientes" rel="noopener" data-ad="manual" data-format="336x280" aria-label="Publicidade: O Manual da Clínica Popular, ebook com planilha de CAP, scripts de WhatsApp e comunidade">
+    <img class="house-ad-logo" src="https://clintia.com.br/assets/logo/logo-clintia-branca-horizontal.png" width="1215" height="281" alt="" loading="lazy" decoding="async">
+    <span class="house-ad-kicker">O Manual da Clínica Popular</span>
+    <span class="house-ad-title">O sistema comercial das grandes redes, no tamanho da sua clínica</span>
+    <span class="house-ad-line">Ebook, planilha de CAP e scripts de WhatsApp.</span>
+    <span class="btn btn-on-dark house-ad-btn">Conhecer o Manual</span>
+  </a>
+</div></div><h2 id="reativacao-de-pacientes-a-mensagem-para-paciente-sumido-que-funciona-e-a-que-da-bloqueio">Reativação de pacientes: a mensagem para paciente sumido que funciona e a que dá bloqueio</h2>
+<p>A mensagem que dá bloqueio é fácil de reconhecer: começa com "Olá!!!", tem promoção no meio, termina com link e não diz quem está falando. O paciente trata como spam porque é isso que ela é.</p>
+<p>A mensagem que funciona tem quatro elementos, nesta ordem: nome da pessoa, motivo concreto do contato, quem está falando e uma pergunta fechada com dois horários. Curta o suficiente para caber na tela do celular sem rolar.</p>
+<p>Abaixo, o mesmo caso em duas versões. Os casos são hipotéticos e os nomes, inventados.</p>
+<p><strong>Situação: retorno de rotina vencido há 4 meses (clínica geral).</strong></p>
+<p>Errado:</p>
+<blockquote>
+<p>Olá!!! Sentimos sua falta! A Clínica está com condições especiais para você cuidar da sua saúde. Agende já pelo link e aproveite!</p>
+</blockquote>
+<p>Certo:</p>
+<blockquote>
+<p>Dona Marlene, aqui é a Carla, da recepção da clínica. O Dr. Fábio deixou marcado que a senhora precisava repetir os exames de rotina em maio e a gente não conseguiu agendar. Tenho horário quinta às 9h ou sexta às 14h. Qual fica melhor?</p>
+</blockquote>
+<p>A versão certa só pede uma escolha, e quem lê entende que existe uma pessoa do outro lado que olhou o prontuário.</p>
+<p><strong>Situação: orçamento de exame aberto há 24 horas.</strong></p>
+<blockquote>
+<p>Seu Carlos, é a Carla, da clínica. Ontem mandei o valor da ultrassonografia e queria saber se ficou alguma dúvida. Se quiser, consigo encaixar amanhã às 10h40. Faz sentido para o senhor?</p>
+</blockquote>
+<p><strong>Situação: base fria, mais de 12 meses sem passar.</strong></p>
+<blockquote>
+<p>Sr. José, aqui é a Carla, da clínica do bairro, onde o senhor fez consulta em 2024. Estamos organizando a agenda de check-up deste mês e queria saber se faz sentido marcar. Se preferir não receber mais mensagens nossas, é só responder "não", sem problema.</p>
+</blockquote>
+<p>A frase de saída no final protege o número: quem responde "não" sai da lista e dificilmente denuncia. Quem responde "sim" precisa ser atendido em menos de cinco minutos, porque a janela de interesse de quem acabou de dizer sim é curta.</p>
+<p>O que não entra na mensagem: informação clínica sensível (diagnóstico, resultado de exame, medicação), que exige canal seguro, e promessa de resultado, que a ética médica proíbe em qualquer comunicação da clínica com o paciente, inclusive mensagem privada.</p>
+<h2 id="whatsapp-ligacao-ou-os-dois-a-cadencia-de-3-toques">WhatsApp, ligação ou os dois: a cadência de 3 toques</h2>
+<p>A pergunta "WhatsApp ou ligação, qual converte mais" tem resposta errada quando é "ou". Os dois canais fazem trabalhos diferentes, e a cadência que a gente implanta usa os dois em sequência, com no máximo três toques por ciclo.</p>
+<ol>
+<li><strong>Toque 1, dia 0, WhatsApp.</strong> A mensagem com nome, motivo, pessoa e dois horários. Vai para todo o recorte da semana.</li>
+<li><strong>Toque 2, entre o dia 3 e o dia 5, WhatsApp.</strong> Só para quem não respondeu. Duas linhas, com um ângulo diferente do primeiro (se o primeiro falou do retorno, o segundo fala do horário que abriu). Sem repetir o texto.</li>
+<li><strong>Toque 3, entre o dia 10 e o dia 14, ligação.</strong> Só para quem não respondeu aos dois e tem valor para justificar o tempo de uma pessoa: tratamento interrompido, orçamento acima do ticket médio. Uma tentativa, com recado se não atender.</li>
+</ol>
+<p>Depois do terceiro toque, silêncio. O contato volta para a fila e só recebe nova tentativa 90 a 180 dias depois, com motivo novo. É isso que impede o bloqueio: o paciente recebe três contatos espaçados e depois fica meses em paz.</p>
+<p>Sobre o canal em si: na nossa experiência a ligação tende a converter mais por contato atendido, e o WhatsApp rende mais por hora de trabalho da equipe. Quem decide é o perfil da sua base: público mais velho tende a atender telefone; público mais jovem responde WhatsApp. Meça os dois no seu piloto antes de fechar a cadência.</p>
+<p>E use o WhatsApp Business oficial. Disparo por ferramenta paralela com chip avulso é a forma mais rápida de perder o número que a recepção usa para tudo.</p>
+<h2 id="sem-crm-a-busca-ativa-morre-em-30-dias">Sem CRM a busca ativa morre em 30 dias</h2>
+<p>Tudo o que a gente descreveu até aqui cabe numa planilha, e é assim que a maioria das clínicas começa. Na primeira semana funciona. Na quarta semana ninguém sabe mais quem recebeu o toque 2, quem já foi ligado, quem marcou e faltou.</p>
+<p>A busca ativa de pacientes morre por trabalho duplo. Se a atendente precisa anotar na planilha, no prontuário e no WhatsApp, ela vai parar de anotar em algum deles, e o processo perde a memória. Depois de um mês a resposta é "a gente parou porque enrolou".</p>
+<p>O que segura o processo de pé é um CRM ligado ao WhatsApp da clínica, com um funil de reativação separado do funil de leads novos. As colunas que a gente monta:</p>
+<ul>
+<li><strong>Inativo selecionado</strong>: entrou no recorte da semana.</li>
+<li><strong>Toque 1 enviado</strong>: saiu a primeira mensagem.</li>
+<li><strong>Respondeu</strong>: precisa de resposta humana em menos de cinco minutos.</li>
+<li><strong>Agendado</strong>: tem data e hora.</li>
+<li><strong>Compareceu</strong>: o único número que vale.</li>
+<li><strong>Sem retorno</strong>: volta para a fila e só recebe novo toque em 90 a 180 dias.</li>
+</ul>
+<p>O detalhe que faz o funil sobreviver é a movimentação automática: o card muda de coluna quando a mensagem sai, quando o paciente responde, quando a recepção digita uma palavra-chave combinada ("agendado", por exemplo). Card que depende de alguém arrastar com o mouse não sobrevive ao volume de uma clínica popular. Por isso a busca ativa começa pelo CRM.</p>
+<h2 id="quanto-custa-uma-campanha-de-reativacao-de-pacientes-e-quanto-volta">Quanto custa uma campanha de reativação de pacientes e quanto volta</h2>
+<p>Reativar custa uma fração do que custa captar paciente novo. No paciente novo você paga o clique, a agência, a ferramenta e a hora de recepção. No paciente da base, o clique e a agência já foram pagos quando ele entrou pela primeira vez.</p>
+<p>A conta abaixo é um exemplo hipotético com premissas conservadoras. Os percentuais não são resultado nosso nem de cliente; são números redondos para você trocar pelos seus.</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Tabela; role para o lado se necessário"><table>
+<thead>
+<tr>
+<th class="num">Etapa</th>
+<th>Premissa do exemplo</th>
+<th class="num">Resultado</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="num">Base total</td>
+<td class="num">12.000 cadastros</td>
+<td></td>
+</tr>
+<tr>
+<td>Inativos na janela de 90 a 365 dias com telefone válido</td>
+<td class="num">30% da base</td>
+<td class="num">3.600 contatos</td>
+</tr>
+<tr>
+<td>Enviados no mês (4 lotes semanais de 900)</td>
+<td class="num">100% da janela</td>
+<td class="num">3.600 mensagens</td>
+</tr>
+<tr>
+<td class="num">Responderam</td>
+<td class="num">8%</td>
+<td class="num">288 pessoas</td>
+</tr>
+<tr>
+<td class="num">Agendaram</td>
+<td>metade de quem respondeu</td>
+<td class="num">144 agendamentos</td>
+</tr>
+<tr>
+<td class="num">Compareceram</td>
+<td class="num">70% dos agendados</td>
+<td class="num">101 atendimentos</td>
+</tr>
+<tr>
+<td class="num">Ticket médio</td>
+<td class="num">R$ 90</td>
+<td class="num">R$ 9.090 faturados</td>
+</tr>
+<tr>
+<td>Custo: ferramenta de WhatsApp oficial + CRM</td>
+<td class="num">R$ 400 no mês</td>
+<td></td>
+</tr>
+<tr>
+<td>Custo: 30 horas de atendente dedicadas</td>
+<td class="num">R$ 600 no mês</td>
+<td></td>
+</tr>
+<tr>
+<td class="num">Custo total</td>
+<td></td>
+<td class="num">R$ 1.000</td>
+</tr>
+<tr>
+<td>Custo por paciente atendido</td>
+<td class="num">R$ 1.000 / 101</td>
+<td class="num">R$ 9,90</td>
+</tr>
+</tbody>
+</table></div>
+<p>Para comparar: o <a href="https://clintia.com.br/blog/custo-de-aquisicao-de-paciente/">custo de aquisição de paciente</a> que a gente encontra nas clínicas antes de organizar o comercial é de R$ 28,80, e depois da implantação o resultado típico é R$ 13,60. No exemplo acima a base entrega paciente a R$ 9,90, e ele já conhece a clínica.</p>
+<p>Um aviso sobre essa conta: se a taxa de resposta do seu piloto der 3% em vez de 8%, o custo por atendido sobe para uns R$ 26 e ainda assim empata com a mídia. A conta não depende de otimismo. E os 101 atendimentos do exemplo são cerca de 5 por dia útil, com a fila se renovando porque novos retornos vencem o tempo todo.</p>
+<h2 id="perguntas-frequentes">Perguntas frequentes</h2>
+<div class="faq">
+  <details class="faq-item">
+    <summary><span>Depois de quanto tempo um paciente vira inativo?</span><svg class="ico chev" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m6 9 6 6 6-6"/></svg></summary>
+    <div class="faq-a"><p>Depende do ciclo clínico da especialidade, não de um número fixo: cerca de 90 dias em estética e sessões recorrentes, 9 meses em pediatria e odontologia preventiva, 12 a 15 meses em clínica geral e check-up. Sem data prevista de retorno no sistema, comece por 180 dias sem passar e ajuste depois.</p></div>
+  </details>
+  <details class="faq-item">
+    <summary><span>O que escrever para um paciente que sumiu?</span><svg class="ico chev" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m6 9 6 6 6-6"/></svg></summary>
+    <div class="faq-a"><p>Nome dele, o motivo concreto do contato (o retorno que venceu, o exame pendente, o orçamento aberto), quem está falando e uma pergunta fechada com dois horários. Mensagem curta, sem promoção; quem passou de 12 meses recebe também uma frase oferecendo sair da lista.</p></div>
+  </details>
+  <details class="faq-item">
+    <summary><span>Vale dar desconto para reativar paciente?</span><svg class="ico chev" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m6 9 6 6 6-6"/></svg></summary>
+    <div class="faq-a"><p>Só quando o desconto tem motivo e prazo, como um exame de rotina que venceu ou uma campanha sazonal de uma especialidade. Desconto como abertura de conversa ensina a base a esperar desconto e derruba o ticket de quem voltaria de qualquer jeito.</p></div>
+  </details>
+  <details class="faq-item">
+    <summary><span>Com que frequência mandar mensagem sem ser bloqueado?</span><svg class="ico chev" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m6 9 6 6 6-6"/></svg></summary>
+    <div class="faq-a"><p>No máximo três toques por ciclo (dois no WhatsApp e um por ligação), com alguns dias entre eles, e depois silêncio por 90 a 180 dias antes de tentar de novo. Use o WhatsApp Business oficial, respeite quem pede para sair e nunca dispare para toda a base de uma vez.</p></div>
+  </details>
+  <details class="faq-item">
+    <summary><span>Quantos pacientes da base voltam numa campanha de reativação?</span><svg class="ico chev" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m6 9 6 6 6-6"/></svg></summary>
+    <div class="faq-a"><p>Não existe percentual universal e a gente não publica taxa de resposta de cliente como se fosse média: depende da idade da base, de quantos telefones ainda funcionam e da qualidade do motivo. Rode um piloto com 300 a 500 contatos da janela mais quente, meça agendados e atendidos, e projete a partir do seu próprio número.</p></div>
+  </details>
+</div>
+<h2 id="faca-hoje">Faça hoje</h2>
+<ol>
+<li>Peça ao sistema a lista de pacientes sem passagem há mais de 180 dias, com telefone. O tamanho dessa lista já muda a conversa sobre verba de anúncio. Se a clínica ainda liga anúncio antes de organizar o comercial, vale ler antes <a href="https://clintia.com.br/blog/marketing-para-clinica-popular/">por onde começa o marketing da clínica popular</a>.</li>
+<li>Separe os orçamentos abertos das últimas 48 horas no WhatsApp e mande a mensagem do "ficou alguma dúvida" para cada um, hoje.</li>
+<li>Escolha uma especialidade, defina o prazo de inativo com o médico responsável e monte um lote de 300 contatos da janela de 90 a 180 dias.</li>
+<li>Escreva a mensagem do toque 1 com nome, motivo, pessoa e dois horários. Leia em voz alta; se soar como propaganda, reescreva.</li>
+<li>Anote, mesmo em planilha, quem respondeu, agendou e compareceu. Esse número diz se vale montar o funil no CRM.</li>
+</ol>
+<h2 id="o-proximo-passo">O próximo passo</h2>
+<p>Se a sua base tem milhares de cadastros e a reativação hoje é "a gente já tentou e parou", o gargalo está na estrutura que segura o processo depois da primeira semana, e raramente na mensagem. É isso que a gente implanta no PROClip: CRM ligado ao WhatsApp, funil de reativação automático, recepção treinada e o painel que mostra quanto da agenda vem da base. Agende uma <a href="https://lp.clintia.com.br/sessao-estrategica-2026?utm_source=site&amp;utm_medium=cta&amp;utm_campaign=reativacao-de-pacientes">Sessão Estratégica</a> e a gente olha a sua base e a sua agenda juntos, com número.</p>
+    </div>
+
+    <div class="share share--end" data-share>
+  <span class="share-label">Compartilhar</span>
+  <button type="button" class="share-btn" data-copy="https://clintia.com.br/blog/reativacao-de-pacientes/" aria-label="Copiar link"><svg class="ico " width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg></button>
+  <a class="share-btn" href="https://wa.me/?text=Reativa%C3%A7%C3%A3o%20de%20pacientes%20enche%20a%20agenda%20sem%20gastar%20um%20real%20de%20m%C3%ADdia%20https%3A//clintia.com.br/blog/reativacao-de-pacientes/" rel="noopener" target="_blank" aria-label="Compartilhar no WhatsApp"><svg class="ico " width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/></svg></a>
+  <a class="share-btn" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//clintia.com.br/blog/reativacao-de-pacientes/" rel="noopener" target="_blank" aria-label="Compartilhar no LinkedIn"><svg class="ico " width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect width="4" height="12" x="2" y="9"/><circle cx="4" cy="4" r="2"/></svg></a>
+  <a class="share-btn" href="mailto:?subject=Reativa%C3%A7%C3%A3o%20de%20pacientes%20enche%20a%20agenda%20sem%20gastar%20um%20real%20de%20m%C3%ADdia&body=https%3A//clintia.com.br/blog/reativacao-de-pacientes/" aria-label="Enviar por e-mail"><svg class="ico " width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg></a>
+  <span class="share-feedback" aria-live="polite"></span>
+</div>
+
+    <div class="cta-inline">
+      <h2 class="t-h3">Quer ver esses números na sua clínica?</h2>
+      <p>Uma conversa com o Bernardo sobre a sua operação, sem custo: quantos pacientes procuram, quantos fecham, quanto vai para mídia e o que dá para fazer em 45 dias.</p>
+      <div class="cta-inline-actions">
+        <a class="btn btn-primary " href="https://lp.clintia.com.br/sessao-estrategica-2026?utm_source=site&amp;utm_medium=cta&amp;utm_campaign=reativacao-de-pacientes" rel="noopener">Agendar Sessão Estratégica</a>
+        <a class="btn-link " href="https://www.proclip.com.br/apostila?utm_source=site&amp;utm_medium=cta&amp;utm_campaign=reativacao-de-pacientes" rel="noopener">Conhecer o Manual<svg class="ico " width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></a>
+      </div>
+    </div>
+
+    <aside class="author-box" aria-label="Sobre o autor">
+  <img class="author-avatar" src="https://clintia.com.br/assets/img/avatar-bernardo-128.webp" srcset="https://clintia.com.br/assets/img/avatar-bernardo-128.webp 1x, https://clintia.com.br/assets/img/avatar-bernardo-256.webp 2x" width="64" height="64" alt="" loading="lazy" decoding="async">
+  <div>
+    <p class="author-name"><a rel="author" href="https://clintia.com.br/sobre/#bernardo">Bernardo Carneiro</a></p>
+    <p class="author-role">Fundador da ClintIA</p>
+    <p class="author-bio">Fundador da ClintIA. Há 14 anos trabalha com marketing e comercial de clínicas; criou o método CLIP, implantado em mais de 100 clínicas populares em 13 estados. Formado em Estatística pela UFF.</p>
+    <p class="author-links">
+      <a href="https://www.instagram.com/clintia.br" rel="noopener" target="_blank"><svg class="ico " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect width="20" height="20" x="2" y="2" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" x2="17.51" y1="6.5" y2="6.5"/></svg><span>Instagram</span></a>
+      <a href="https://clintia.com.br/sobre/"><svg class="ico " width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg><span>Sobre a ClintIA</span></a>
+    </p>
+  </div>
+</aside>
+  </article>
+
+  <aside class="article-rail" aria-label="Publicidade">
+    <div class="rail-ad"><div class="ad-wrap ad-wrap--300x250">
+  <span class="ad-label" aria-hidden="true">publicidade</span>
+  <a class="house-ad house-ad--300x250 house-ad--light" href="https://www.proclip.com.br/apostila?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=comunidade-manual&amp;utm_content=300x250-reativacao-de-pacientes" rel="noopener" data-ad="comunidade-manual" data-format="300x250" aria-label="Publicidade: comunidade do Manual da Clínica Popular, mais de 80 donos de clínica">
+    <img class="house-ad-logo" src="https://clintia.com.br/assets/logo/clintia-logo-horizontal-cor-600.png" width="600" height="135" alt="" loading="lazy" decoding="async">
+    <span class="house-ad-kicker">Comunidade do Manual</span>
+    <span class="house-ad-title">Mais de 80 donos de clínica popular no mesmo grupo</span>
+    <span class="house-ad-line">Quem já aplica o método troca o que funcionou e o que deu errado.</span>
+    <span class="btn btn-primary house-ad-btn">Conhecer o Manual</span>
+  </a>
+</div></div>
+    <div class="rail-ad rail-sticky"><div class="ad-wrap ad-wrap--300x600">
+  <span class="ad-label" aria-hidden="true">publicidade</span>
+  <a class="house-ad house-ad--300x600 house-ad--dark" href="https://www.proclip.com.br/apostila?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=manual&amp;utm_content=300x600-reativacao-de-pacientes" rel="noopener" data-ad="manual" data-format="300x600" aria-label="Publicidade: O Manual da Clínica Popular, ebook com planilha de CAP, scripts de WhatsApp e comunidade">
+    <img class="house-ad-logo" src="https://clintia.com.br/assets/logo/logo-clintia-branca-horizontal.png" width="1215" height="281" alt="" loading="lazy" decoding="async">
+    <span class="house-ad-kicker">O Manual da Clínica Popular</span>
+    <span class="house-ad-title">O sistema comercial das grandes redes, no tamanho da sua clínica</span>
+<img class="house-ad-capa" src="https://clintia.com.br/assets/img/capa-manual-360.webp" width="360" height="480" alt="" loading="lazy" decoding="async">    <span class="house-ad-line">9 capítulos, planilha de CAP, scripts de WhatsApp e uma comunidade com mais de 80 donos.</span>
+    <span class="btn btn-on-dark house-ad-btn">Conhecer o Manual</span>
+  </a>
+</div></div>
+  </aside>
+
+  <section class="article-related" aria-label="Leia também">
+    <p class="overline">Leia também</p>
+    <div class="grid grid-3">
+<article class="card card-post">
+  <a class="card-post-img" href="https://clintia.com.br/blog/marketing-para-clinica-popular/" tabindex="-1" aria-hidden="true">
+    <img src="https://clintia.com.br/assets/og/blog/marketing-para-clinica-popular-16x9-800.webp" srcset="https://clintia.com.br/assets/og/blog/marketing-para-clinica-popular-16x9-800.webp 800w, https://clintia.com.br/assets/og/blog/marketing-para-clinica-popular-16x9.webp 1600w" sizes="(min-width: 1024px) 380px, (min-width: 768px) 50vw, 100vw" width="1600" height="900" alt="" loading="lazy" decoding="async">
+  </a>
+  <div class="card-post-body">
+    <p class="overline"><a href="https://clintia.com.br/blog/categoria/aquisicao-de-pacientes/">Aquisição de pacientes</a></p>
+    <h3 class="t-h4"><a class="stretched" href="https://clintia.com.br/blog/marketing-para-clinica-popular/">Marketing para clínica popular começa no Google, não no Instagram</a></h3>
+    <p class="post-meta"><time datetime="2026-09-25">25 set 2026</time><span>13 min de leitura</span></p>
+  </div>
+</article><article class="card card-post">
+  <a class="card-post-img" href="https://clintia.com.br/blog/custo-de-aquisicao-de-paciente/" tabindex="-1" aria-hidden="true">
+    <img src="https://clintia.com.br/assets/og/blog/custo-de-aquisicao-de-paciente-16x9-800.webp" srcset="https://clintia.com.br/assets/og/blog/custo-de-aquisicao-de-paciente-16x9-800.webp 800w, https://clintia.com.br/assets/og/blog/custo-de-aquisicao-de-paciente-16x9.webp 1600w" sizes="(min-width: 1024px) 380px, (min-width: 768px) 50vw, 100vw" width="1600" height="900" alt="" loading="lazy" decoding="async">
+  </a>
+  <div class="card-post-body">
+    <p class="overline"><a href="https://clintia.com.br/blog/categoria/numeros-e-previsibilidade/">Números e previsibilidade</a></p>
+    <h3 class="t-h4"><a class="stretched" href="https://clintia.com.br/blog/custo-de-aquisicao-de-paciente/">Custo de aquisição de paciente é o número que separa faturar de lucrar</a></h3>
+    <p class="post-meta"><time datetime="2026-09-25">25 set 2026</time><span>14 min de leitura</span></p>
+  </div>
+</article><article class="card card-post">
+  <a class="card-post-img" href="https://clintia.com.br/blog/quanto-custa-a-consulta-whatsapp/" tabindex="-1" aria-hidden="true">
+    <img src="https://clintia.com.br/assets/og/blog/quanto-custa-a-consulta-whatsapp-16x9-800.webp" srcset="https://clintia.com.br/assets/og/blog/quanto-custa-a-consulta-whatsapp-16x9-800.webp 800w, https://clintia.com.br/assets/og/blog/quanto-custa-a-consulta-whatsapp-16x9.webp 1600w" sizes="(min-width: 1024px) 380px, (min-width: 768px) 50vw, 100vw" width="1600" height="900" alt="" loading="lazy" decoding="async">
+  </a>
+  <div class="card-post-body">
+    <p class="overline"><a href="https://clintia.com.br/blog/categoria/comercial-e-whatsapp/">Comercial e WhatsApp</a></p>
+    <h3 class="t-h4"><a class="stretched" href="https://clintia.com.br/blog/quanto-custa-a-consulta-whatsapp/">Quanto custa a consulta? O que responder no WhatsApp da clínica</a></h3>
+    <p class="post-meta"><time datetime="2026-09-25">25 set 2026</time><span>12 min de leitura</span></p>
+  </div>
+</article>    </div>
+  </section>
+</div>
+</main>
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <a href="https://clintia.com.br/" aria-label="ClintIA"><img src="https://clintia.com.br/assets/logo/logo-clintia-branca-horizontal.png" width="1215" height="281" alt="ClintIA" loading="lazy" decoding="async"></a>
+        <p>Infraestrutura comercial para clínica popular. Rio de Janeiro, Brasil.</p>
+      </div>
+      <nav class="footer-col" aria-label="Soluções">
+        <p class="footer-title">Soluções</p>
+        <ul><li><a href="https://clintia.com.br/proclip/" rel="noopener">PROClip</a></li><li><a href="https://clintia.com.br/manual/" rel="noopener">O Manual da Clínica Popular</a></li><li><a href="https://lp.clintia.com.br/sessao-estrategica-2026?utm_source=site&amp;utm_medium=cta&amp;utm_campaign=reativacao-de-pacientes" rel="noopener">Sessão Estratégica</a></li></ul>
+      </nav>
+      <nav class="footer-col" aria-label="Empresa">
+        <p class="footer-title">Empresa</p>
+        <ul><li><a href="https://clintia.com.br/metodo-clip/" rel="noopener">Método CLIP</a></li><li><a href="https://clintia.com.br/blog/" rel="noopener">Blog</a></li><li><a href="https://clintia.com.br/sobre/" rel="noopener">Sobre a ClintIA</a></li><li><a href="https://clintia.com.br/contato/" rel="noopener">Contato</a></li></ul>
+      </nav>
+      <nav class="footer-col" aria-label="Contato">
+        <p class="footer-title">Contato</p>
+        <ul>
+          <li><a href="https://wa.me/5521998910942?text=Ol%C3%A1%2C%20vim%20pelo%20site%20da%20ClintIA%20e%20quero%20falar%20sobre%20a%20minha%20cl%C3%ADnica." rel="noopener"><svg class="ico " width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/></svg>WhatsApp +55 21 99891-0942</a></li>
+          <li><a href="mailto:bernardo@clintia.com.br"><svg class="ico " width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>bernardo@clintia.com.br</a></li>
+          <li><a href="https://www.instagram.com/clintia.br" rel="noopener" target="_blank"><svg class="ico " width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect width="20" height="20" x="2" y="2" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" x2="17.51" y1="6.5" y2="6.5"/></svg>Instagram @clintia.br</a></li>
+          <li><span><svg class="ico " width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"/><circle cx="12" cy="10" r="3"/></svg>Rio de Janeiro, RJ</span></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="footer-bar">
+      <p>ClintIA Soluções Tecnológicas para Clínicas Ltda. Todos os direitos reservados. Rio de Janeiro, RJ.</p>
+      <p class="footer-links"><a href="https://clintia.com.br/sitemap.xml">Sitemap</a><a href="https://clintia.com.br/feed.xml">RSS</a><span>&copy; 2026 ClintIA</span></p>
+    </div>
+  </div>
+</footer>
+<script src="https://clintia.com.br/assets/js/site.bc8c9108.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+# ClintIA
+
+> A ClintIA é uma empresa de marketing, tecnologia e inteligência comercial para clínicas populares (clínicas acessíveis, policlínicas e centros de diagnóstico) no Brasil. Fundada em 2020 no Rio de Janeiro por Bernardo Carneiro. Implanta o método CLIP em clínicas para reduzir o custo de aquisição de paciente (CAP) e dar previsibilidade de agenda e faturamento.
+
+Fatos principais:
+- Produto principal: PROClip, programa de implantação comercial "Done For You" em 45 dias.
+- Método CLIP, quatro pilares: Canais de aquisição, Liderança local, Inteligência comercial, Previsibilidade.
+- Resultado típico divulgado: CAP médio de R$ 28,80 para R$ 13,60 (queda de 53%), payback em até 2 meses, 2,5 vezes mais pacientes com o mesmo investimento.
+- Fundador: Bernardo Carneiro, 14 anos em marketing médico, mais de 250 clínicas estruturadas, mais de 100 com o método CLIP.
+- Idioma do site: português do Brasil.
+- Contato comercial: bernardo@clintia.com.br · WhatsApp +55 21 99891-0942.
+
+## Páginas institucionais
+
+- [ClintIA](https://clintia.com.br/): o que a ClintIA faz e para quem
+- [Sobre a ClintIA e Bernardo Carneiro](https://clintia.com.br/sobre/): história, fundador, credenciais
+- [Método CLIP: os 4 pilares do comercial da clínica popular](https://clintia.com.br/metodo-clip/): os quatro pilares explicados
+- [PROClip: comercial da clínica popular implantado em 45 dias](https://clintia.com.br/proclip/): implantação comercial em 45 dias, como funciona, para quem é
+- [O Manual da Clínica Popular](https://clintia.com.br/manual/): ebook e comunidade para donos de clínica
+- [Fale com a ClintIA](https://clintia.com.br/contato/): WhatsApp e e-mail
+
+## Blog
+
+- [Índice do blog](https://clintia.com.br/blog/): artigos sobre gestão comercial de clínica popular
+- [Marketing para clínica popular começa no Google, não no Instagram](https://clintia.com.br/blog/marketing-para-clinica-popular/): Marketing para clínica popular: por que o paciente decide no Google e no WhatsApp, a ordem certa de montar (comercial antes de mídia) e o CAP por canal.
+- [Custo de aquisição de paciente é o número que separa faturar de lucrar](https://clintia.com.br/blog/custo-de-aquisicao-de-paciente/): Como calcular o custo de aquisição de paciente por canal e por paciente atendido, cruzar com margem e mix convênio/particular e baixar sem cortar verba.
+- [Quanto custa a consulta? O que responder no WhatsApp da clínica](https://clintia.com.br/blog/quanto-custa-a-consulta-whatsapp/): Paciente perguntou quanto custa a consulta no WhatsApp? Diga o valor, pergunte antes e ofereça horário junto. Script em 4 movimentos e conversa modelo.
+- [Reativação de pacientes enche a agenda sem gastar um real de mídia](https://clintia.com.br/blog/reativacao-de-pacientes/): Reativação de pacientes na clínica popular: como definir quem está inativo, o que mandar, a cadência de 3 toques e a conta de custo e retorno.
+
+## Versões em Markdown
+
+- [Todo o site em um arquivo](https://clintia.com.br/llms-full.txt): páginas e artigos concatenados
+- [Feed RSS](https://clintia.com.br/feed.xml)
+
+## Optional
+
+- [Sessão Estratégica PROClip](https://lp.clintia.com.br/sessao-estrategica-2026): agendamento de diagnóstico comercial
+- [Comprar o Manual da Clínica Popular](https://www.proclip.com.br/apostila)
+- [Sitemap](https://clintia.com.br/sitemap.xml)

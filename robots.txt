@@ -1,0 +1,70 @@
+# clintia.com.br
+# Site institucional e blog da ClintIA. Conteudo aberto para busca e para assistentes de IA.
+# Preferencias declaradas aqui; bloqueio real (se houver) e feito na Cloudflare.
+
+User-agent: *
+Allow: /
+Disallow: /_qa/
+
+# Buscadores tradicionais
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# Busca por IA (necessarios para aparecer nas respostas)
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+# Agentes acionados pelo usuario (liberados por clareza)
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: meta-externalfetcher
+Allow: /
+
+# Treinamento de modelos (decisao ClintIA: liberar)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Content Signals (contentsignals.org)
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+Sitemap: https://clintia.com.br/sitemap.xml
