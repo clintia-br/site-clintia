@@ -1,16 +1,16 @@
 # ClintIA: site completo em texto
 
-Fonte: https://clintia.com.br/ · gerado em 2026-09-26
+Fonte: https://clintia-br.github.io/site-clintia/ · gerado em 2026-10-02
 
 ---
 
 # Sua clínica popular perde paciente todo dia. O método que as grandes redes usam pra virar operação previsível e recorrente, rodando dentro da sua clínica.
 
-URL: https://clintia.com.br/
+URL: https://clintia-br.github.io/site-clintia/
 
-Sua clínica popular perde paciente todo dia. A ClintIA coloca pra rodar na sua clínica o método das grandes redes pra gerar demanda e converter em agenda.
+Sua clínica popular perde paciente todo dia. A ClintIA coloca pra rodar o método das grandes redes na sua clínica, com plataforma própria pra acompanhar.
 
-O mesmo método já roda em mais de 100 clínicas populares. A nossa equipe monta, testa e entrega funcionando.
+O mesmo método já roda em mais de 100 clínicas populares. A nossa equipe monta, testa e entrega funcionando, e você acompanha tudo numa plataforma própria.
 
 Sem aumentar a verba e sem solução mirabolante: a gente trabalha com a estrutura e a equipe que você já tem.
 
@@ -27,19 +27,21 @@ Aí o dono faz o que parece certo. Troca de agência, aumenta a verba, baixa o p
 - No-show acima de 30% (agenda e não vem)
 - Receita presa em convênio, sem base própria de paciente particular
 
-## O que as grandes redes já entenderam
+## A ClintIA nasceu de um pedido que se repetia.
 
-Amor Saúde, Dr. Consulta e as redes que abrem unidade atrás de unidade não vivem penduradas em convênio. Construíram demanda própria, de paciente particular. Têm posicionamento no lugar de guerra de preço. Sabem quanto custa cada paciente e por qual canal ele chegou, e o paciente volta todo mês porque existe um sistema pra isso. Nada disso é genialidade. É processo, na ordem certa. Esse processo só nunca tinha chegado até o dono da clínica de bairro.
+Dentro da primeira empresa de marketing médico do Brasil, onde o Bernardo estruturou o setor digital, chegava um tipo de cliente que ninguém esperava: o dono de clínica popular. Ele atendia oitenta, cem, duzentas pessoas por semana, o WhatsApp não parava e, mesmo assim, o mês fechava apertado. Vinha pedir ajuda com uma pergunta simples, "o que eu faço pra isso virar um negócio que se sustenta?", e saía com a resposta feita pro consultório de ticket alto.
+Não havia nada escrito sobre o modelo. Sobre consultório, estética e hospital, prateleiras inteiras. Sobre a clínica que atende quem não tem plano e precisa de consulta pra esta semana, quase nada. Quem já tinha resolvido isso eram as grandes redes, como Amor Saúde e Dr. Consulta, que crescem porque operam com processo: sabem quanto custa cada paciente, por qual canal ele chega e o que a recepção faz no minuto em que ele manda mensagem. Esse jeito de operar nunca tinha chegado ao dono de uma unidade só.
+A ClintIA foi criada pra escrever esse processo e colocar pra rodar dentro da clínica de bairro. Só isso, e só pra esse tipo de clínica. Hoje o trabalho é esse: profissionalizar o marketing e o comercial das clínicas que atendem o povo, com uma equipe enxuta, uma plataforma própria e a regra de entregar mais do que foi prometido.
 
 Não é uma solução de marketing, de Instagram ou de conteúdo. É um sistema completo, entregue rodando.
 
-Sistema, pra gente, quer dizer as quatro partes juntas: posicionamento, demanda, comercial e controle. Trazer paciente pra uma recepção que não conduz é jogar verba fora, e treinar a recepção de uma clínica que ninguém procura também. A ClintIA entrega o conjunto, montado dentro da sua clínica, e só sai quando está funcionando.
-
 Marcas citadas como referência pública de modelo de negócio. Não há vínculo, parceria ou endosso entre elas e a ClintIA.
 
-## A clínica popular é o melhor modelo de negócio da saúde hoje.
+## O que a gente vê em toda clínica popular
 
-É o que tem mais demanda e mais necessidade, e atende quem mais precisa. E é o dono que menos tem consciência do próprio modelo: procura solução em todo canto e não acha, porque quase tudo que existe foi feito pro consultório particular de ticket alto. O que funciona pra um não funciona pro outro. Por isso a ClintIA escolheu esse modelo, e só ele.
+Trecho de um treinamento gravado pelo Bernardo: o que se repete em quase toda clínica popular que procura a gente, e como fica a clínica quando a operação vira previsível.
+
+Vídeo: O que a gente vê em toda clínica popular (YouTube, https://www.youtube.com/watch?v=XOvLaAVyzYU). Bernardo Carneiro, fundador da ClintIA, em treinamento gravado.
 
 ## O método em 4 etapas, na ordem certa
 
@@ -50,6 +52,18 @@ Uma etapa alimenta a outra. Pular uma delas é o que faz o dinheiro de anúncio 
 - Cultura de venda: Conduzir quem chega até a cadeira. Resultado: a recepção deixa de só atender e passa a agendar.
 - Controle: Colocar tudo em número e saber onde mexer. Resultado: você sabe onde mexer, toda semana.
 
+## Tudo do seu projeto num lugar só, e não no WhatsApp.
+
+A gente construiu a própria plataforma pra operar as clínicas. O cliente entra com e-mail e senha e vê o que está sendo feito, o que vem depois e o número de cada campanha, lido direto da Meta.
+
+Captura: A área do cliente: cronograma, entregas, reuniões, documentos e acessos do projeto.
+Captura: Campanhas lidas direto da Meta: investido, conversas iniciadas e custo por conversa, no dia.
+
+- O cronograma do projeto, fase a fase, com o que está concluído, em andamento e o que vem a seguir.
+- Pesquisa de mercado, posicionamento, identidade visual e documentos do projeto, prontos pra consultar.
+- Campanhas e Instagram ao vivo: o que foi investido e o que voltou, sem esperar relatório.
+- Um bloco de notas que a clínica e a equipe veem juntos, e um aviso quando algo novo entra.
+
 ## O que muda quando o método está rodando
 
 - -53%: no custo de aquisição de paciente: de R$ 28,80 pra R$ 13,60
@@ -59,29 +73,32 @@ Uma etapa alimenta a outra. Pular uma delas é o que faz o dinheiro de anúncio 
 
 CAP é o custo de aquisição de paciente: quanto a clínica pagou pra um paciente chegar, agendar e pagar. Não é custo por clique nem por contato. Médias das clínicas em que o método foi implantado; o resultado de cada uma depende da operação dela.
 
+## Quem já está perto da gente
+
+- 6,9 mil: seguidores no Instagram @clintia.br
+- +80: donos de clínica popular na comunidade do Manual
+- 19: estados com alunos do Manual
+- 13: estados com o método implantado
+
+Instagram contado em 2 de outubro de 2026. Os estados são os de alunos do Manual e de clínicas em que o método foi implantado.
+
 ## Três jeitos de levar o método pra sua clínica
 
 O método é um só. O que muda é quem executa e o tamanho da operação.
 
-- Implantação feita pela nossa equipe PROClip: Em 45 dias a nossa equipe coloca as 4 etapas pra rodar dentro da sua clínica. Você valida informação e aprova o que vai ao ar; a execução é nossa. Feito pra clínica popular, policlínica ou centro de diagnóstico que já tem operação rodando.
-- A porta de entrada O Manual da Clínica Popular: O método escrito, etapa por etapa, pra aplicar com a equipe que você já tem, começando pelo WhatsApp da recepção. Vem com o portal, as ferramentas e a primeira comunidade de donos de clínica popular, com mais de 80 membros.
+- Implantação feita pela nossa equipe PROClip: A nossa equipe coloca as 4 etapas pra rodar dentro da sua clínica, no prazo definido no diagnóstico. Você valida informação e aprova o que vai ao ar; a execução é nossa, e o andamento fica na plataforma. Feito pra clínica popular, policlínica ou centro de diagnóstico que já tem operação rodando.
+- A porta de entrada O Manual da Clínica Popular: O método escrito, etapa por etapa, pra aplicar com a equipe que você já tem, começando pelo WhatsApp da recepção. Vem com a área de membros, as ferramentas e a primeira comunidade de donos de clínica popular, com mais de 80 membros.
 - Pra rede e multiunidade Projetos sob medida: Pra rede com várias unidades ou operação maior, o sistema é desenhado sob medida: gestão comercial completa, treinamento de recepção e de pré-venda, posicionamento e identidade da marca. Começa por um diagnóstico da operação.
 
-## O método rende mais em clínica que já tem movimento e não tem ordem
+## Cinco coisas que aparecem na prática, não na parede
 
-### Faz sentido pra
+Não existe um quadro de valores na ClintIA. Existe o que se repete nas reuniões de segunda, quarta e sexta. Cada frase abaixo foi dita numa delas.
 
-- Clínica popular, policlínica ou centro de diagnóstico com pelo menos um ano de operação.
-- Dono que atende, vê o WhatsApp apitar e não sabe quantos pediram preço e sumiram no mês passado.
-- Rede que cresceu e cada unidade vende de um jeito, sem o dono conseguir comparar uma com a outra.
-
-### Não faz sentido pra
-
-- Consultório particular de ticket alto: o modelo e os canais são outros.
-- Clínica que quer alguém só pra cuidar do Instagram.
-- Dono que espera resultado sem mexer na recepção.
-
-Na dúvida, a Sessão Estratégica serve pra isso: se não fizer sentido pra sua operação, a gente fala na hora.
+- Verdade: "Essa verdade é uma essência que a gente tem que manter inclusive na equipe." Prazo, andamento e número são ditos como estão. Se uma etapa vai atrasar, o dono sabe antes de perguntar.
+- Coragem: "Dá o passo, o chão vai aparecer." A gente age sem ter todas as certezas, com as pessoas certas do lado, e corrige no caminho.
+- Obsessão pelo cliente: "Se a gente é obcecado pelo cliente, a gente é obcecado pela empresa." Cliente satisfeito é o termômetro do trabalho. Foi daí que nasceram a área do cliente e a medição de satisfação.
+- Orquestrar a IA: "A gente não vende nosso tempo, a gente compra o tempo da IA." Time pequeno que dirige agentes de IA em vez de crescer em pessoas. Pesquisa, posicionamento e material saem mais rápido e com padrão.
+- Olhar humano no fim: "Tem que fazer um trabalho humano também no final." A IA produz, alguém revisa antes de chegar ao cliente. Nada vai ao ar sem passar por uma pessoa.
 
 ## Bernardo Carneiro e a ClintIA
 
@@ -90,11 +107,16 @@ Foi aí que ele parou pra estudar o que faz uma clínica popular virar um negóc
 
 ## Uma equipe que só atende clínica popular
 
-Quem fala com a sua clínica é quem executa. O Bernardo responde pelo diagnóstico; a entrega é destas três frentes.
+Quem fala com a sua clínica é quem executa. O Bernardo responde pelo diagnóstico; a entrega é destas frentes.
 
-- Liderança de operações: Centraliza a entrega e lidera uma equipe externa de cerca de cinco pessoas de social, design e identidade. O prazo combinado é com ela.
-- Produção digital: Sites e páginas das clínicas.
+- Liderança de operação e de projeto: Centraliza a entrega de cada clínica e conduz as reuniões da equipe. O prazo combinado é com ela.
+- Produção digital: Sites, páginas e vídeo das clínicas.
+- Tráfego e rastreamento: Campanhas, criativos e a medição de onde cada paciente veio.
 - Automação e CRM: O WhatsApp da recepção com processo, follow-up e número.
+- Comercial: Treinamento comercial e a parte de vendas dos projetos.
+- Social e design: Conteúdo e identidade das clínicas, com uma equipe externa de cerca de cinco pessoas.
+
+Parte do time é software que a gente mesmo construiu: agentes de IA que pesquisam mercado, analisam concorrência e escrevem a primeira versão do posicionamento, sempre com revisão humana antes de chegar ao cliente. [Ver os agentes](/plataforma/#agentes)
 
 ## O que a gente aprende dentro das clínicas
 
@@ -104,7 +126,7 @@ Escrito pra quem toma a decisão.
 
 ## Continuar no improviso, ou tocar a clínica como as grandes tocam.
 
-O improviso você já sabe quanto custa: é o fim de mês apertado de sempre. A Sessão Estratégica é uma conversa de 30 minutos. Você traz quantos pacientes procuram por mês, quantos fecham e quanto gasta em mídia. A gente devolve um diagnóstico com o que dá pra fazer nos próximos 45 dias e o que não vale a pena.
+O improviso você já sabe quanto custa: é o fim de mês apertado de sempre. A Sessão Estratégica é uma conversa de 30 minutos. Você traz quantos pacientes procuram por mês, quantos fecham e quanto gasta em mídia. A gente devolve um diagnóstico com o que dá pra fazer primeiro e o que não vale a pena.
 
 ### Vocês são uma agência?
 
@@ -122,28 +144,38 @@ Não. O método começa arrumando o que acontece depois que o paciente chega, co
 
 Não. A nossa equipe faz o setup, as campanhas, o CRM e a automação. Da sua parte, precisamos de validação de informação, aprovação do que vai ao ar e os acessos. São algumas horas ao longo das semanas.
 
+### O que é a plataforma? Preciso instalar alguma coisa?
+
+Não. É um endereço na internet, com e-mail e senha. Lá ficam o cronograma, as entregas, as reuniões, os documentos e os números das campanhas do seu projeto. Quem é cliente usa; quem comprou o Manual tem a área de membros, no mesmo padrão.
+
 ### Já tenho agência e um sistema de agendamento. Vocês substituem ou somam?
 
 A gente olha o que existe antes de propor qualquer coisa. O que funciona fica e é integrado. O que costuma faltar é o que a agência não faz: as etapas 1, 3 e 4.
 
 ### Por onde começar: Manual ou Sessão Estratégica?
 
-Se a clínica ainda vai aplicar com a própria equipe, o Manual é o caminho: o método no papel, com portal e comunidade. Se o dono quer a implantação feita pela nossa equipe, a Sessão Estratégica é o primeiro passo. Nos 30 minutos a gente olha os números e diz qual dos dois faz sentido.
+Se a clínica ainda vai aplicar com a própria equipe, o Manual é o caminho: o método no papel, com área de membros e comunidade. Se o dono quer a implantação feita pela nossa equipe, a Sessão Estratégica é o primeiro passo. Nos 30 minutos a gente olha os números e diz qual dos dois faz sentido.
 
 ---
 
 # Nascemos porque quase ninguém escrevia sobre clínica popular.
 
-URL: https://clintia.com.br/sobre/
+URL: https://clintia-br.github.io/site-clintia/sobre/
 
-Quem é a ClintIA, por que só atende clínica popular, no que a gente acredita e quem faz o método sair do papel. Rio de Janeiro, desde 2020.
+A história da ClintIA, por que só clínica popular, no que a gente acredita, como trabalha e quem faz o método sair do papel. Rio, atendimento nacional.
 
 Era o dono de clínica popular quem mais chegava pedindo ajuda, e o que existia escrito servia pra consultório, estética e hospital. A ClintIA nasceu desse vazio, em 2020, no Rio de Janeiro, pra colocar dentro da clínica de bairro o jeito de operar que só as grandes redes tinham.
 
-## Chegava dono de clínica popular pedindo ajuda, e a resposta do mercado era a do consultório.
+## De uma agência de marketing médico a uma empresa de tecnologia pra clínica popular
 
-A gente foi procurar quem já tinha resolvido isso. Encontrou nas grandes redes de clínica popular, que abrem unidade atrás de unidade porque operam com processo: sabem quanto custa cada paciente, por qual canal ele chega e o que a recepção faz no minuto em que ele manda mensagem. Esse jeito de operar nunca tinha sido escrito pra clínica de uma unidade só. A ClintIA existe pra escrever e implantar.
-E a gente continua praticamente sozinha nisso. O mercado de marketing e gestão em saúde olha pro consultório e pro hospital, e a clínica popular, que atende quem mais precisa de consulta rápida e que caiba no bolso, ficou quase sem ninguém olhando pra ela com seriedade.
+Cada data abaixo tem registro. O que não tem, não entrou.
+
+- 2001 Nasce a MarketMED: A primeira agência de marketing médico do Brasil, fundada pelo pai do Bernardo. Anos depois ele entra pra montar o setor digital e passa a liderar essa área. É ali que começa a chegar, um atrás do outro, o dono de clínica popular pedindo ajuda.
+- 2020 A ClintIA é criada no Rio de Janeiro: Pra escrever e implantar, na clínica de bairro, o jeito de operar das grandes redes.
+- Novembro de 2025 Começa o formato atual: Uma equipe própria, remota, trabalhando junto no mesmo método, sob a direção do Bernardo.
+- Julho de 2026 Sai O Manual da Clínica Popular: O método no papel, pra quem vai aplicar com a própria equipe, e nasce a comunidade de donos de clínica popular.
+- Setembro de 2026 Marca nova, blog e a área do cliente: A marca é refeita, o site ganha blog e cada projeto passa a ser acompanhado num endereço próprio.
+- Outubro de 2026 A plataforma vira parte do produto: Painel interno, área do cliente e agentes de IA trabalhando junto com a equipe. A ClintIA passa a ser cliente da própria casa, com o mesmo processo que aplica nas clínicas.
 
 ## Consultório e clínica popular não são o mesmo negócio.
 
@@ -156,15 +188,25 @@ O paciente também é outro. Ele procura, compara, quer agendar no mesmo dia e n
 
 A gente preferiu acertar num só.
 
-## Cinco coisas que não mudam de projeto pra projeto
+## Cinco coisas que aparecem na prática, não na parede
 
-Frase de parede não decide nada. Isto aqui decide como a gente trabalha quando o prazo aperta e o número vem ruim.
+Não existe um quadro de valores na ClintIA. Existe o que se repete nas reuniões de segunda, quarta e sexta, e o que decide como a gente age quando o prazo aperta e o número vem ruim. Cada frase abaixo foi dita numa dessas reuniões.
 
-- Número é a língua da verdade.: Toda conversa aqui começa por um número e termina em outro: quantos procuraram, quantos chegaram na cadeira, quanto custou cada um. Relatório de curtida não entra nessa conta. Quando o número vem ruim, a gente mostra do mesmo jeito, porque é ele que diz onde mexer.
-- A verdade sobre projeto e prazo não se negocia.: Se uma etapa vai atrasar, o dono fica sabendo antes de perguntar. Quando um canal não vale pra clínica dele, a gente fala, mesmo que o projeto fique menor. Dono de clínica popular já pagou caro por promessa que não veio.
-- A gente está criando uma comunidade, não só uma forma de ganhar dinheiro.: O dono de clínica popular passou anos sem ter com quem conversar sobre o próprio negócio. O material não existia e o vizinho de bairro era concorrente. Hoje ele conversa com mais de 80 donos no portal do Manual, e o que um aprende encurta o caminho do outro.
-- Fazer, olhar o número, corrigir. Nessa ordem.: Toda semana, em todo projeto. O método não veio de curso, porque o curso não existia: foi escrito dentro da operação, errando no começo, quando ainda era barato corrigir.
-- O sistema inteiro, rodando dentro da clínica.: Anúncio bom numa recepção sem processo vira clique, e treinar a recepção não adianta se ninguém acha a clínica quando procura. As quatro etapas só funcionam juntas e na ordem certa: posicionamento forte, demanda qualificada, cultura de venda e controle. Por isso o trabalho aqui só termina quando as quatro estão rodando, montadas dentro da clínica, com a equipe que já existe nela.
+- Verdade: "Essa verdade é uma essência que a gente tem que manter inclusive na equipe." Toda conversa aqui começa por um número e termina em outro: quantos procuraram, quantos chegaram na cadeira, quanto custou cada um. Quando o número vem ruim, a gente mostra do mesmo jeito. Se uma etapa vai atrasar, o dono fica sabendo antes de perguntar. Mentir sobre prazo ou andamento é o erro mais grave da casa.
+- Coragem: "Dá o passo, o chão vai aparecer." O método não veio de curso, porque o curso não existia: foi escrito dentro da operação, errando no começo, quando ainda era barato corrigir. Fazer, olhar o número, corrigir. Nessa ordem, toda semana.
+- Obsessão pelo cliente: "Se a gente é obcecado pelo cliente, a gente é obcecado pela empresa." Cliente satisfeito é o termômetro do trabalho, e a gente mede isso. Foi daí que nasceram a área do cliente, onde o dono vê o projeto sem precisar perguntar, e a medição de satisfação de cada clínica, revista toda semana pela equipe.
+- Orquestrar a IA: "A gente não vende nosso tempo, a gente compra o tempo da IA." Time pequeno que dirige agentes em vez de crescer em pessoas. O contexto de cada clínica alimenta a pesquisa de mercado, a análise de concorrência e a primeira versão do posicionamento. Isso faz o trabalho sair mais rápido e com o mesmo padrão em cada clínica.
+- Olhar humano no fim: "Tem que fazer um trabalho humano também no final." A IA produz, uma pessoa revisa. Nada chega ao cliente sem passar por alguém da equipe, e nada vai ao ar sem a aprovação do dono. É a regra que separa material que impressiona de material em que dá pra perceber que foi feito por máquina.
+
+## Time enxuto, IA orquestrada e uma pessoa olhando no fim
+
+O trabalho é remoto. Reunião por vídeo, grupo com a equipe e o dono validando o que vai ao ar. Ele manda informação, aprova e libera acesso; executar é com a gente, e reunião que não muda resultado a gente não marca. O que o dono precisa saber do projeto está na área do cliente, não espalhado no WhatsApp.
+
+- **Time enxuto.** Uma pessoa responde por cada frente (operação, produção digital, tráfego, automação, comercial, social) e todas trabalham no mesmo método. É isso que faz ele rodar do mesmo jeito em cada clínica.
+- **IA que a gente orquestra.** Agentes de IA fazem a pesquisa de mercado, a análise de concorrência, a primeira versão do posicionamento e o roteiro de cada reunião, a partir do contexto da clínica.
+- **Revisão humana no fim.** Tudo que a IA produz passa por alguém da equipe antes de ir pro cliente, e pelo dono antes de ir ao ar.
+- **Escola interna.** Segunda, quarta e sexta têm treinamento fixo da equipe, dentro do horário de trabalho. Estudar faz parte do trabalho, não do tempo livre.
+- **Rastreamento em tudo.** Cada campanha e cada página saem com origem marcada, porque é isso que permite mostrar ao dono de onde veio cada paciente.
 
 ## Bernardo Carneiro
 
@@ -181,11 +223,14 @@ Bernardo Carneiro, fundador da ClintIA
 Quem fala com o dono é quem executa. A equipe inteira trabalha no mesmo método, e é isso que faz ele rodar do mesmo jeito em cada clínica.
 
 - Fundador e método Bernardo Carneiro: Criou o método e responde pelo diagnóstico de toda clínica que entra: é o diagnóstico que define o plano, antes de qualquer proposta.
-- Liderança de operações: Centraliza a entrega de cada clínica, da assinatura ao fim da implantação, e lidera uma equipe externa de cerca de cinco pessoas de social, design e identidade. Responde pelo prazo combinado e é quem o dono procura quando precisa de retorno.
-- Produção digital: Sites e páginas da clínica, montados pra aparecer pra quem já procura consulta no bairro e transformar essa procura em mensagem na recepção.
-- Automação e CRM: O WhatsApp da recepção com processo, follow-up automático e número no fim da semana. É a parte do sistema que faz a primeira resposta sair em minutos, sem depender de a recepção estar livre.
+- Liderança de operação e de projeto: Centraliza a entrega de cada clínica, da assinatura ao fim da implantação, conduz as reuniões da equipe e responde pelo prazo combinado. É quem o dono procura quando precisa de retorno.
+- Produção digital: Sites, páginas e vídeo das clínicas, montados pra aparecer pra quem já procura consulta no bairro e transformar essa procura em mensagem na recepção.
+- Tráfego e rastreamento: Campanhas, criativos e páginas de campanha, com a medição de onde cada paciente veio.
+- Automação e CRM: O WhatsApp da recepção com processo, follow-up automático e número no fim da semana. É a parte do sistema que faz a primeira resposta sair em minutos.
+- Comercial: Treinamento comercial da recepção e a parte de vendas dos projetos.
+- Social e design: Conteúdo e identidade das clínicas, com uma equipe externa de cerca de cinco pessoas de social, design e identidade.
 
-O trabalho é remoto: reunião por vídeo, grupo de WhatsApp com a equipe e o dono validando o que vai ao ar. Ele manda informação, aprova e libera acesso. Executar é com a gente, e reunião que não muda resultado a gente não marca.
+Parte do time é software que a gente mesmo construiu. Os agentes de IA da plataforma pesquisam mercado, analisam concorrência e preparam reunião; a decisão e a revisão continuam com gente. [Ver os agentes](/plataforma/#agentes)
 
 ## No Rio de Janeiro, dentro de clínicas em 13 estados
 
@@ -198,7 +243,7 @@ A empresa fica no Rio de Janeiro. As implantações já passaram por Ceará, Mar
 
 ## Levar o método pra cada vez mais clínicas populares do Brasil
 
-Na nossa leitura, a clínica popular é o modelo com mais demanda e mais necessidade na saúde, e ao mesmo tempo é o tipo de clínica com menos gente olhando pro comercial dela com método. A gente quer que o método deixe de ser exceção. Que o dono de clínica popular, em qualquer cidade, saiba quanto custa cada paciente e feche o mês olhando pra número.
+Na nossa leitura, a clínica popular é o modelo com mais demanda e mais necessidade na saúde, e ao mesmo tempo é o tipo de clínica com menos gente olhando pro comercial dela com método. A gente quer que o método deixe de ser exceção: que o dono de clínica popular, em qualquer cidade, saiba quanto custa cada paciente e feche o mês olhando pra número. E quer que cada vez mais disso aconteça por software que a gente mesmo constrói, com a equipe cuidando do que só gente faz bem.
 
 ## O que perguntam sobre a gente
 
@@ -208,7 +253,7 @@ Comece pelo método. Ele está no site, etapa por etapa, pra você ler antes de 
 
 ### O Bernardo participa dos projetos ou só vende?
 
-Ele responde pelo diagnóstico e pelo plano de cada clínica que entra. A execução dos 45 dias é da equipe, com a liderança de operações como ponto de contato e respondendo pelo prazo combinado.
+Ele responde pelo diagnóstico e pelo plano de cada clínica que entra. A execução é da equipe, com a liderança de operações como ponto de contato e respondendo pelo prazo combinado.
 
 ### Vocês atendem clínica de qualquer porte?
 
@@ -222,11 +267,15 @@ Não é o nosso trabalho. Consultório de 10 ou 15 consultas na semana e ticket 
 
 Porque o método foi escrito pra conta da clínica popular: muito agendamento por semana, ticket baixo, margem curta. O que funciona nessa conta não funciona na do consultório, e o contrário também. Atender os dois com o mesmo processo era exatamente o erro que a gente viu o mercado cometer.
 
+### Vocês usam IA no trabalho?
+
+Sim, e dizemos isso abertamente. Agentes de IA fazem a pesquisa, a análise de concorrência e a primeira versão do posicionamento de cada clínica. O que sai deles passa por alguém da equipe antes de chegar ao dono, e nada vai ao ar sem a aprovação dele.
+
 ---
 
 # Sua clínica popular já tem gente procurando. O que falta é o que acontece depois. O método em 4 etapas que leva o paciente da procura até a cadeira.
 
-URL: https://clintia.com.br/metodo/
+URL: https://clintia-br.github.io/site-clintia/metodo/
 
 O método da ClintIA em 4 etapas, na ordem certa: posicionamento forte, demanda qualificada, cultura de venda e controle. O que muda na clínica popular.
 
@@ -282,10 +331,12 @@ O "quanto é?" recebe só o preço, e ninguém volta em quem sumiu.
 Colocar tudo em número e saber onde mexer.
 
 A régua é o custo de aquisição de paciente: quanto a clínica pagou pra um paciente chegar, agendar, comparecer e pagar. Clique e contato ficam bonitos no relatório, mas não são dinheiro no caixa. Controle é o dono saber, toda semana, quanto custou cada paciente e por qual canal chegou, e decidir com número em vez de no achismo. O número também aponta o gargalo: queda entre contato e agendamento é problema de recepção; entre agendamento e comparecimento, é falta de confirmação e follow-up; e quando o contato nem chega, o ajuste é lá na etapa 2.
+Em projeto com a nossa equipe, esse número aparece na área do cliente da [plataforma](/plataforma/): investido, conversas e custo por conversa, lidos direto da Meta, ao lado do cronograma do projeto.
 
 - Painel no celular com o custo de cada paciente por canal.
 - Funil inteiro, do clique ao pagamento, com a origem de cada paciente rastreada.
 - Uma leitura semanal simples, sem analista, que diz se o mês vai fechar.
+- A área do cliente na plataforma, com as campanhas lidas ao vivo e o andamento de cada etapa.
 
 Você não sabe quanto custa cada paciente da sua clínica.
 
@@ -318,15 +369,15 @@ Médias dos casos acompanhados pela ClintIA antes e depois da implantação. O r
 
 Anúncio é uma parte pequena disso e só entra na etapa 2. O que muda entre os três caminhos é quem executa e o tamanho da operação.
 
-- Implantado pela nossa equipe PROClip: As 4 etapas rodando na sua clínica em 45 dias, implantadas pela nossa equipe. Você valida informação e aprova o que vai ao ar.
-- Aplicado por você O Manual da Clínica Popular: O método escrito, etapa por etapa, com checklist por capítulo, portal e comunidade com mais de 80 donos de clínica popular. Pra aplicar com a própria equipe.
+- Implantado pela nossa equipe PROClip: As 4 etapas rodando na sua clínica, implantadas pela nossa equipe no prazo definido no diagnóstico. Você valida informação e aprova o que vai ao ar.
+- Aplicado por você O Manual da Clínica Popular: O método escrito, etapa por etapa, com checklist por capítulo, área de membros e comunidade com mais de 80 donos de clínica popular. Pra aplicar com a própria equipe.
 - Pra rede e multiunidade Projetos sob medida: Gestão comercial completa, treinamento de recepção e pré-venda, posicionamento e identidade. Começa por um diagnóstico da operação.
 
 ## Perguntas diretas, respostas diretas
 
 ## Quer ver como isso fica na sua clínica?
 
-A Sessão Estratégica são 30 minutos. Você traz quantos pacientes procuram por mês, quantos fecham e quanto gasta em mídia. A gente diz em qual etapa a sua clínica está travando e o que dá pra fazer nos próximos 45 dias.
+A Sessão Estratégica são 30 minutos. Você traz quantos pacientes procuram por mês, quantos fecham e quanto gasta em mídia. A gente diz em qual etapa a sua clínica está travando e o que dá pra fazer primeiro.
 
 ### O método serve pra consultório de um médico só?
 
@@ -344,7 +395,7 @@ Depende da cidade e da especialidade, e isso se define no diagnóstico. O que o 
 
 # Três jeitos de colocar o método pra rodar na sua clínica popular
 
-URL: https://clintia.com.br/solucoes/
+URL: https://clintia-br.github.io/site-clintia/solucoes/
 
 PROClip, O Manual da Clínica Popular e projetos sob medida pra rede: o mesmo método em 4 etapas, com três jeitos de entrar. Veja qual é o seu.
 
@@ -353,16 +404,16 @@ Com a nossa equipe, por conta própria ou desenhado pra sua rede. O método é o
 ## O que muda de um caminho pro outro
 
 - Quem executa | PROClip: A equipe da ClintIA, dentro da sua clínica. Você valida e aprova. | O Manual da Clínica Popular: Você, com a equipe que já tem, seguindo o passo a passo. | Projetos sob medida: A equipe da ClintIA, com um desenho próprio pra sua rede.
-- Prazo | PROClip: 45 dias de implantação. | O Manual da Clínica Popular: Acesso imediato. O ritmo é o seu, capítulo a capítulo. | Projetos sob medida: Definido no diagnóstico, unidade por unidade.
+- Prazo | PROClip: Definido no diagnóstico, por etapa. | O Manual da Clínica Popular: Acesso imediato. O ritmo é o seu, capítulo a capítulo. | Projetos sob medida: Definido no diagnóstico, unidade por unidade.
 - Pra quem é | PROClip: "A clínica atende, o WhatsApp apita e você não tem braço pra montar isso." | O Manual da Clínica Popular: "Você quer entender o método e aplicar com a sua equipe, no seu ritmo." | Projetos sob medida: "Você tem mais de uma unidade e cada uma vende de um jeito."
-- O que você recebe | PROClip: As 4 etapas montadas e funcionando: posicionamento, canais de demanda, processo na recepção e painel com o custo de cada paciente. | O Manual da Clínica Popular: O método escrito, as ferramentas de cada etapa, o portal e a comunidade de donos de clínica popular. | Projetos sob medida: Gestão comercial completa, recepção e pré-venda treinadas, marca e posicionamento da rede.
+- O que você recebe | PROClip: As 4 etapas montadas e funcionando: posicionamento, canais de demanda, processo na recepção e painel com o custo de cada paciente, tudo acompanhado na área do cliente. | O Manual da Clínica Popular: O método escrito, as ferramentas de cada etapa, o portal e a comunidade de donos de clínica popular. | Projetos sob medida: Gestão comercial completa, recepção e pré-venda treinadas, marca e posicionamento da rede.
 - Próximo passo | PROClip: Sessão Estratégica de 30 minutos. | O Manual da Clínica Popular: Página do Manual. | Projetos sob medida: Conversa sobre o projeto.
 
-## PROClip: o método rodando na sua clínica em 45 dias
+## PROClip: o método rodando na sua clínica, implantado pela nossa equipe
 
-O PROClip é a nossa equipe montando as 4 etapas dentro da sua operação, em 45 dias. Nas duas primeiras semanas a gente entende a clínica e escreve o posicionamento: quem é o paciente, qual é o carro-chefe, como a clínica se apresenta pra quem procura. Depois entram os canais de demanda, o processo comercial na recepção e o número de cada canal na mão do dono.
+O PROClip é a nossa equipe montando as 4 etapas dentro da sua operação, no prazo que o diagnóstico define. Na primeira fase a gente entende a clínica e escreve o posicionamento: quem é o paciente, qual é o carro-chefe, como a clínica se apresenta pra quem procura. Depois entram os canais de demanda, o processo comercial na recepção e o número de cada canal na mão do dono.
 O dono não para de trabalhar pra implantar. Da parte dele, uma reunião de onboarding, os acessos enviados por formulário e a aprovação do que vai ao ar.
-É pra clínica popular, policlínica ou centro de diagnóstico que já tem procura e ainda não tem processo. Começa com uma conversa de 30 minutos com a nossa equipe sobre os números da clínica.
+É pra clínica popular, policlínica ou centro de diagnóstico que já tem procura e ainda não tem processo. Começa com uma conversa de 30 minutos com a nossa equipe sobre os números da clínica. O andamento fica na área do cliente da [plataforma](/plataforma/).
 
 ## O método no papel, pra aplicar com a equipe que você já tem
 
@@ -402,7 +453,7 @@ Não como serviço solto. O que já funciona na clínica entra no sistema; o que
 
 ### Qual a diferença entre o PROClip e um projeto sob medida?
 
-O PROClip tem escopo fechado e prazo de 45 dias, pensado pra clínica com uma ou poucas unidades do mesmo dono. O projeto sob medida nasce do diagnóstico da rede e junta o que ela precisa: gestão comercial, treinamento, posicionamento. Escopo e prazo são definidos depois de olhar cada unidade.
+O PROClip tem escopo fechado e prazo definido no diagnóstico, pensado pra clínica com uma ou poucas unidades do mesmo dono. O projeto sob medida nasce do diagnóstico da rede e junta o que ela precisa: gestão comercial, treinamento, posicionamento. Escopo e prazo são definidos depois de olhar cada unidade.
 
 ### Por onde começar se a clínica ainda não investe em mídia?
 
@@ -410,11 +461,118 @@ Pelo posicionamento, que é a etapa 1 em qualquer um dos três caminhos. Anúnci
 
 ---
 
-# Sua clínica popular já tem procura. Em 45 dias a nossa equipe monta o que falta pra ela virar operação previsível.
+# Tudo do projeto da sua clínica num lugar só.
 
-URL: https://clintia.com.br/proclip/
+URL: https://clintia-br.github.io/site-clintia/plataforma/
 
-A nossa equipe implanta o método em 4 etapas dentro da sua clínica popular em 45 dias: posicionamento, demanda, recepção que agenda e número na mão.
+A plataforma própria da ClintIA: painel interno, área do cliente com cronograma e campanhas ao vivo, e agentes de IA trabalhando junto com a equipe.
+
+A gente construiu a própria plataforma pra operar as clínicas. De um lado, o painel que a equipe usa todo dia. Do outro, a área do cliente, onde o dono entra com e-mail e senha e vê o que está sendo feito, o que vem depois e o número de cada campanha.
+
+Não é um software à venda. É a parte do método que a clínica acompanha na tela, e vem junto com o projeto.
+
+Captura: A área do cliente na visão geral: o projeto, o cronograma, as reuniões e os documentos num endereço próprio.
+
+## Operação, comercial, marketing e financeiro num lugar só
+
+Antes, cada parte da empresa vivia numa ferramenta diferente, e o que a equipe sabia de uma clínica ficava no WhatsApp. O painel juntou isso num endereço só, lido ao vivo das fontes: o CRM, a Meta, a agenda e o portal de cada cliente.
+
+Captura: O painel comercial, lido ao vivo do CRM e da Meta. Valores borrados nesta captura.
+
+- **Operação.** Cada clínica com o andamento do projeto, o responsável e uma medição de satisfação de 0 a 100, revista toda semana.
+- **Comercial.** O funil lido do CRM: quanto foi investido em mídia, quantas negociações estão abertas, quantas reuniões foram marcadas e quantas não aconteceram.
+- **Marketing e conteúdo.** As campanhas da própria ClintIA e o que a equipe produz pras clínicas.
+- **Treinamentos.** A escola interna de segunda, quarta e sexta mora aqui, com o material de cada aula.
+- **Financeiro, jurídico e pessoas.** As áreas da empresa, com acesso por perfil.
+
+## O que o dono da clínica vê
+
+Cada clínica tem um endereço próprio em cliente.proclip.com.br. O dono entra com e-mail e senha. Em vez de procurar no WhatsApp, ele vê onde o projeto está e o que vem depois. É a mesma lista que a equipe vê.
+
+Captura: O cronograma: fases, entregas, responsável e o que já foi concluído.
+Captura: As campanhas, lidas direto da Meta: investido, conversas iniciadas e custo por conversa, no dia. Valores borrados nesta captura.
+Captura: A identidade visual da clínica, pronta pra baixar.
+
+### O que tem lá
+
+- **Comece aqui.** O que a clínica manda no começo: materiais, acessos e algumas perguntas. Leva uns dez minutos e pode ser feito aos poucos.
+- **Contexto e pesquisa de mercado.** O que a gente entendeu da clínica, da cidade e de quem procura clínica popular na região.
+- **Posicionamento (o DPV).** O documento que define como a clínica se apresenta: quem é o paciente, o que ela promete e como fala.
+- **Identidade visual.** Logo, cores e letra da clínica, com download, pra todo material sair do mesmo lugar.
+- **Marketing.** As campanhas da Meta e o Instagram, lidos ao vivo, com investido, conversas e custo por conversa.
+- **Comercial.** O que foi montado na recepção: processo, scripts e CRM.
+- **Cronograma, reuniões e documentos.** Cada fase com data e responsável; cada reunião registrada; acessos e arquivos no mesmo lugar.
+- **Bloco de notas e avisos.** A clínica anota um recado ou um pedido e a equipe vê. Quando algo novo entra, o dono recebe um aviso no sininho.
+- **Ebook e material em vídeo.** O Manual e as aulas, pra quem é cliente também.
+
+## Quem compra o Manual entra no mesmo padrão
+
+O Manual da Clínica Popular tem a própria área de membros, em membros.proclip.com.br: o ebook, as aulas em vídeo, as ferramentas de cada etapa e a comunidade de donos. Vinte segundos mostram como é por dentro.
+
+Vídeo: A área de membros do Manual da Clínica Popular (YouTube, https://www.youtube.com/watch?v=LIL7jFJeY0U). A área de membros do Manual.
+
+## Parte do time é software que a gente mesmo construiu
+
+O contexto de cada clínica (reuniões gravadas, conversas, documentos) alimenta um conjunto de agentes de IA que a equipe aciona por comando. Cada um tem função e dono, e só entra em serviço depois de revisado e aprovado pelo Bernardo. Nenhum deles fala com o cliente: o que produzem passa por uma pessoa da equipe antes de chegar à clínica.
+
+Captura: A página dos agentes no painel: função, status e quem cuida de cada um.
+
+### Os agentes em serviço
+
+- **Pesquisa de mercado.** Levanta a região da clínica, a população, quem não tem plano e como o paciente decide, só com dado público e fonte.
+- **Análise de concorrência.** Olha as clínicas concorrentes no Google, no Instagram, nos anúncios e nas avaliações, e entrega o comparativo.
+- **Posicionamento.** Escreve a primeira versão do documento de posicionamento da clínica, a partir da pesquisa e das reuniões.
+- **Preparação de reunião.** Antes de cada reunião, junta o que já se sabe da clínica e monta o roteiro: objetivo, histórico, hipóteses e o que não pode sair sem resposta.
+
+Em 2 de outubro de 2026, quatro agentes estavam aprovados e em serviço; outros estão em construção. A lista muda conforme a equipe aprova novos.
+
+## Menos "e aí, como está?" e mais número na tela
+
+A plataforma não substitui a equipe nem o método. Ela muda três coisas no dia a dia do dono.
+
+- **Ele sabe onde o projeto está sem perguntar.** O cronograma diz o que foi concluído, o que está em andamento e quem é o responsável.
+- **Ele vê o que a verba está fazendo, no dia.** Investido, conversas iniciadas e custo por conversa vêm direto da Meta, sem esperar relatório de fim de mês.
+- **Tudo fica registrado.** Reunião, documento, acesso, pedido no bloco de notas. Quando a equipe muda ou o dono viaja, o projeto continua no mesmo lugar.
+
+E a equipe trabalha com o mesmo padrão em cada clínica, porque o processo está escrito na plataforma, não na cabeça de alguém.
+
+## Perguntas diretas, respostas diretas
+
+## Quer ver o projeto da sua clínica rodando assim?
+
+A Sessão Estratégica é uma conversa de 30 minutos sobre os números da sua clínica. Se fizer sentido, o projeto nasce já dentro da plataforma, com cronograma e área do cliente desde o primeiro dia.
+
+### Preciso instalar alguma coisa?
+
+Não. É um endereço na internet. Funciona no celular e no computador, com e-mail e senha.
+
+### Quem tem acesso?
+
+O dono e quem ele indicar na clínica, além da equipe da ClintIA que atende o projeto. Cada clínica vê só o próprio projeto.
+
+### A plataforma substitui o meu sistema de agendamento ou o meu CRM?
+
+Não. Ela acompanha o projeto e lê os números das campanhas. O agendamento continua no sistema da clínica, e o CRM da recepção é montado na etapa 3 do método, integrado ao WhatsApp.
+
+### Dá pra contratar só a plataforma?
+
+Não. Ela vem junto com o projeto, porque sem o método rodando não há o que acompanhar.
+
+### E se eu só comprei o Manual?
+
+Você tem a área de membros, com o ebook, as aulas, as ferramentas e a comunidade. A área do cliente é de quem tem projeto com a equipe.
+
+### Os agentes de IA falam com os meus pacientes?
+
+Não. Eles trabalham pra equipe, na pesquisa e na preparação. O que fala com o paciente é a recepção da clínica, com o processo montado na etapa 3.
+
+---
+
+# Sua clínica popular já tem procura. A nossa equipe monta o que falta pra ela virar operação previsível.
+
+URL: https://clintia-br.github.io/site-clintia/proclip/
+
+A nossa equipe implanta o método em 4 etapas na sua clínica popular, no prazo definido no diagnóstico: posicionamento, demanda, recepção e número.
 
 Posicionamento, demanda qualificada, recepção que agenda e número na mão, colocados pra rodar com a equipe que você já tem. Você aprova o que vai ao ar; a execução é nossa.
 
@@ -437,7 +595,7 @@ Marcas citadas como referência pública de modelo de negócio. Não há víncul
 
 ## As 4 etapas, dentro da sua clínica
 
-Uma etapa alimenta a outra, e a ordem é essa. Abaixo, o que a nossa equipe monta em cada uma ao longo dos 45 dias, e o que muda na clínica quando a etapa está de pé.
+Uma etapa alimenta a outra, e a ordem é essa. Abaixo, o que a nossa equipe monta em cada uma ao longo da implantação, e o que muda na clínica quando a etapa está de pé.
 
 - 1 Posicionamento forte: Ser a escolha de quem procura clínica popular. O que muda: quem pesquisa clínica no bairro acha a sua primeiro e entende por que ela, e não a esquina.
   - Leitura do público e do carro-chefe da clínica: quem é o paciente, o que ele procura, quanto cabe no bolso dele e por que ele escolheria você e não a esquina.
@@ -470,28 +628,29 @@ O medo de autuação é legítimo, e por isso a auditoria não é opcional: toda
 
 - Sessão Estratégica (30 minutos): Conversa com a nossa equipe sobre os números da sua clínica: quantos procuram, quantos fecham, quanto de no-show, de onde vêm os pacientes hoje, quanto vai pra mídia.
 - Diagnóstico e proposta: Você recebe por escrito o que a gente faria, em que ordem e o que espera de resultado, com os dados da sua operação.
-- Assinatura e onboarding: Depois da assinatura, a liderança de operações marca o onboarding em até 24 horas. O detalhe está no cronograma abaixo.
+- Assinatura e onboarding: Depois da assinatura, a liderança de operações marca o onboarding em até 24 horas e abre a área do cliente com o cronograma do projeto.
 
-## O que acontece em cada semana dos 45 dias
+## O que acontece em cada fase da implantação
 
-O cronograma segue a ordem das etapas: primeiro a base e o posicionamento, depois a demanda, depois o comercial na recepção e, por fim, o número. É o roteiro padrão dos 45 dias; o cronograma da sua clínica vem na proposta.
+O cronograma segue a ordem das etapas: primeiro a base e o posicionamento, depois a demanda, depois o comercial na recepção e, por fim, o número. É o roteiro padrão; o prazo e o cronograma da sua clínica vêm na proposta, definidos no diagnóstico, e ficam na área do cliente.
 
-- Semanas 1 e 2 · Base e posicionamento (etapa 1): **A equipe:** kickoff com acessos e cronograma; onboarding gravado; leitura do público e do carro-chefe; proposta de valor e diferenciais por escrito; ficha do Google e estratégia de avaliações; Instagram como vitrine.
+- Fase 1 · Base e posicionamento (etapa 1): **A equipe:** kickoff com acessos e cronograma na área do cliente; onboarding gravado; leitura do público e do carro-chefe; proposta de valor e diferenciais por escrito; ficha do Google e estratégia de avaliações; Instagram como vitrine.
 
 **O dono:** participa do onboarding, envia logo e acessos por formulário, valida as informações da clínica.
-- Semanas 3 e 4 · Demanda no ar (etapa 2): **A equipe:** site rápido no celular, estruturado pra busca e pra IA; campanhas no Google e no Meta no ar; quatro matérias de base; checklist do CFM em cada criativo antes de publicar.
+- Fase 2 · Demanda no ar (etapa 2): **A equipe:** site rápido no celular, estruturado pra busca e pra IA; campanhas no Google e no Meta no ar; quatro matérias de base; checklist do CFM em cada criativo antes de publicar.
 
 **O dono:** aprova os criativos e o que vai ao ar. Nada é publicado sem esse aval.
-- Semanas 5 e 6 · Recepção e número (etapas 3 e 4): **A equipe:** CRM ligado ao WhatsApp, com automação da primeira resposta e follow-up; treinamento da recepção com script e uso do CRM; reativação da base; calibragem do custo por paciente com os números reais; painel no ar e lido junto com o dono.
+- Fase 3 · Recepção e número (etapas 3 e 4): **A equipe:** CRM ligado ao WhatsApp, com automação da primeira resposta e follow-up; treinamento da recepção com script e uso do CRM; reativação da base; calibragem do custo por paciente com os números reais; painel no ar e lido junto com o dono.
 
 **O dono:** libera a recepção pro treinamento e passa a olhar o painel com a gente, toda semana.
 
-No total, o que a gente precisa do dono são algumas horas distribuídas ao longo dos 45 dias. A clínica não para em nenhum momento.
+No total, o que a gente precisa do dono são algumas horas distribuídas ao longo da implantação. A clínica não para em nenhum momento.
 
 ## O que muda quando a implantação termina
 
 A estrutura fica com a clínica: campanhas no ar, ficha do Google ganhando avaliação, recepção com script e processo, base de pacientes organizada. A recepção sabe o que responder e em quanto tempo. O dono abre o celular na segunda-feira e sabe onde mexer, sem esperar o fim do mês.
 O que muda de verdade é a decisão: ela deixa de ser no achismo. Antes, "acho que o Google está funcionando melhor". Depois, o número de cada canal na tela, dizendo onde colocar mais verba e onde cortar.
+A área do cliente na [plataforma](/plataforma/) continua aberta: o cronograma vira histórico, as campanhas seguem lidas ao vivo e os documentos do projeto ficam lá. É de lá que a gente conversa sobre o que vem depois.
 
 ## O PROClip foi feito pra clínica que já roda e precisa de sistema
 
@@ -517,17 +676,17 @@ Faturamento e número de especialistas parceiros a gente vê na Sessão.
 
 ## Vamos olhar os números da sua clínica
 
-Trinta minutos com a nossa equipe, sem custo. Você sai com um diagnóstico e com uma resposta honesta sobre o que dá pra fazer em 45 dias, e sobre o que não vale a pena.
+Trinta minutos com a nossa equipe, sem custo. Você sai com um diagnóstico e com uma resposta honesta sobre o que dá pra fazer primeiro, e sobre o que não vale a pena.
 
 ### Em quanto tempo vejo resultado?
 
-As campanhas entram no ar entre a terceira e a quarta semana. A calibragem do custo por paciente acontece nas semanas 5 e 6. Nas clínicas em que o método foi implantado, a média foi de dois meses até a implantação se pagar. O resultado de cada clínica depende da operação dela, e é por isso que a proposta sai com os seus números. Quem promete resultado em uma semana está prometendo o que não controla.
+As campanhas entram no ar na segunda fase da implantação. A calibragem do custo por paciente acontece na última. Nas clínicas em que o método foi implantado, a média foi de dois meses até a implantação se pagar. O resultado de cada clínica depende da operação dela, e é por isso que a proposta sai com os seus números. Quem promete resultado em uma semana está prometendo o que não controla.
 
 ### Preciso aumentar a verba de mídia?
 
 Não. O método trabalha a eficiência da verba que já existe: nas clínicas implantadas, o custo médio por paciente caiu de R$ 28,80 pra R$ 13,60, e a mesma verba passou a trazer cerca de 2,5 vezes mais pacientes. Se a sua clínica ainda não investe em mídia, o valor inicial é definido no diagnóstico, de acordo com a cidade e a especialidade.
 
-### O que acontece depois dos 45 dias?
+### O que acontece depois da implantação?
 
 A estrutura fica com a clínica: campanhas, ficha do Google, recepção treinada e a base organizada. Quem quiser a gente por perto na gestão do que foi implantado, com CRM e painel acompanhados pela equipe, conversa sobre isso na proposta.
 
@@ -545,7 +704,7 @@ O medo é legítimo e é levado a sério: nenhuma peça vai ao ar sem passar pel
 
 ### Minha recepção vai dar conta?
 
-A recepção recebe treinamento com script e uso do CRM. A primeira resposta e o follow-up são automáticos, então ninguém precisa estar livre pra o paciente ser atendido. Se travar em algum ponto durante os 45 dias, a gente ajusta o processo. Manter a rotina depois é da clínica, e o treinamento é feito pra isso.
+A recepção recebe treinamento com script e uso do CRM. A primeira resposta e o follow-up são automáticos, então ninguém precisa estar livre pra o paciente ser atendido. Se travar em algum ponto durante a implantação, a gente ajusta o processo. Manter a rotina depois é da clínica, e o treinamento é feito pra isso.
 
 ### O Bernardo participa ou só vende?
 
@@ -555,9 +714,9 @@ O Bernardo responde pelo diagnóstico e pelo plano de cada clínica que entra: a
 
 # O Manual da Clínica Popular: o passo a passo das grandes redes, escrito pra clínica de bairro
 
-URL: https://clintia.com.br/manual/
+URL: https://clintia-br.github.io/site-clintia/manual/
 
-O método em 4 etapas no papel, com as ferramentas de cada etapa, o portal e a primeira comunidade de donos de clínica popular. A porta de entrada.
+O método em 4 etapas no papel, com as ferramentas de cada etapa, a área de membros e a primeira comunidade de donos de clínica popular. A porta de entrada.
 
 As 4 etapas do método no papel, pra aplicar com a equipe que você já tem. Começa pelo WhatsApp da recepção.
 
@@ -597,7 +756,7 @@ Não é pra quem quer terceirizar: o processo vem pronto, mas quem instala é vo
 
 ## Mesmo método. Muda quem executa.
 
-No Manual, você aplica na própria clínica, com o roteiro, as ferramentas e a comunidade. No PROClip, quem monta é a nossa equipe, dentro da clínica, em 45 dias; da sua parte, o aval do que vai ao ar. Quem começa pelo Manual e depois quer a equipe executando não perde nada: o método é o mesmo, e a Sessão Estratégica parte do que já está rodando.
+No Manual, você aplica na própria clínica, com o roteiro, as ferramentas e a comunidade. No PROClip, quem monta é a nossa equipe, dentro da clínica, no prazo definido no diagnóstico; da sua parte, o aval do que vai ao ar. Quem começa pelo Manual e depois quer a equipe executando não perde nada: o método é o mesmo, e a Sessão Estratégica parte do que já está rodando.
 
 ## Bernardo Carneiro, fundador da ClintIA
 
@@ -607,7 +766,7 @@ No Manual, você aplica na própria clínica, com o roteiro, as ferramentas e a 
 
 ## Comece hoje, pelo WhatsApp da recepção
 
-O Manual, o portal e a comunidade estão em proclip.com.br/apostila. Lá tem o vídeo de três minutos que explica o método.
+O Manual, a área de membros e a comunidade estão em proclip.com.br/apostila. Lá tem o vídeo de três minutos que explica o método.
 
 ### Preciso de equipe pra aplicar?
 
@@ -621,7 +780,7 @@ O valor vigente está sempre na página do produto, em proclip.com.br/apostila.
 
 # Fale com a gente
 
-URL: https://clintia.com.br/contato/
+URL: https://clintia-br.github.io/site-clintia/contato/
 
 WhatsApp, e-mail e a Sessão Estratégica: 30 minutos, sem custo, olhando os números da sua clínica popular antes de qualquer proposta. Todo o Brasil.
 
@@ -647,7 +806,7 @@ Não. São 30 minutos olhando os números da sua clínica. Se não fizer sentido
 
 # Marketing para clínica popular começa no Google, não no Instagram
 
-URL: https://clintia.com.br/blog/marketing-para-clinica-popular/
+URL: https://clintia-br.github.io/site-clintia/blog/marketing-para-clinica-popular/
 Autor: Bernardo Carneiro · Publicado em 2026-09-25 · Categoria: Aquisição de pacientes
 
 # Marketing para clínica popular começa no Google, não no Instagram
@@ -749,7 +908,7 @@ O paciente pegou o número e foi comparar com a clínica que cobra R$ 110. A rec
 >
 > Clínica: Entendi. O Dr. Paulo atende ortopedia aqui na unidade do Centro e tem horário amanhã às 9h e às 15h. A consulta é R$ 130, no Pix ou no cartão, e já sai com o pedido de exame se precisar. Qual dos dois horários fica melhor para você?
 
-O valor apareceu do mesmo jeito, só que depois do nome, do motivo e do horário. O script completo, com as variações para "vou pensar" e "depois eu volto", está em [Quanto custa a consulta? O que responder no WhatsApp da clínica](https://clintia.com.br/blog/quanto-custa-a-consulta-whatsapp/).
+O valor apareceu do mesmo jeito, só que depois do nome, do motivo e do horário. O script completo, com as variações para "vou pensar" e "depois eu volto", está em [Quanto custa a consulta? O que responder no WhatsApp da clínica](https://clintia-br.github.io/site-clintia/blog/quanto-custa-a-consulta-whatsapp/).
 
 A regra dos 5 minutos vale para toda mensagem, inclusive às 20h (fora do horário, a automação de primeira resposta segura o paciente), e todo orçamento que não virou agendamento recebe retorno em até 24 horas. A pilha de "depois eu volto" é dinheiro parado dentro do seu WhatsApp.
 
@@ -761,7 +920,7 @@ Retorno vencido é produto. O paciente que fez exame há um ano, o que tem acomp
 
 Para funcionar, precisa de base limpa com data do último atendimento, segmentação por tempo sem retorno (90, 180 e 365 dias), mensagem que puxe pelo motivo clínico (o exame que venceu, o retorno atrasado), sem promoção, cadência de até três toques e um CRM. Sem ele a busca ativa morre em 30 dias, porque ninguém aguenta controlar isso em planilha.
 
-O passo a passo está em [Reativação de pacientes enche a agenda sem gastar um real de mídia](https://clintia.com.br/blog/reativacao-de-pacientes/).
+O passo a passo está em [Reativação de pacientes enche a agenda sem gastar um real de mídia](https://clintia-br.github.io/site-clintia/blog/reativacao-de-pacientes/).
 
 ## O único número que diz se o marketing está funcionando: CAP por canal
 
@@ -783,7 +942,7 @@ Agora o número real. Nas clínicas que implantaram o método, o **CAP médio ca
 
 Uma armadilha que só aparece quando se mede por canal: dá para faturar mais e ganhar menos. Uma rede que acompanhamos viu o faturamento subir enquanto a fatia de particular caía de 17% para 14%. Naquela operação, o convênio pagava cerca da metade do particular e custava o dobro para atender, então a margem caiu sem ninguém perceber olhando o caixa.
 
-Como calcular o seu e qual CAP é aceitável em clínica popular está em [Custo de aquisição de paciente é o número que separa faturar de lucrar](https://clintia.com.br/blog/custo-de-aquisicao-de-paciente/).
+Como calcular o seu e qual CAP é aceitável em clínica popular está em [Custo de aquisição de paciente é o número que separa faturar de lucrar](https://clintia-br.github.io/site-clintia/blog/custo-de-aquisicao-de-paciente/).
 
 ## Quanto investir em marketing para clínica popular e o que esperar em 90 dias
 
@@ -839,7 +998,7 @@ Para ver como esses números ficam na sua clínica, a gente faz uma Sessão Estr
 
 # Custo de aquisição de paciente é o número que separa faturar de lucrar
 
-URL: https://clintia.com.br/blog/custo-de-aquisicao-de-paciente/
+URL: https://clintia-br.github.io/site-clintia/blog/custo-de-aquisicao-de-paciente/
 Autor: Bernardo Carneiro · Publicado em 2026-09-25 · Categoria: Números e previsibilidade
 
 Custo de aquisição de paciente (CAP) é quanto a sua clínica pagou para um paciente novo chegar, agendar, comparecer e pagar. A conta é simples: tudo o que saiu no mês para trazer gente nova, dividido pelo número de pacientes novos atendidos. O que quase ninguém faz é olhar esse número por canal e cruzar com a margem de cada tipo de atendimento. É nesse cruzamento que uma clínica popular descobre que está faturando mais e ganhando menos.
@@ -959,7 +1118,7 @@ Dois vazamentos empurram o CAP para cima sem que a verba mude.
 
 O primeiro é a falta. No exemplo, 320 agendamentos viraram 240 atendimentos (25% de falta), e o custo por paciente subiu de R$ 18,13 para R$ 24,17: 33% a mais sem gastar um real. O médico estava na sala, o horário não pode ser refaturado e o clique já foi pago. Por isso o CAP que importa é por paciente atendido: ele carrega a falta dentro dele e obriga a clínica a tratá-la.
 
-O segundo é o orçamento aberto. A pessoa chama no WhatsApp, pergunta o preço, recebe o valor e some. Ela já custou o clique e a conversa. Se ninguém volta a falar com ela em 24 horas, esse custo fica sem receita e infla o CAP de todo mundo. Em clínica popular a primeira mensagem quase sempre é "quanto custa a consulta", então o volume de orçamento aberto é grande. O que responder nessa hora está na matéria sobre [o preço da consulta no WhatsApp](https://clintia.com.br/blog/quanto-custa-a-consulta-whatsapp/).
+O segundo é o orçamento aberto. A pessoa chama no WhatsApp, pergunta o preço, recebe o valor e some. Ela já custou o clique e a conversa. Se ninguém volta a falar com ela em 24 horas, esse custo fica sem receita e infla o CAP de todo mundo. Em clínica popular a primeira mensagem quase sempre é "quanto custa a consulta", então o volume de orçamento aberto é grande. O que responder nessa hora está na matéria sobre [o preço da consulta no WhatsApp](https://clintia-br.github.io/site-clintia/blog/quanto-custa-a-consulta-whatsapp/).
 
 ## Qual custo de aquisição de paciente é aceitável em clínica popular
 
@@ -981,9 +1140,9 @@ Cortar mídia reduz a conta de anúncio e quase sempre aumenta o CAP, porque ag�
 
 **Conversão da recepção.** No exemplo, 800 contatos viraram 320 agendamentos, 40%. Se a recepção passa a conduzir a conversa (perguntar o motivo, o bairro e a urgência antes de dizer o preço, e oferecer horário na mesma mensagem), essa taxa sobe. A 50%, os mesmos R$ 5.800 gerariam 400 agendamentos e, com o mesmo comparecimento, 300 atendidos: CAP de R$ 19,33 em vez de R$ 24,17. Vinte por cento a menos sem mexer na verba.
 
-**Reativação da base.** Paciente que já passou pela clínica e sumiu custa uma fração do paciente novo para voltar, porque já conhece o lugar e o clique foi pago no passado. Na tabela por canal, a base apareceu com CAP de R$ 10 contra R$ 26 do Google. Uma clínica com alguns anos de operação costuma ter milhares de cadastros parados. O passo a passo está na matéria sobre [reativação de pacientes](https://clintia.com.br/blog/reativacao-de-pacientes/).
+**Reativação da base.** Paciente que já passou pela clínica e sumiu custa uma fração do paciente novo para voltar, porque já conhece o lugar e o clique foi pago no passado. Na tabela por canal, a base apareceu com CAP de R$ 10 contra R$ 26 do Google. Uma clínica com alguns anos de operação costuma ter milhares de cadastros parados. O passo a passo está na matéria sobre [reativação de pacientes](https://clintia-br.github.io/site-clintia/blog/reativacao-de-pacientes/).
 
-**Remarketing e ficha do Google.** Quem visitou o site ou chamou no WhatsApp e não agendou volta a ver a clínica no Facebook e no Instagram nos dias seguintes, por um custo pequeno. A ficha do Google acima de 4.8 faz o paciente confirmar em 30 segundos que a clínica é séria e converte melhor o clique que o anúncio já pagou. A visão completa está na matéria sobre [marketing para clínica popular](https://clintia.com.br/blog/marketing-para-clinica-popular/).
+**Remarketing e ficha do Google.** Quem visitou o site ou chamou no WhatsApp e não agendou volta a ver a clínica no Facebook e no Instagram nos dias seguintes, por um custo pequeno. A ficha do Google acima de 4.8 faz o paciente confirmar em 30 segundos que a clínica é séria e converte melhor o clique que o anúncio já pagou. A visão completa está na matéria sobre [marketing para clínica popular](https://clintia-br.github.io/site-clintia/blog/marketing-para-clinica-popular/).
 
 ## O painel de segunda-feira: os 5 números que o dono precisa ver
 
@@ -1015,14 +1174,14 @@ Se você quer ver essa conta feita com os números da sua clínica, a Sessão Es
 
 # Quanto custa a consulta? O que responder no WhatsApp da clínica
 
-URL: https://clintia.com.br/blog/quanto-custa-a-consulta-whatsapp/
+URL: https://clintia-br.github.io/site-clintia/blog/quanto-custa-a-consulta-whatsapp/
 Autor: Bernardo Carneiro · Publicado em 2026-09-25 · Categoria: Comercial e WhatsApp
 
 Como responder quando o paciente pergunta quanto custa a consulta no WhatsApp: com o valor, uma pergunta antes dele e um horário na mesma mensagem. Só o número joga a clínica na comparação com a concorrente de R$ 20 a menos; esconder o número entrega o paciente para quem foi claro. O script abaixo tem 4 movimentos e vem com a conversa completa, errada e certa, o que fazer depois do "depois eu volto" e o treino de uma semana para a recepção.
 
 ## Por que a primeira mensagem é o preço (e por que isso não é problema)
 
-Em clínica popular, o preço faz parte do produto. O paciente chegou até a sua clínica [pelo Google](https://clintia.com.br/blog/marketing-para-clinica-popular/), na busca "cardiologista perto de mim", abriu duas ou três fichas e mandou a mesma mensagem para todas. A pergunta mais curta que ele sabe fazer é "quanto é a consulta?".
+Em clínica popular, o preço faz parte do produto. O paciente chegou até a sua clínica [pelo Google](https://clintia-br.github.io/site-clintia/blog/marketing-para-clinica-popular/), na busca "cardiologista perto de mim", abriu duas ou três fichas e mandou a mesma mensagem para todas. A pergunta mais curta que ele sabe fazer é "quanto é a consulta?".
 
 Donos com quem a gente conversa toda semana descrevem a mesma cena: a maior parte das mensagens que chegam começa pelo valor. Muitos tratam isso como lead ruim. É o contrário: a pessoa está no momento de decidir, e decide com três critérios: proximidade, velocidade e preço. Perdeu um dos três, perdeu o paciente.
 
@@ -1121,7 +1280,7 @@ A cadência que funciona tem até três toques, sem desconto:
 2. **3 dias depois (opcional).** Um horário que abriu ou uma informação nova. "Abriu um horário sábado de manhã, pensei na sua mãe."
 3. **7 dias depois.** "Vou deixar o contato aqui. Quando quiser marcar a consulta dela, é só me chamar."
 
-Depois disso o paciente entra na [lista de reativação da clínica](https://clintia.com.br/blog/reativacao-de-pacientes/). Para a cadência existir, o orçamento aberto precisa estar anotado: nome, motivo, valor informado, data e quem atendeu. Uma planilha resolve no começo. Um CRM ligado ao WhatsApp resolve quando o volume cresce. É a lógica do tênis que você olhou na loja virtual e fica aparecendo em todo lugar dez minutos depois: quem orçou e sumiu está esperando alguém lembrar dele.
+Depois disso o paciente entra na [lista de reativação da clínica](https://clintia-br.github.io/site-clintia/blog/reativacao-de-pacientes/). Para a cadência existir, o orçamento aberto precisa estar anotado: nome, motivo, valor informado, data e quem atendeu. Uma planilha resolve no começo. Um CRM ligado ao WhatsApp resolve quando o volume cresce. É a lógica do tênis que você olhou na loja virtual e fica aparecendo em todo lugar dez minutos depois: quem orçou e sumiu está esperando alguém lembrar dele.
 
 ## Sua recepção atende, ela não vende: como separar balcão de central de WhatsApp
 
@@ -1177,7 +1336,7 @@ Vender na recepção é conduzir a conversa até o horário, sem insistir. O tre
 
 # Reativação de pacientes enche a agenda sem gastar um real de mídia
 
-URL: https://clintia.com.br/blog/reativacao-de-pacientes/
+URL: https://clintia-br.github.io/site-clintia/blog/reativacao-de-pacientes/
 Autor: Bernardo Carneiro · Publicado em 2026-09-25 · Categoria: Base e recorrência
 
 Reativação de pacientes é um dos canais mais baratos que uma clínica popular tem, e quase sempre o menos usado. A base de pacientes inativos, quem já passou pela recepção e não voltou, guarda retornos vencidos, exames pendentes e orçamentos abertos que podem ocupar uma parte relevante da agenda de todo dia sem verba de anúncio. Neste texto a gente mostra como definir quem está inativo, o que mandar, em que ritmo, e a conta de quanto custa e quanto volta.
@@ -1206,7 +1365,7 @@ Por isso o retorno vencido precisa ser tratado como produto. Cada especialidade 
 | Tratamento longo interrompido (ortodontia, terapia, fisioterapia) | Conforme o plano | 60 dias depois da última sessão prevista |
 | Orçamento de exame ou procedimento que não fechou | Imediato | 24 horas depois do orçamento |
 
-Repare na última linha. Orçamento aberto é a fatia mais quente da base: a pessoa perguntou, recebeu o valor e sumiu. Em clínica acessível isso acontece todo dia no WhatsApp, e quase nunca alguém volta para perguntar se ficou dúvida. O que responder quando a primeira mensagem é o preço, e como registrar o orçamento aberto, está em [outra matéria](https://clintia.com.br/blog/quanto-custa-a-consulta-whatsapp/). Se a sua clínica não registra data prevista de retorno, comece com 180 dias sem nenhuma passagem e refine depois.
+Repare na última linha. Orçamento aberto é a fatia mais quente da base: a pessoa perguntou, recebeu o valor e sumiu. Em clínica acessível isso acontece todo dia no WhatsApp, e quase nunca alguém volta para perguntar se ficou dúvida. O que responder quando a primeira mensagem é o preço, e como registrar o orçamento aberto, está em [outra matéria](https://clintia-br.github.io/site-clintia/blog/quanto-custa-a-consulta-whatsapp/). Se a sua clínica não registra data prevista de retorno, comece com 180 dias sem nenhuma passagem e refine depois.
 
 ## Quanto da agenda pode vir da base: um exemplo de 40 em 160 horários
 
@@ -1313,13 +1472,13 @@ A conta abaixo é um exemplo hipotético com premissas conservadoras. Os percent
 | Custo total | | R$ 1.000 |
 | Custo por paciente atendido | R$ 1.000 / 101 | R$ 9,90 |
 
-Para comparar: o [custo de aquisição de paciente](https://clintia.com.br/blog/custo-de-aquisicao-de-paciente/) que a gente encontra nas clínicas antes de organizar o comercial é de R$ 28,80, e depois da implantação o resultado típico é R$ 13,60. No exemplo acima a base entrega paciente a R$ 9,90, e ele já conhece a clínica.
+Para comparar: o [custo de aquisição de paciente](https://clintia-br.github.io/site-clintia/blog/custo-de-aquisicao-de-paciente/) que a gente encontra nas clínicas antes de organizar o comercial é de R$ 28,80, e depois da implantação o resultado típico é R$ 13,60. No exemplo acima a base entrega paciente a R$ 9,90, e ele já conhece a clínica.
 
 Um aviso sobre essa conta: se a taxa de resposta do seu piloto der 3% em vez de 8%, o custo por atendido sobe para uns R$ 26 e ainda assim empata com a mídia. A conta não depende de otimismo. E os 101 atendimentos do exemplo são cerca de 5 por dia útil, com a fila se renovando porque novos retornos vencem o tempo todo.
 
 ## Faça hoje
 
-1. Peça ao sistema a lista de pacientes sem passagem há mais de 180 dias, com telefone. O tamanho dessa lista já muda a conversa sobre verba de anúncio. Se a clínica ainda liga anúncio antes de organizar o comercial, vale ler antes [por onde começa o marketing da clínica popular](https://clintia.com.br/blog/marketing-para-clinica-popular/).
+1. Peça ao sistema a lista de pacientes sem passagem há mais de 180 dias, com telefone. O tamanho dessa lista já muda a conversa sobre verba de anúncio. Se a clínica ainda liga anúncio antes de organizar o comercial, vale ler antes [por onde começa o marketing da clínica popular](https://clintia-br.github.io/site-clintia/blog/marketing-para-clinica-popular/).
 2. Separe os orçamentos abertos das últimas 48 horas no WhatsApp e mande a mensagem do "ficou alguma dúvida" para cada um, hoje.
 3. Escolha uma especialidade, defina o prazo de inativo com o médico responsável e monte um lote de 300 contatos da janela de 90 a 180 dias.
 4. Escreva a mensagem do toque 1 com nome, motivo, pessoa e dois horários. Leia em voz alta; se soar como propaganda, reescreva.

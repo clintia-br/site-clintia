@@ -59,6 +59,23 @@
     }
   }
 
+  /* v3: video com carregamento leve. O poster e um link pro YouTube; com JS o clique troca pelo iframe do
+     youtube-nocookie.com (autoplay) sem carregar nada do YouTube antes disso. */
+  d.querySelectorAll('[data-video]').forEach(function (fig) {
+    var a = fig.querySelector('.video-poster');
+    if (!a) return;
+    a.addEventListener('click', function (e) {
+      e.preventDefault();
+      var id = fig.getAttribute('data-video'), title = fig.getAttribute('data-video-title') || 'Vídeo';
+      var f = d.createElement('iframe');
+      f.src = 'https://www.youtube-nocookie.com/embed/' + encodeURIComponent(id) + '?autoplay=1&rel=0&modestbranding=1&playsinline=1';
+      f.title = title; f.allow = 'autoplay; encrypted-media; picture-in-picture'; f.setAttribute('allowfullscreen', '');
+      f.width = '1600'; f.height = '900'; f.loading = 'eager';
+      a.replaceWith(f);
+      try { f.focus(); } catch (err) {}
+    });
+  });
+
   /* Cabecalho: hairline so depois de rolar */
   var header = d.querySelector('.site-header');
   if (header) {

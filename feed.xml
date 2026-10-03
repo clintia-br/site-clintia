@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ClintIA · Blog</title>
-    <link>https://clintia.com.br/blog/</link>
+    <link>https://clintia-br.github.io/site-clintia/blog/</link>
     <description>Gestão comercial, marketing e operação de clínicas populares, com número e método.</description>
     <language>pt-br</language>
-    <lastBuildDate>Sat, 26 Sep 2026 18:55:16 -0300</lastBuildDate>
-    <atom:link href="https://clintia.com.br/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Fri, 02 Oct 2026 21:29:42 -0300</lastBuildDate>
+    <atom:link href="https://clintia-br.github.io/site-clintia/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
-      <url>https://clintia.com.br/assets/logo/clintia-logo-horizontal-cor-600.png</url>
+      <url>https://clintia-br.github.io/site-clintia/assets/logo/clintia-logo-horizontal-cor-600.png</url>
       <title>ClintIA · Blog</title>
-      <link>https://clintia.com.br/blog/</link>
+      <link>https://clintia-br.github.io/site-clintia/blog/</link>
     </image>
     <item>
       <title>Marketing para clínica popular começa no Google, não no Instagram</title>
-      <link>https://clintia.com.br/blog/marketing-para-clinica-popular/</link>
-      <guid isPermaLink="true">https://clintia.com.br/blog/marketing-para-clinica-popular/</guid>
+      <link>https://clintia-br.github.io/site-clintia/blog/marketing-para-clinica-popular/</link>
+      <guid isPermaLink="true">https://clintia-br.github.io/site-clintia/blog/marketing-para-clinica-popular/</guid>
       <pubDate>Fri, 25 Sep 2026 09:00:00 -0300</pubDate>
       <dc:creator>Bernardo Carneiro</dc:creator>
       <category>Aquisição de pacientes</category>
@@ -42,7 +42,7 @@
 <div class="ad-slot ad-slot--mobile"><div class="ad-wrap ad-wrap--336x280">
   <span class="ad-label" aria-hidden="true">publicidade</span>
   <a class="house-ad house-ad--336x280 house-ad--light" href="https://lp.clintia.com.br/sessao-estrategica-2026?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=sessao-estrategica&amp;utm_content=336x280-marketing-para-clinica-popular" rel="noopener" data-ad="sessao-estrategica" data-format="336x280" aria-label="Publicidade: Sessão Estratégica PROClip, diagnóstico comercial de 30 minutos sem custo">
-    <img class="house-ad-logo" src="https://clintia.com.br/assets/logo/clintia-logo-horizontal-cor-600.png" width="600" height="135" alt="" loading="lazy" decoding="async">
+    <img class="house-ad-logo" src="https://clintia-br.github.io/site-clintia/assets/logo/clintia-logo-horizontal-cor-600.png" width="600" height="135" alt="" loading="lazy" decoding="async">
     <span class="house-ad-kicker">PROClip</span>
     <span class="house-ad-title">Quanto custa cada paciente da sua clínica hoje?</span>
     <span class="house-ad-line">30 minutos, sem custo, com os seus números.</span>
@@ -67,7 +67,7 @@
 <div class="ad-slot ad-slot--mobile"><div class="ad-wrap ad-wrap--336x280">
   <span class="ad-label" aria-hidden="true">publicidade</span>
   <a class="house-ad house-ad--336x280 house-ad--dark" href="https://www.proclip.com.br/apostila?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=comunidade-manual&amp;utm_content=336x280-marketing-para-clinica-popular" rel="noopener" data-ad="comunidade-manual" data-format="336x280" aria-label="Publicidade: comunidade do Manual da Clínica Popular, mais de 80 donos de clínica">
-    <img class="house-ad-logo" src="https://clintia.com.br/assets/logo/logo-clintia-branca-horizontal.png" width="1215" height="281" alt="" loading="lazy" decoding="async">
+    <img class="house-ad-logo" src="https://clintia-br.github.io/site-clintia/assets/logo/logo-clintia-branca-horizontal.png" width="1215" height="281" alt="" loading="lazy" decoding="async">
     <span class="house-ad-kicker">Comunidade do Manual</span>
     <span class="house-ad-title">Mais de 80 donos de clínica popular no mesmo grupo</span>
     <span class="house-ad-line">Quem já aplica o método troca o que funcionou e o que deu errado.</span>
@@ -102,13 +102,13 @@
 <p>Paciente: Dor no joelho, faz umas duas semanas.</p>
 <p>Clínica: Entendi. O Dr. Paulo atende ortopedia aqui na unidade do Centro e tem horário amanhã às 9h e às 15h. A consulta é R$ 130, no Pix ou no cartão, e já sai com o pedido de exame se precisar. Qual dos dois horários fica melhor para você?</p>
 </blockquote>
-<p>O valor apareceu do mesmo jeito, só que depois do nome, do motivo e do horário. O script completo, com as variações para "vou pensar" e "depois eu volto", está em <a href="https://clintia.com.br/blog/quanto-custa-a-consulta-whatsapp/">Quanto custa a consulta? O que responder no WhatsApp da clínica</a>.</p>
+<p>O valor apareceu do mesmo jeito, só que depois do nome, do motivo e do horário. O script completo, com as variações para "vou pensar" e "depois eu volto", está em <a href="https://clintia-br.github.io/site-clintia/blog/quanto-custa-a-consulta-whatsapp/">Quanto custa a consulta? O que responder no WhatsApp da clínica</a>.</p>
 <p>A regra dos 5 minutos vale para toda mensagem, inclusive às 20h (fora do horário, a automação de primeira resposta segura o paciente), e todo orçamento que não virou agendamento recebe retorno em até 24 horas. A pilha de "depois eu volto" é dinheiro parado dentro do seu WhatsApp.</p>
 <h2 id="a-base-de-pacientes-e-o-canal-mais-barato-que-a-clinica-ja-tem">A base de pacientes é o canal mais barato que a clínica já tem</h2>
 <p>Antes de comprar um paciente novo, vale olhar quantos você já tem parados no sistema. A maior parte passou uma vez e nunca mais recebeu contato.</p>
 <p>Retorno vencido é produto. O paciente que fez exame há um ano, o que tem acompanhamento atrasado, o que orçou e não fechou: todos têm motivo para voltar, e o custo de chamar cada um é uma mensagem. Conhecemos clínica que preenche 40 dos 160 horários do dia só com chamada ativa para pacientes antigos, sem um real de mídia.</p>
 <p>Para funcionar, precisa de base limpa com data do último atendimento, segmentação por tempo sem retorno (90, 180 e 365 dias), mensagem que puxe pelo motivo clínico (o exame que venceu, o retorno atrasado), sem promoção, cadência de até três toques e um CRM. Sem ele a busca ativa morre em 30 dias, porque ninguém aguenta controlar isso em planilha.</p>
-<p>O passo a passo está em <a href="https://clintia.com.br/blog/reativacao-de-pacientes/">Reativação de pacientes enche a agenda sem gastar um real de mídia</a>.</p>
+<p>O passo a passo está em <a href="https://clintia-br.github.io/site-clintia/blog/reativacao-de-pacientes/">Reativação de pacientes enche a agenda sem gastar um real de mídia</a>.</p>
 <h2 id="o-unico-numero-que-diz-se-o-marketing-esta-funcionando-cap-por-canal">O único número que diz se o marketing está funcionando: CAP por canal</h2>
 <p>Curtida não paga boleto. Clique também não. O número que decide se o marketing está caro ou barato é o <strong>CAP, custo de aquisição de paciente</strong>: quanto você gastou, somando tudo, para cada paciente que agendou, compareceu e pagou. Custo por clique e custo por lead são sempre menores e mais bonitos no relatório da agência.</p>
 <p>Exemplo hipotético de uma clínica que investe R$ 3.000 por mês e passou a marcar a origem de cada paciente:</p>
@@ -157,7 +157,7 @@
 <p>Nesse exemplo o dono descobre que a base rende três vezes mais barato que o Google e que o remarketing custa 50% mais que a busca para o que devolve. Sem a coluna de canal, a leitura seria "o marketing custa R$ 3.000 e a agenda está mais ou menos".</p>
 <p>Agora o número real. Nas clínicas que implantaram o método, o <strong>CAP médio caiu de R$ 28,80 para R$ 13,60</strong>, uma redução de 53%, com a mesma verba. Em média, essas clínicas passaram a atender <strong>2,5 vezes mais pacientes com o mesmo investimento</strong>. O método atua exatamente nos pontos deste texto: resposta em minutos, corte do canal caro, uso da base e medição por paciente que pagou.</p>
 <p>Uma armadilha que só aparece quando se mede por canal: dá para faturar mais e ganhar menos. Uma rede que acompanhamos viu o faturamento subir enquanto a fatia de particular caía de 17% para 14%. Naquela operação, o convênio pagava cerca da metade do particular e custava o dobro para atender, então a margem caiu sem ninguém perceber olhando o caixa.</p>
-<p>Como calcular o seu e qual CAP é aceitável em clínica popular está em <a href="https://clintia.com.br/blog/custo-de-aquisicao-de-paciente/">Custo de aquisição de paciente é o número que separa faturar de lucrar</a>.</p>
+<p>Como calcular o seu e qual CAP é aceitável em clínica popular está em <a href="https://clintia-br.github.io/site-clintia/blog/custo-de-aquisicao-de-paciente/">Custo de aquisição de paciente é o número que separa faturar de lucrar</a>.</p>
 <h2 id="quanto-investir-em-marketing-para-clinica-popular-e-o-que-esperar-em-90-dias">Quanto investir em marketing para clínica popular e o que esperar em 90 dias</h2>
 <p>Não existe valor de tabela. Guias de agências e de softwares de gestão sugerem um piso de poucos milhares de reais por mês em Google Ads, com o clique variando conforme a especialidade e a cidade. É ponto de partida; a conta certa começa pela agenda.</p>
 <p>Exemplo hipotético: uma clínica com 200 horários vazios por mês e um CAP alvo de R$ 20 precisa de cerca de R$ 4.000 em mídia para preencher tudo, desde que o WhatsApp converta. Se a recepção converte metade do que poderia, o mesmo resultado custa o dobro.</p>
@@ -207,8 +207,8 @@
     </item>
     <item>
       <title>Custo de aquisição de paciente é o número que separa faturar de lucrar</title>
-      <link>https://clintia.com.br/blog/custo-de-aquisicao-de-paciente/</link>
-      <guid isPermaLink="true">https://clintia.com.br/blog/custo-de-aquisicao-de-paciente/</guid>
+      <link>https://clintia-br.github.io/site-clintia/blog/custo-de-aquisicao-de-paciente/</link>
+      <guid isPermaLink="true">https://clintia-br.github.io/site-clintia/blog/custo-de-aquisicao-de-paciente/</guid>
       <pubDate>Fri, 25 Sep 2026 09:00:00 -0300</pubDate>
       <dc:creator>Bernardo Carneiro</dc:creator>
       <category>Números e previsibilidade</category>
@@ -289,7 +289,7 @@
 <div class="ad-slot ad-slot--mobile"><div class="ad-wrap ad-wrap--336x280">
   <span class="ad-label" aria-hidden="true">publicidade</span>
   <a class="house-ad house-ad--336x280 house-ad--light" href="https://lp.clintia.com.br/sessao-estrategica-2026?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=sessao-estrategica&amp;utm_content=336x280-custo-de-aquisicao-de-paciente" rel="noopener" data-ad="sessao-estrategica" data-format="336x280" aria-label="Publicidade: Sessão Estratégica PROClip, diagnóstico comercial de 30 minutos sem custo">
-    <img class="house-ad-logo" src="https://clintia.com.br/assets/logo/clintia-logo-horizontal-cor-600.png" width="600" height="135" alt="" loading="lazy" decoding="async">
+    <img class="house-ad-logo" src="https://clintia-br.github.io/site-clintia/assets/logo/clintia-logo-horizontal-cor-600.png" width="600" height="135" alt="" loading="lazy" decoding="async">
     <span class="house-ad-kicker">PROClip</span>
     <span class="house-ad-title">Quanto custa cada paciente da sua clínica hoje?</span>
     <span class="house-ad-line">30 minutos, sem custo, com os seus números.</span>
@@ -441,7 +441,7 @@
 <div class="ad-slot ad-slot--mobile"><div class="ad-wrap ad-wrap--336x280">
   <span class="ad-label" aria-hidden="true">publicidade</span>
   <a class="house-ad house-ad--336x280 house-ad--dark" href="https://www.proclip.com.br/apostila?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=comunidade-manual&amp;utm_content=336x280-custo-de-aquisicao-de-paciente" rel="noopener" data-ad="comunidade-manual" data-format="336x280" aria-label="Publicidade: comunidade do Manual da Clínica Popular, mais de 80 donos de clínica">
-    <img class="house-ad-logo" src="https://clintia.com.br/assets/logo/logo-clintia-branca-horizontal.png" width="1215" height="281" alt="" loading="lazy" decoding="async">
+    <img class="house-ad-logo" src="https://clintia-br.github.io/site-clintia/assets/logo/logo-clintia-branca-horizontal.png" width="1215" height="281" alt="" loading="lazy" decoding="async">
     <span class="house-ad-kicker">Comunidade do Manual</span>
     <span class="house-ad-title">Mais de 80 donos de clínica popular no mesmo grupo</span>
     <span class="house-ad-line">Quem já aplica o método troca o que funcionou e o que deu errado.</span>
@@ -450,7 +450,7 @@
 </div></div><h2 id="no-show-e-orcamento-aberto-inflam-o-cap-real">No-show e orçamento aberto inflam o CAP real</h2>
 <p>Dois vazamentos empurram o CAP para cima sem que a verba mude.</p>
 <p>O primeiro é a falta. No exemplo, 320 agendamentos viraram 240 atendimentos (25% de falta), e o custo por paciente subiu de R$ 18,13 para R$ 24,17: 33% a mais sem gastar um real. O médico estava na sala, o horário não pode ser refaturado e o clique já foi pago. Por isso o CAP que importa é por paciente atendido: ele carrega a falta dentro dele e obriga a clínica a tratá-la.</p>
-<p>O segundo é o orçamento aberto. A pessoa chama no WhatsApp, pergunta o preço, recebe o valor e some. Ela já custou o clique e a conversa. Se ninguém volta a falar com ela em 24 horas, esse custo fica sem receita e infla o CAP de todo mundo. Em clínica popular a primeira mensagem quase sempre é "quanto custa a consulta", então o volume de orçamento aberto é grande. O que responder nessa hora está na matéria sobre <a href="https://clintia.com.br/blog/quanto-custa-a-consulta-whatsapp/">o preço da consulta no WhatsApp</a>.</p>
+<p>O segundo é o orçamento aberto. A pessoa chama no WhatsApp, pergunta o preço, recebe o valor e some. Ela já custou o clique e a conversa. Se ninguém volta a falar com ela em 24 horas, esse custo fica sem receita e infla o CAP de todo mundo. Em clínica popular a primeira mensagem quase sempre é "quanto custa a consulta", então o volume de orçamento aberto é grande. O que responder nessa hora está na matéria sobre <a href="https://clintia-br.github.io/site-clintia/blog/quanto-custa-a-consulta-whatsapp/">o preço da consulta no WhatsApp</a>.</p>
 <h2 id="qual-custo-de-aquisicao-de-paciente-e-aceitavel-em-clinica-popular">Qual custo de aquisição de paciente é aceitável em clínica popular</h2>
 <p>Os benchmarks que aparecem nas primeiras páginas do Google ficam entre R$ 120 e R$ 350 por paciente, conforme a especialidade. São números de consultório, com ticket alto e tratamento longo. Para uma clínica que cobra R$ 90 a consulta, um CAP de R$ 120 já é prejuízo no primeiro atendimento.</p>
 <p>A régua que usamos é a contribuição do primeiro atendimento, o número da tabela do particular e do convênio:</p>
@@ -464,8 +464,8 @@
 <p>Cortar mídia reduz a conta de anúncio e quase sempre aumenta o CAP, porque agência e ferramenta continuam custando e chegam menos pacientes. A redução de verdade vem do que acontece depois do clique. Quatro alavancas, em ordem de custo:</p>
 <p><strong>Primeira resposta em menos de 5 minutos.</strong> O paciente de clínica popular decide rápido e, enquanto espera a sua resposta, está falando com outras clínicas do bairro. Quem responde antes fica com o paciente. Uma automação de primeira resposta no WhatsApp da clínica cobre o horário em que ninguém está no balcão e o momento em que ele está cheio.</p>
 <p><strong>Conversão da recepção.</strong> No exemplo, 800 contatos viraram 320 agendamentos, 40%. Se a recepção passa a conduzir a conversa (perguntar o motivo, o bairro e a urgência antes de dizer o preço, e oferecer horário na mesma mensagem), essa taxa sobe. A 50%, os mesmos R$ 5.800 gerariam 400 agendamentos e, com o mesmo comparecimento, 300 atendidos: CAP de R$ 19,33 em vez de R$ 24,17. Vinte por cento a menos sem mexer na verba.</p>
-<p><strong>Reativação da base.</strong> Paciente que já passou pela clínica e sumiu custa uma fração do paciente novo para voltar, porque já conhece o lugar e o clique foi pago no passado. Na tabela por canal, a base apareceu com CAP de R$ 10 contra R$ 26 do Google. Uma clínica com alguns anos de operação costuma ter milhares de cadastros parados. O passo a passo está na matéria sobre <a href="https://clintia.com.br/blog/reativacao-de-pacientes/">reativação de pacientes</a>.</p>
-<p><strong>Remarketing e ficha do Google.</strong> Quem visitou o site ou chamou no WhatsApp e não agendou volta a ver a clínica no Facebook e no Instagram nos dias seguintes, por um custo pequeno. A ficha do Google acima de 4.8 faz o paciente confirmar em 30 segundos que a clínica é séria e converte melhor o clique que o anúncio já pagou. A visão completa está na matéria sobre <a href="https://clintia.com.br/blog/marketing-para-clinica-popular/">marketing para clínica popular</a>.</p>
+<p><strong>Reativação da base.</strong> Paciente que já passou pela clínica e sumiu custa uma fração do paciente novo para voltar, porque já conhece o lugar e o clique foi pago no passado. Na tabela por canal, a base apareceu com CAP de R$ 10 contra R$ 26 do Google. Uma clínica com alguns anos de operação costuma ter milhares de cadastros parados. O passo a passo está na matéria sobre <a href="https://clintia-br.github.io/site-clintia/blog/reativacao-de-pacientes/">reativação de pacientes</a>.</p>
+<p><strong>Remarketing e ficha do Google.</strong> Quem visitou o site ou chamou no WhatsApp e não agendou volta a ver a clínica no Facebook e no Instagram nos dias seguintes, por um custo pequeno. A ficha do Google acima de 4.8 faz o paciente confirmar em 30 segundos que a clínica é séria e converte melhor o clique que o anúncio já pagou. A visão completa está na matéria sobre <a href="https://clintia-br.github.io/site-clintia/blog/marketing-para-clinica-popular/">marketing para clínica popular</a>.</p>
 <h2 id="o-painel-de-segunda-feira-os-5-numeros-que-o-dono-precisa-ver">O painel de segunda-feira: os 5 números que o dono precisa ver</h2>
 <p>O dono não precisa de painel com 40 indicadores. Precisa de cinco números da semana fechada, no celular, toda segunda de manhã, e de saber que decisão cada um puxa.</p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Tabela; role para o lado se necessário"><table>
@@ -542,14 +542,14 @@
     </item>
     <item>
       <title>Quanto custa a consulta? O que responder no WhatsApp da clínica</title>
-      <link>https://clintia.com.br/blog/quanto-custa-a-consulta-whatsapp/</link>
-      <guid isPermaLink="true">https://clintia.com.br/blog/quanto-custa-a-consulta-whatsapp/</guid>
+      <link>https://clintia-br.github.io/site-clintia/blog/quanto-custa-a-consulta-whatsapp/</link>
+      <guid isPermaLink="true">https://clintia-br.github.io/site-clintia/blog/quanto-custa-a-consulta-whatsapp/</guid>
       <pubDate>Fri, 25 Sep 2026 09:00:00 -0300</pubDate>
       <dc:creator>Bernardo Carneiro</dc:creator>
       <category>Comercial e WhatsApp</category>
       <description>Paciente perguntou quanto custa a consulta no WhatsApp? Diga o valor, pergunte antes e ofereça horário junto. Script em 4 movimentos e conversa modelo.</description>
       <content:encoded><![CDATA[<h2 id="por-que-a-primeira-mensagem-e-o-preco-e-por-que-isso-nao-e-problema">Por que a primeira mensagem é o preço (e por que isso não é problema)</h2>
-<p>Em clínica popular, o preço faz parte do produto. O paciente chegou até a sua clínica <a href="https://clintia.com.br/blog/marketing-para-clinica-popular/">pelo Google</a>, na busca "cardiologista perto de mim", abriu duas ou três fichas e mandou a mesma mensagem para todas. A pergunta mais curta que ele sabe fazer é "quanto é a consulta?".</p>
+<p>Em clínica popular, o preço faz parte do produto. O paciente chegou até a sua clínica <a href="https://clintia-br.github.io/site-clintia/blog/marketing-para-clinica-popular/">pelo Google</a>, na busca "cardiologista perto de mim", abriu duas ou três fichas e mandou a mesma mensagem para todas. A pergunta mais curta que ele sabe fazer é "quanto é a consulta?".</p>
 <p>Donos com quem a gente conversa toda semana descrevem a mesma cena: a maior parte das mensagens que chegam começa pelo valor. Muitos tratam isso como lead ruim. É o contrário: a pessoa está no momento de decidir, e decide com três critérios: proximidade, velocidade e preço. Perdeu um dos três, perdeu o paciente.</p>
 <p>A pergunta do preço é a porta. O problema começa quando a recepção trata a pergunta como se fosse a conversa inteira.</p>
 <h2 id="erro-1-responder-so-o-valor-e-virar-tabela-de-preco">Erro 1: responder só o valor e virar tabela de preço</h2>
@@ -564,7 +564,7 @@
 <div class="ad-slot ad-slot--mobile"><div class="ad-wrap ad-wrap--336x280">
   <span class="ad-label" aria-hidden="true">publicidade</span>
   <a class="house-ad house-ad--336x280 house-ad--light" href="https://lp.clintia.com.br/sessao-estrategica-2026?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=sessao-estrategica&amp;utm_content=336x280-quanto-custa-a-consulta-whatsapp" rel="noopener" data-ad="sessao-estrategica" data-format="336x280" aria-label="Publicidade: Sessão Estratégica PROClip, diagnóstico comercial de 30 minutos sem custo">
-    <img class="house-ad-logo" src="https://clintia.com.br/assets/logo/clintia-logo-horizontal-cor-600.png" width="600" height="135" alt="" loading="lazy" decoding="async">
+    <img class="house-ad-logo" src="https://clintia-br.github.io/site-clintia/assets/logo/clintia-logo-horizontal-cor-600.png" width="600" height="135" alt="" loading="lazy" decoding="async">
     <span class="house-ad-kicker">PROClip</span>
     <span class="house-ad-title">Quanto custa cada paciente da sua clínica hoje?</span>
     <span class="house-ad-line">30 minutos, sem custo, com os seus números.</span>
@@ -589,7 +589,7 @@
 <div class="ad-slot ad-slot--mobile"><div class="ad-wrap ad-wrap--336x280">
   <span class="ad-label" aria-hidden="true">publicidade</span>
   <a class="house-ad house-ad--336x280 house-ad--dark" href="https://www.proclip.com.br/apostila?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=comunidade-manual&amp;utm_content=336x280-quanto-custa-a-consulta-whatsapp" rel="noopener" data-ad="comunidade-manual" data-format="336x280" aria-label="Publicidade: comunidade do Manual da Clínica Popular, mais de 80 donos de clínica">
-    <img class="house-ad-logo" src="https://clintia.com.br/assets/logo/logo-clintia-branca-horizontal.png" width="1215" height="281" alt="" loading="lazy" decoding="async">
+    <img class="house-ad-logo" src="https://clintia-br.github.io/site-clintia/assets/logo/logo-clintia-branca-horizontal.png" width="1215" height="281" alt="" loading="lazy" decoding="async">
     <span class="house-ad-kicker">Comunidade do Manual</span>
     <span class="house-ad-title">Mais de 80 donos de clínica popular no mesmo grupo</span>
     <span class="house-ad-line">Quem já aplica o método troca o que funcionou e o que deu errado.</span>
@@ -665,7 +665,7 @@
 <li><strong>3 dias depois (opcional).</strong> Um horário que abriu ou uma informação nova. "Abriu um horário sábado de manhã, pensei na sua mãe."</li>
 <li><strong>7 dias depois.</strong> "Vou deixar o contato aqui. Quando quiser marcar a consulta dela, é só me chamar."</li>
 </ol>
-<p>Depois disso o paciente entra na <a href="https://clintia.com.br/blog/reativacao-de-pacientes/">lista de reativação da clínica</a>. Para a cadência existir, o orçamento aberto precisa estar anotado: nome, motivo, valor informado, data e quem atendeu. Uma planilha resolve no começo. Um CRM ligado ao WhatsApp resolve quando o volume cresce. É a lógica do tênis que você olhou na loja virtual e fica aparecendo em todo lugar dez minutos depois: quem orçou e sumiu está esperando alguém lembrar dele.</p>
+<p>Depois disso o paciente entra na <a href="https://clintia-br.github.io/site-clintia/blog/reativacao-de-pacientes/">lista de reativação da clínica</a>. Para a cadência existir, o orçamento aberto precisa estar anotado: nome, motivo, valor informado, data e quem atendeu. Uma planilha resolve no começo. Um CRM ligado ao WhatsApp resolve quando o volume cresce. É a lógica do tênis que você olhou na loja virtual e fica aparecendo em todo lugar dez minutos depois: quem orçou e sumiu está esperando alguém lembrar dele.</p>
 <h2 id="sua-recepcao-atende-ela-nao-vende-como-separar-balcao-de-central-de-whatsapp">Sua recepção atende, ela não vende: como separar balcão de central de WhatsApp</h2>
 <p>Recepção que vende não nasce pronta, e nada do que está acima é culpa da sua. Ela aprendeu a ser educada, passar a informação e se colocar à disposição, e faz isso bem. Ninguém ensinou o resto, que é ter um script, uma meta e alguém responsável pelo WhatsApp.</p>
 <p>A mesma pessoa que atende o balcão responde o WhatsApp, e o balcão vence sempre: chegou alguém na porta, ela para de responder. Uma dona de clínica de médio porte, com várias especialidades, nos descreveu exatamente isso. Uma rede com sete unidades tinha mais de vinte pessoas no call center e duas respondendo o WhatsApp de todas as unidades. O resultado é o mesmo em qualquer tamanho: resposta uma hora depois, paciente já marcado em outro lugar.</p>
@@ -714,8 +714,8 @@
     </item>
     <item>
       <title>Reativação de pacientes enche a agenda sem gastar um real de mídia</title>
-      <link>https://clintia.com.br/blog/reativacao-de-pacientes/</link>
-      <guid isPermaLink="true">https://clintia.com.br/blog/reativacao-de-pacientes/</guid>
+      <link>https://clintia-br.github.io/site-clintia/blog/reativacao-de-pacientes/</link>
+      <guid isPermaLink="true">https://clintia-br.github.io/site-clintia/blog/reativacao-de-pacientes/</guid>
       <pubDate>Fri, 25 Sep 2026 09:00:00 -0300</pubDate>
       <dc:creator>Bernardo Carneiro</dc:creator>
       <category>Base e recorrência</category>
@@ -773,11 +773,11 @@
 </tr>
 </tbody>
 </table></div>
-<p>Repare na última linha. Orçamento aberto é a fatia mais quente da base: a pessoa perguntou, recebeu o valor e sumiu. Em clínica acessível isso acontece todo dia no WhatsApp, e quase nunca alguém volta para perguntar se ficou dúvida. O que responder quando a primeira mensagem é o preço, e como registrar o orçamento aberto, está em <a href="https://clintia.com.br/blog/quanto-custa-a-consulta-whatsapp/">outra matéria</a>. Se a sua clínica não registra data prevista de retorno, comece com 180 dias sem nenhuma passagem e refine depois.</p>
+<p>Repare na última linha. Orçamento aberto é a fatia mais quente da base: a pessoa perguntou, recebeu o valor e sumiu. Em clínica acessível isso acontece todo dia no WhatsApp, e quase nunca alguém volta para perguntar se ficou dúvida. O que responder quando a primeira mensagem é o preço, e como registrar o orçamento aberto, está em <a href="https://clintia-br.github.io/site-clintia/blog/quanto-custa-a-consulta-whatsapp/">outra matéria</a>. Se a sua clínica não registra data prevista de retorno, comece com 180 dias sem nenhuma passagem e refine depois.</p>
 <div class="ad-slot ad-slot--mobile"><div class="ad-wrap ad-wrap--336x280">
   <span class="ad-label" aria-hidden="true">publicidade</span>
   <a class="house-ad house-ad--336x280 house-ad--light" href="https://www.proclip.com.br/apostila?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=comunidade-manual&amp;utm_content=336x280-reativacao-de-pacientes" rel="noopener" data-ad="comunidade-manual" data-format="336x280" aria-label="Publicidade: comunidade do Manual da Clínica Popular, mais de 80 donos de clínica">
-    <img class="house-ad-logo" src="https://clintia.com.br/assets/logo/clintia-logo-horizontal-cor-600.png" width="600" height="135" alt="" loading="lazy" decoding="async">
+    <img class="house-ad-logo" src="https://clintia-br.github.io/site-clintia/assets/logo/clintia-logo-horizontal-cor-600.png" width="600" height="135" alt="" loading="lazy" decoding="async">
     <span class="house-ad-kicker">Comunidade do Manual</span>
     <span class="house-ad-title">Mais de 80 donos de clínica popular no mesmo grupo</span>
     <span class="house-ad-line">Quem já aplica o método troca o que funcionou e o que deu errado.</span>
@@ -797,7 +797,7 @@
 <div class="ad-slot ad-slot--mobile"><div class="ad-wrap ad-wrap--336x280">
   <span class="ad-label" aria-hidden="true">publicidade</span>
   <a class="house-ad house-ad--336x280 house-ad--dark" href="https://www.proclip.com.br/apostila?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=manual&amp;utm_content=336x280-reativacao-de-pacientes" rel="noopener" data-ad="manual" data-format="336x280" aria-label="Publicidade: O Manual da Clínica Popular, ebook com planilha de CAP, scripts de WhatsApp e comunidade">
-    <img class="house-ad-logo" src="https://clintia.com.br/assets/logo/logo-clintia-branca-horizontal.png" width="1215" height="281" alt="" loading="lazy" decoding="async">
+    <img class="house-ad-logo" src="https://clintia-br.github.io/site-clintia/assets/logo/logo-clintia-branca-horizontal.png" width="1215" height="281" alt="" loading="lazy" decoding="async">
     <span class="house-ad-kicker">O Manual da Clínica Popular</span>
     <span class="house-ad-title">O sistema comercial das grandes redes, no tamanho da sua clínica</span>
     <span class="house-ad-line">Ebook, planilha de CAP e scripts de WhatsApp.</span>
@@ -919,7 +919,7 @@
 </tr>
 </tbody>
 </table></div>
-<p>Para comparar: o <a href="https://clintia.com.br/blog/custo-de-aquisicao-de-paciente/">custo de aquisição de paciente</a> que a gente encontra nas clínicas antes de organizar o comercial é de R$ 28,80, e depois da implantação o resultado típico é R$ 13,60. No exemplo acima a base entrega paciente a R$ 9,90, e ele já conhece a clínica.</p>
+<p>Para comparar: o <a href="https://clintia-br.github.io/site-clintia/blog/custo-de-aquisicao-de-paciente/">custo de aquisição de paciente</a> que a gente encontra nas clínicas antes de organizar o comercial é de R$ 28,80, e depois da implantação o resultado típico é R$ 13,60. No exemplo acima a base entrega paciente a R$ 9,90, e ele já conhece a clínica.</p>
 <p>Um aviso sobre essa conta: se a taxa de resposta do seu piloto der 3% em vez de 8%, o custo por atendido sobe para uns R$ 26 e ainda assim empata com a mídia. A conta não depende de otimismo. E os 101 atendimentos do exemplo são cerca de 5 por dia útil, com a fila se renovando porque novos retornos vencem o tempo todo.</p>
 <h2 id="perguntas-frequentes">Perguntas frequentes</h2>
 <div class="faq">
@@ -946,7 +946,7 @@
 </div>
 <h2 id="faca-hoje">Faça hoje</h2>
 <ol>
-<li>Peça ao sistema a lista de pacientes sem passagem há mais de 180 dias, com telefone. O tamanho dessa lista já muda a conversa sobre verba de anúncio. Se a clínica ainda liga anúncio antes de organizar o comercial, vale ler antes <a href="https://clintia.com.br/blog/marketing-para-clinica-popular/">por onde começa o marketing da clínica popular</a>.</li>
+<li>Peça ao sistema a lista de pacientes sem passagem há mais de 180 dias, com telefone. O tamanho dessa lista já muda a conversa sobre verba de anúncio. Se a clínica ainda liga anúncio antes de organizar o comercial, vale ler antes <a href="https://clintia-br.github.io/site-clintia/blog/marketing-para-clinica-popular/">por onde começa o marketing da clínica popular</a>.</li>
 <li>Separe os orçamentos abertos das últimas 48 horas no WhatsApp e mande a mensagem do "ficou alguma dúvida" para cada um, hoje.</li>
 <li>Escolha uma especialidade, defina o prazo de inativo com o médico responsável e monte um lote de 300 contatos da janela de 90 a 180 dias.</li>
 <li>Escreva a mensagem do toque 1 com nome, motivo, pessoa e dois horários. Leia em voz alta; se soar como propaganda, reescreva.</li>
