@@ -1,45 +1,42 @@
 # ClintIA
 
-> A ClintIA é uma empresa de marketing, tecnologia e inteligência comercial só para clínicas populares (clínicas acessíveis, policlínicas e centros de diagnóstico) no Brasil. Fundada em 2020 no Rio de Janeiro por Bernardo Carneiro. Implanta nas clínicas o método em 4 etapas, na ordem certa (posicionamento forte, demanda qualificada, cultura de venda e controle), para reduzir o custo de aquisição de paciente (CAP) e dar previsibilidade de agenda e faturamento, e acompanha cada projeto numa plataforma própria (painel interno, área do cliente e agentes de IA).
+> A ClintIA é uma empresa de marketing e comercial só para clínicas populares (clínicas acessíveis, policlínicas e centros de diagnóstico) no Brasil. Fundada em 2020 no Rio de Janeiro por Bernardo Carneiro. Entra na clínica e resolve as duas pontas, a geração de demanda e a área comercial, em 4 etapas na ordem certa (posicionamento forte, demanda qualificada, cultura de venda e controle), com a equipe que a clínica já tem.
 
 Fatos principais:
+- Duas pontas: geração de demanda (posicionamento, ficha do Google, site, anúncios no Google e na Meta com rastreamento, Instagram como vitrine) e área comercial (CRM no WhatsApp da recepção, primeira resposta em minutos, treinamento da recepção, follow-up, reativação e os números da clínica).
 - Método em 4 etapas, na ordem certa: 1 Posicionamento forte (ser a escolha de quem procura clínica popular), 2 Demanda qualificada (chegar no paciente certo, pelo canal certo), 3 Cultura de venda (conduzir quem chega até a cadeira) e 4 Controle (colocar tudo em número e saber onde mexer).
-- Produto principal: PROClip, implantação do método feita pela equipe da ClintIA dentro da clínica, no prazo definido no diagnóstico.
-- Porta de entrada: O Manual da Clínica Popular, o método no papel, com área de membros, ferramentas e a primeira comunidade de donos de clínica popular (mais de 80 membros).
-- Projetos sob medida para redes e multiunidade: gestão comercial completa, treinamento de recepção e pré-venda, posicionamento e identidade.
-- Plataforma própria: painel interno da equipe (operação, comercial, marketing, financeiro) e área do cliente em cliente.proclip.com.br (cronograma, pesquisa, posicionamento, identidade visual, campanhas da Meta e Instagram lidos ao vivo, reuniões, documentos e notas), além de agentes de IA que fazem pesquisa de mercado, análise de concorrência, posicionamento e preparação de reunião, sempre com revisão humana. Não é vendida à parte: vem com o projeto.
+- Três jeitos de contratar: O Manual da Clínica Popular® (o método no papel, com área de membros, ferramentas e a primeira comunidade de donos de clínica popular, mais de 80 membros), PROClip® (implantação feita pela equipe da ClintIA dentro da clínica, no prazo definido no diagnóstico) e projeto sob medida para redes e multiunidade.
+- Clientes: Bandeirantes Diagnósticos (Rio de Janeiro, RJ), Clínica Mais Med (Ipiaú, BA), SaúdeVida (Santos, SP), Clínica Saúde Sempre (Goiânia, GO), Clínica Mais Vida (Nova Iguaçu, RJ), Policlínica Alpha (João Pessoa, PB), Centro Médico Três Elementos (Salvador, BA), Unimedic (Cabo Frio, RJ), Clínica Bem-Estar (Lauro de Freitas, BA), Clínica de Olhos Benchimol (Rio de Janeiro, RJ), Ciclos Psicologia e Terapias (São Paulo, SP), Meu ParceiRO (Rio das Ostras, RJ).
 - Valores que aparecem na prática: verdade, coragem, obsessão pelo cliente, orquestrar a IA e olhar humano no fim.
-- Resultado típico divulgado: CAP médio de R$ 28,80 para R$ 13,60 (queda de 53%), implantação que se paga em 2 meses em média, 2,5 vezes mais pacientes com o mesmo investimento.
-- Fundador: Bernardo Carneiro, 14 anos em marketing médico, mais de 250 clínicas estruturadas, mais de 100 rodando o método.
+- Fundador: Bernardo Carneiro, formado em Estatística pela UFF; montou e liderou o setor digital da MarketMED, primeira agência de marketing médico do Brasil; apresenta um podcast sobre gestão e marketing em saúde.
 - Idioma do site: português do Brasil.
-- Contato comercial: bernardo@clintia.com.br · WhatsApp +55 21 99891-0942.
+- Contato comercial: bernardo@clintia.com.br · Instagram @clintia.br.
 
 ## Páginas institucionais
 
-- [O sistema comercial da clínica popular](https://clintia-br.github.io/site-clintia/): o que a ClintIA faz e para quem
-- [Quem somos e por que só clínica popular](https://clintia-br.github.io/site-clintia/sobre/): história, por que só clínica popular, valores, como a gente trabalha, fundador e equipe
-- [O método em 4 etapas para clínica popular](https://clintia-br.github.io/site-clintia/metodo/): as 4 etapas do método, na ordem certa
-- [Soluções para clínica popular: PROClip e Manual](https://clintia-br.github.io/site-clintia/solucoes/): PROClip, O Manual da Clínica Popular e projetos sob medida, lado a lado
-- [A plataforma ClintIA: painel e área do cliente](https://clintia-br.github.io/site-clintia/plataforma/): a plataforma própria: painel interno, área do cliente e agentes de IA
-- [PROClip: o método implantado na clínica popular](https://clintia-br.github.io/site-clintia/proclip/): implantação do método pela equipe, como funciona, para quem é
-- [O Manual da Clínica Popular: o método no papel](https://clintia-br.github.io/site-clintia/manual/): o método no papel, com área de membros e comunidade de donos de clínica popular
-- [Fale com a gente pelo WhatsApp](https://clintia-br.github.io/site-clintia/contato/): WhatsApp e e-mail
+- [Marketing e comercial para clínica popular](https://clintia.com.br/): o que a ClintIA faz e para quem
+- [Nossa história: por que só clínica popular](https://clintia.com.br/sobre/): por que a ClintIA existe, por que só clínica popular, valores, fundador e equipe
+- [Quem somos: assessoria de clínica popular](https://clintia.com.br/o-que-a-gente-faz/): as duas pontas (demanda e comercial), as 4 etapas e os três jeitos de contratar
+- [Clínicas populares que a gente atende](https://clintia.com.br/clientes/): as clínicas atendidas, com a cidade e o que a ClintIA faz em cada uma
+- [PROClip®: o método implantado na clínica popular](https://clintia.com.br/proclip/): implantação feita pela equipe, como funciona, para quem é
+- [O Manual da Clínica Popular®: o método no papel](https://clintia.com.br/manual/): o método no papel, com área de membros e comunidade de donos de clínica popular
+- [Fale com a gente sobre a sua clínica popular](https://clintia.com.br/contato/): e-mail, Instagram e formulário
 
 ## Blog
 
-- [Índice do blog](https://clintia-br.github.io/site-clintia/blog/): artigos sobre gestão comercial de clínica popular
-- [Marketing para clínica popular começa no Google, não no Instagram](https://clintia-br.github.io/site-clintia/blog/marketing-para-clinica-popular/): Marketing para clínica popular: por que o paciente decide no Google e no WhatsApp, a ordem certa de montar (comercial antes de mídia) e o CAP por canal.
-- [Custo de aquisição de paciente é o número que separa faturar de lucrar](https://clintia-br.github.io/site-clintia/blog/custo-de-aquisicao-de-paciente/): Como calcular o custo de aquisição de paciente por canal e por paciente atendido, cruzar com margem e mix convênio/particular e baixar sem cortar verba.
-- [Quanto custa a consulta? O que responder no WhatsApp da clínica](https://clintia-br.github.io/site-clintia/blog/quanto-custa-a-consulta-whatsapp/): Paciente perguntou quanto custa a consulta no WhatsApp? Diga o valor, pergunte antes e ofereça horário junto. Script em 4 movimentos e conversa modelo.
-- [Reativação de pacientes enche a agenda sem gastar um real de mídia](https://clintia-br.github.io/site-clintia/blog/reativacao-de-pacientes/): Reativação de pacientes na clínica popular: como definir quem está inativo, o que mandar, a cadência de 3 toques e a conta de custo e retorno.
+- [Índice do blog](https://clintia.com.br/blog/): artigos sobre gestão comercial de clínica popular
+- [Marketing para clínica popular começa no Google, não no Instagram](https://clintia.com.br/blog/marketing-para-clinica-popular/): Marketing para clínica popular: por que o paciente decide no Google e no WhatsApp, a ordem certa de montar (comercial antes de mídia) e o CAP por canal.
+- [Custo de aquisição de paciente é o número que separa faturar de lucrar](https://clintia.com.br/blog/custo-de-aquisicao-de-paciente/): Como calcular o custo de aquisição de paciente por canal e por paciente atendido, cruzar com margem e mix convênio/particular e baixar sem cortar verba.
+- [Quanto custa a consulta? O que responder no WhatsApp da clínica](https://clintia.com.br/blog/quanto-custa-a-consulta-whatsapp/): Paciente perguntou quanto custa a consulta no WhatsApp? Diga o valor, pergunte antes e ofereça horário junto. Script em 4 movimentos e conversa modelo.
+- [Reativação de pacientes enche a agenda sem gastar um real de mídia](https://clintia.com.br/blog/reativacao-de-pacientes/): Reativação de pacientes na clínica popular: como definir quem está inativo, o que mandar, a cadência de 3 toques e a conta de custo e retorno.
 
 ## Versões em Markdown
 
-- [Todo o site em um arquivo](https://clintia-br.github.io/site-clintia/llms-full.txt): páginas e artigos concatenados
-- [Feed RSS](https://clintia-br.github.io/site-clintia/feed.xml)
+- [Todo o site em um arquivo](https://clintia.com.br/llms-full.txt): páginas e artigos concatenados
+- [Feed RSS](https://clintia.com.br/feed.xml)
 
 ## Optional
 
-- [Sessão Estratégica PROClip](https://lp.clintia.com.br/sessao-estrategica-2026): agendamento de diagnóstico comercial
-- [Comprar o Manual da Clínica Popular](https://www.proclip.com.br/apostila)
-- [Sitemap](https://clintia-br.github.io/site-clintia/sitemap.xml)
+- [Sessão Estratégica PROClip®](https://lp.clintia.com.br/sessao-estrategica-2026): agendamento de diagnóstico comercial
+- [Comprar o Manual da Clínica Popular®](https://www.proclip.com.br/apostila)
+- [Sitemap](https://clintia.com.br/sitemap.xml)

@@ -67,4 +67,4 @@ Allow: /
 # Content Signals (contentsignals.org)
 Content-Signal: search=yes, ai-input=yes, ai-train=yes
 
-Sitemap: https://clintia-br.github.io/site-clintia/sitemap.xml
+Sitemap: https://clintia.com.br/sitemap.xml
