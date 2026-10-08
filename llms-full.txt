@@ -1,6 +1,6 @@
 # ClintIA: site completo em texto
 
-Fonte: https://clintia.com.br/ · gerado em 2026-10-04
+Fonte: https://clintia.com.br/ · gerado em 2026-10-08
 
 ---
 
@@ -796,6 +796,62 @@ O diagnóstico de toda clínica que entra passa por ele. A Sessão Estratégica 
 ### A Sessão Estratégica tem custo?
 
 Não. São 30 minutos olhando os números da sua clínica. Se não fizer sentido pra sua operação, a gente fala na hora.
+
+---
+
+# Política de privacidade
+
+URL: https://clintia.com.br/privacidade/
+
+Quais dados o site da ClintIA coleta de quem visita, para que servem, com quem são compartilhados e como pedir acesso, correção ou exclusão.
+
+Esta página explica quais dados o site clintia.com.br coleta de quem visita, para que eles servem e como você pede acesso, correção ou exclusão. Vale para o site e para o blog.
+
+## Quem responde por este site
+
+O site é da ClintIA Soluções Tecnológicas para Clínicas Ltda, com sede no Rio de Janeiro, RJ. Para qualquer assunto sobre os seus dados, escreva para [bernardo@clintia.com.br](mailto:bernardo@clintia.com.br). A gente responde em até 15 dias.
+
+## O que o site coleta
+
+**Dados de navegação.** Quando você abre uma página, ferramentas de medição registram informações como as páginas visitadas, o tempo em cada uma, de onde você veio (busca, rede social, link direto), a cidade aproximada, o tipo de aparelho e o navegador. Isso é feito com cookies e identificadores parecidos. A gente não recebe o seu nome, o seu e-mail nem o seu telefone por esse caminho.
+**O que você escreve pra gente.** O formulário de contato e a caixa da newsletter não gravam nada no site: eles abrem o seu aplicativo de e-mail com a mensagem pronta, e ela só chega se você enviar. A partir daí a gente guarda o que você mandou (nome, e-mail, nome da clínica e o texto) pra responder.
+O site não pede dado de paciente, dado de saúde nem dado de pagamento.
+
+## Para que a gente usa
+
+- **Entender o uso do site**: quais páginas e matérias são lidas e por onde as pessoas chegam, pra melhorar o conteúdo.
+- **Anúncios**: mostrar anúncios da ClintIA, no Instagram e no Facebook, pra quem já visitou o site, e medir se eles funcionam.
+- **Responder você**: retornar o contato que você enviou e continuar a conversa.
+
+A gente não vende dado de visitante e não repassa lista de contatos pra terceiros.
+
+## Com quem os dados são compartilhados
+
+Os dados de navegação passam por empresas que prestam serviço pro site. Cada uma trata os dados conforme a própria política:
+
+- **Google Analytics** (Google): medição de visitas. [Política do Google](https://policies.google.com/privacy).
+- **Pixel da Meta** (Meta, dona do Instagram e do Facebook): registra a visita pra uso em anúncios. [Política da Meta](https://www.facebook.com/privacy/policy/).
+- **GitHub Pages e Cloudflare**: hospedagem e entrega do site. Como em qualquer site, o endereço IP de quem acessa passa por esses servidores.
+
+Parte dessas empresas guarda dados fora do Brasil.
+
+## Como recusar a medição
+
+- **No navegador**: bloqueie ou apague os cookies nas configurações. O site continua funcionando sem eles.
+- **No Google Analytics**: instale o [complemento de desativação do Google](https://tools.google.com/dlpage/gaoptout).
+- **Nos anúncios da Meta**: ajuste as [preferências de anúncios](https://www.facebook.com/adpreferences) da sua conta.
+
+## Por quanto tempo a gente guarda
+
+Os dados de navegação ficam nas ferramentas de medição pelo prazo que cada uma define, de até 14 meses no Google Analytics. As mensagens que você envia ficam guardadas enquanto a conversa fizer sentido ou enquanto a lei exigir. Se você pedir a exclusão, a gente apaga o que não for obrigado a manter.
+
+## Os seus direitos
+
+A Lei Geral de Proteção de Dados (Lei 13.709/2018) garante a você o direito de saber se a gente trata dados seus, de pedir uma cópia, de corrigir o que estiver errado, de pedir a exclusão, de retirar um consentimento e de saber com quem os dados foram compartilhados. Pra exercer qualquer um deles, escreva para [bernardo@clintia.com.br](mailto:bernardo@clintia.com.br). Se a resposta não resolver, você pode procurar a Autoridade Nacional de Proteção de Dados (ANPD).
+
+## Mudanças nesta página
+
+Quando o site passar a usar uma ferramenta nova ou mudar a forma de tratar dados, esta página é atualizada e a data do topo muda junto.
 
 ---
 
