@@ -829,7 +829,7 @@ A gente não vende dado de visitante e não repassa lista de contatos pra tercei
 
 Os dados de navegação passam por empresas que prestam serviço pro site. Cada uma trata os dados conforme a própria política:
 
-- **Google Analytics** (Google): medição de visitas. [Política do Google](https://policies.google.com/privacy).
+- **Google Analytics e Google Ads** (Google): medição de visitas e de anúncios, pela mesma etiqueta do Google. [Política do Google](https://policies.google.com/privacy).
 - **Pixel da Meta** (Meta, dona do Instagram e do Facebook): registra a visita pra uso em anúncios. [Política da Meta](https://www.facebook.com/privacy/policy/).
 - **GitHub Pages e Cloudflare**: hospedagem e entrega do site. Como em qualquer site, o endereço IP de quem acessa passa por esses servidores.
 
