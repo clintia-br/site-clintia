@@ -96,6 +96,45 @@ else if (!v.paused) { v.pause(); }
 }, { threshold: 0.25 });
 autos.forEach(function (v) { ioV.observe(v); });
 }
+d.querySelectorAll('[data-cli-rail]').forEach(function (rail) {
+var track = rail.querySelector('.cli-track'); if (!track) return;
+var orig = [].slice.call(track.children);
+orig.forEach(function (li) { var c = li.cloneNode(true); c.setAttribute('aria-hidden', 'true'); track.appendChild(c); });
+var nav = rail.parentNode.querySelector('[data-cli-nav]');
+var meia = function () { return track.children[orig.length].offsetLeft - track.children[0].offsetLeft; };
+var vel = reduce ? 28 : 36, parado = false, ate = 0, t0 = null, pos = 0;
+var segura = function (ms) { ate = Date.now() + (ms || 2500); };
+var dentro = false;
+rail.addEventListener('mouseenter', function () { dentro = true; });
+rail.addEventListener('mouseleave', function () { dentro = false; segura(600); });
+['pointerdown', 'touchstart', 'wheel', 'focusin'].forEach(function (ev) { rail.addEventListener(ev, function () { segura(); pos = rail.scrollLeft; }, { passive: true }); });
+rail.addEventListener('scroll', function () { if (Date.now() < ate || dentro) pos = rail.scrollLeft; }, { passive: true });
+var visivel = true;
+if ('IntersectionObserver' in w) new IntersectionObserver(function (es) { visivel = es[0].isIntersecting; }).observe(rail);
+var anda = function (t) {
+if (t0 === null) t0 = t;
+var dt = Math.min(64, t - t0); t0 = t;
+if (visivel && !dentro && Date.now() >= ate && !d.hidden) {
+pos += vel * dt / 1000;
+var m = meia(); if (pos >= m) pos -= m;
+rail.scrollLeft = pos;
+} else if (rail.scrollLeft >= meia()) { rail.scrollLeft -= meia(); pos = rail.scrollLeft; }
+raf(anda);
+};
+raf(anda);
+if (nav) {
+nav.hidden = false;
+var passo = function (dir) {
+var c = track.children[0], gap = parseFloat(getComputedStyle(track).columnGap) || 20;
+segura(3500); var alvo = rail.scrollLeft + dir * (c.offsetWidth + gap);
+if (alvo < 0) { rail.scrollLeft += meia(); alvo += meia(); }
+rail.scrollTo({ left: alvo, behavior: reduce ? 'auto' : 'smooth' });
+setTimeout(function () { pos = rail.scrollLeft; }, 600);
+};
+nav.querySelector('[data-cli-prev]').addEventListener('click', function () { passo(-1); });
+nav.querySelector('[data-cli-next]').addEventListener('click', function () { passo(1); });
+}
+});
 var mvs = d.querySelectorAll('[data-mv]');
 if (mvs.length && 'IntersectionObserver' in w) {
 var ioM = new IntersectionObserver(function (es) {

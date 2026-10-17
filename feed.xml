@@ -5,13 +5,283 @@
     <link>https://clintia.com.br/blog/</link>
     <description>Gestão comercial, marketing e operação de clínicas populares, com número e método.</description>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 08 Oct 2026 22:34:53 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 20:57:44 -0300</lastBuildDate>
     <atom:link href="https://clintia.com.br/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://clintia.com.br/assets/logo/clintia-logo-horizontal-cor-600.png</url>
       <title>ClintIA · Blog</title>
       <link>https://clintia.com.br/blog/</link>
     </image>
+    <item>
+      <title>Como diminuir a dependência de convênio sem esvaziar a agenda da clínica</title>
+      <link>https://clintia.com.br/blog/como-diminuir-a-dependencia-de-convenio/</link>
+      <guid isPermaLink="true">https://clintia.com.br/blog/como-diminuir-a-dependencia-de-convenio/</guid>
+      <pubDate>Fri, 16 Oct 2026 09:00:00 -0300</pubDate>
+      <dc:creator>Bernardo Carneiro</dc:creator>
+      <category>Números e previsibilidade</category>
+      <description>Como diminuir a dependência de convênio na clínica popular em 5 passos: o valor real do convênio, o paciente particular, a agenda e o cartão de benefícios.</description>
+      <content:encoded><![CDATA[<blockquote>
+<p><strong>Em vídeo:</strong> a gente resumiu os cinco passos num Reel no Instagram. <a href="https://www.instagram.com/reel/DekWElCDBN0/">Assista aqui</a> e volte para o detalhe de cada um.</p>
+</blockquote>
+<h2 id="a-meta-nao-e-sair-100-do-convenio">A meta não é sair 100% do convênio</h2>
+<p>Quem promete clínica 100% particular da noite para o dia está vendendo uma coisa que a clínica não sustenta. O convênio enche horário, paga as contas fixas e traz paciente que a clínica não teria de outra forma. O problema é depender dele.</p>
+<p>Convênio funciona como construir em terreno de outra pessoa. Enquanto o dono deixa, a obra fica de pé. No dia em que ele muda a tabela, atrasa o pagamento ou corta a clínica da rede, a agenda some junto, e não há nada que a clínica possa fazer além de esperar.</p>
+<p>O objetivo é construir, ao lado, um terreno que é da clínica: um fluxo de pacientes particulares que chega pelo próprio marketing, agenda pela própria recepção e volta pelo próprio relacionamento. Ele cresce aos poucos e vai ganhando espaço no faturamento, sem esvaziar a agenda no caminho.</p>
+<h3 id="o-tamanho-do-mercado-que-nao-tem-plano">O tamanho do mercado que não tem plano</h3>
+<p>Segundo a ANS, os planos de assistência médica tinham 53,164 milhões de beneficiários em agosto de 2026. Com a estimativa de população do IBGE, isso dá perto de 25% dos brasileiros. Três em cada quatro pessoas pagam a consulta do próprio bolso ou dependem do SUS, e é exatamente esse público que procura a clínica popular quando não quer esperar semanas por uma vaga.</p>
+<p>O mercado particular está aí. O que costuma faltar é a estrutura para a clínica chegar até ele.</p>
+<h2 id="passo-1-a-conta-que-quase-nenhum-dono-faz">Passo 1: a conta que quase nenhum dono faz</h2>
+<p>Antes de mudar qualquer coisa, a clínica precisa saber quanto depende do convênio, de qual convênio e quanto cada um paga de verdade. Sem essa conta, toda decisão é sensação.</p>
+<p><strong>Como fazer:</strong></p>
+<ol>
+<li>Pegue o faturamento do mês passado e separe em duas linhas: o que veio de convênio e o que veio de particular.</li>
+<li>Escreva a porcentagem de cada uma.</li>
+<li>Abra a linha do convênio por operadora. Se um único convênio passa de 40% do faturamento, esse é o seu risco mais sério.</li>
+<li>Para cada convênio, faça a conta do valor real: quanto ele paga por consulta, menos o que é glosado e não volta, e quantos dias você espera para o dinheiro cair.</li>
+</ol>
+<h3 id="a-glosa-e-o-prazo-entram-na-conta">A glosa e o prazo entram na conta</h3>
+<p>Glosa é o valor que a operadora recusa ou segura depois do atendimento, por erro de guia, falta de autorização ou divergência de código. Nos hospitais associados à Anahp, a glosa inicial ficou em 15,89% do faturado com planos em 2024 e perto de 16% em 2025, e o prazo médio de recebimento passou de 70 dias. A realidade de uma clínica é outra, com volume e guias diferentes, mas o mecanismo é o mesmo: parte do que a tabela promete demora a entrar, e parte não entra.</p>
+<h3 id="a-conta-feita-exemplo-hipotetico">A conta feita (exemplo hipotético)</h3>
+<p>Uma clínica popular que fatura R$ 120 mil por mês:</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Tabela; role para o lado se necessário"><table>
+<thead>
+<tr>
+<th class="num">Fonte</th>
+<th class="num">Faturamento no mês</th>
+<th class="num">Peso no total</th>
+<th>Valor de tabela da consulta</th>
+<th>O que sobra depois da glosa</th>
+<th class="num">Prazo para cair</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="num">Convênio A</td>
+<td class="num">R$ 54.000</td>
+<td class="num">45%</td>
+<td class="num">R$ 60</td>
+<td class="num">R$ 54</td>
+<td class="num">60 dias</td>
+</tr>
+<tr>
+<td class="num">Convênio B</td>
+<td class="num">R$ 18.000</td>
+<td class="num">15%</td>
+<td class="num">R$ 75</td>
+<td class="num">R$ 72</td>
+<td class="num">30 dias</td>
+</tr>
+<tr>
+<td class="num">Particular</td>
+<td class="num">R$ 48.000</td>
+<td class="num">40%</td>
+<td class="num">R$ 120</td>
+<td class="num">R$ 120</td>
+<td class="num">no dia</td>
+</tr>
+<tr>
+<td class="num">Total</td>
+<td class="num">R$ 120.000</td>
+<td class="num">100%</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+<p>Três leituras saem dessa tabela. O convênio A sozinho passa de 40% e é o risco da clínica. A consulta dele vale menos de R$ 60, porque a glosa e os 60 dias de espera também custam. E cada horário do convênio A que vira um horário particular quase dobra o que aquele horário rende.</p>
+<p>É esse número, o valor real, que você compara com o particular. Não o valor do contrato.</p>
+<div class="ad-slot ad-slot--mobile"><div class="ad-wrap ad-wrap--336x280">
+  <span class="ad-label" aria-hidden="true">publicidade</span>
+  <a class="house-ad house-ad--336x280 house-ad--light" href="https://www.proclip.com.br/apostila?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=manual&amp;utm_content=336x280-como-diminuir-a-dependencia-de-convenio" rel="noopener" data-ad="manual" data-format="336x280" aria-label="Publicidade: O Manual da Clínica Popular®, ebook com planilha de CAP, scripts de WhatsApp e comunidade">
+    <img class="house-ad-logo" src="https://clintia.com.br/assets/logo/clintia-logo-horizontal-cor-600.png" width="600" height="135" alt="" loading="lazy" decoding="async">
+    <span class="house-ad-kicker">O Manual da Clínica Popular®</span>
+    <span class="house-ad-title">A campanha do paciente particular, pronta pra copiar</span>
+    <span class="house-ad-line">No Manual, com as palavras-chave, as negativas, a planilha da conta e o capítulo do cartão de benefícios.</span>
+    <span class="btn btn-primary house-ad-btn">Conhecer o Manual</span>
+  </a>
+</div></div><h2 id="passo-2-trazer-o-paciente-particular-certo">Passo 2: trazer o paciente particular certo</h2>
+<p>Com a conta na mão, vem a parte que decide se o particular vai entrar ou não. Anunciar "consulta particular" para a cidade inteira gasta verba e traz curioso. O paciente particular da clínica popular tem um perfil bem definido.</p>
+<h3 id="com-quem-a-sua-clinica-fala-no-particular">Com quem a sua clínica fala no particular</h3>
+<p>Antes de anunciar, defina com quem a clínica fala. Em geral é a pessoa que não tem plano, ou que tem e cansou de esperar semanas por uma vaga com especialista. Ela quer saber três coisas: quanto custa, se é perto e quando consegue ser atendida.</p>
+<p>A comunicação da clínica tem de responder essas três perguntas, no jeito de falar do bairro. Preço visível, endereço e referência do bairro, e o próximo horário livre. É isso que faz a pessoa chamar no WhatsApp em vez de continuar procurando.</p>
+<h3 id="no-google-uma-campanha-por-especialidade">No Google, uma campanha por especialidade</h3>
+<p>No Google Ads, o paciente particular já está procurando. O trabalho é aparecer para ele e não pagar clique de quem procura outra coisa.</p>
+<ul>
+<li><strong>Uma campanha por especialidade</strong>, com verba própria. Cardiologia não divide orçamento com pediatria, porque a procura, o preço e a concorrência são diferentes.</li>
+<li><strong>Palavras de quem já quer pagar:</strong> "cardiologista particular", "consulta com cardiologista preço", "ultrassom valor", sempre com o nome do bairro ou da cidade ao lado.</li>
+<li><strong>Palavras negativas</strong>, para não pagar clique de quem veio atrás de convênio: o nome dos planos, "aceita", "credenciado", "gratuito", "SUS".</li>
+<li><strong>No anúncio:</strong> a especialidade, o preço e o bairro. Quem clica já sabe o que vai encontrar.</li>
+</ul>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Tabela; role para o lado se necessário"><table>
+<thead>
+<tr>
+<th class="num">Tipo</th>
+<th class="num">Exemplos</th>
+<th class="num">Por quê</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="num">Palavra-chave</td>
+<td>cardiologista particular [bairro] · consulta cardiologista preço · ultrassom valor [cidade]</td>
+<td>Quem escreve preço ou particular já decidiu pagar</td>
+</tr>
+<tr>
+<td class="num">Palavra negativa</td>
+<td>nome dos convênios · aceita · credenciado · gratuito · SUS</td>
+<td>Quem escreve isso procura cobertura e não vai fechar no particular</td>
+</tr>
+</tbody>
+</table></div>
+<p>A estrutura completa de uma campanha de Google para clínica popular, com grupos de anúncios e landing page, está em <a href="https://clintia.com.br/blog/marketing-para-clinica-popular/">Marketing para clínica popular começa no Google, não no Instagram</a>.</p>
+<h3 id="no-meta-ads-um-raio-em-volta-da-clinica">No Meta Ads, um raio em volta da clínica</h3>
+<p>No Facebook e no Instagram, a pessoa não está procurando. Por isso o anúncio fala com quem mora perto: um raio de poucos quilômetros em volta da clínica, com a especialidade, o preço e o bairro na peça. Se a clínica fica no interior, onde o paciente viaja mais para consultar, o raio é maior.</p>
+<h2 id="passo-3-abrir-espaco-na-agenda-para-o-particular">Passo 3: abrir espaço na agenda para o particular</h2>
+<p>Esse é o passo que quase nenhuma clínica faz e o que mais muda a agenda. Se o convênio ocupa todos os horários, o paciente particular que o anúncio trouxe chega, pergunta e não encontra vaga. A verba vira frustração.</p>
+<p><strong>Como fazer:</strong></p>
+<ol>
+<li>Na agenda de cada médico, reserve alguns horários só para o particular.</li>
+<li>Comece pelos horários mais procurados, como início da manhã, fim da tarde e sábado, porque é neles que o paciente que paga decide.</li>
+<li>Comece pequeno: dois ou três horários por turno.</li>
+<li>Aumente conforme esses horários enchem. Horário reservado que fica vazio por semanas volta para o convênio, e o motivo vira tarefa para o passo 2.</li>
+</ol>
+<p>O sistema de agenda da maioria das clínicas já permite criar essas filas separadas por tipo de atendimento. Se o seu não permite, uma cor na agenda e uma regra clara para a recepção resolvem no começo.</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Tabela; role para o lado se necessário"><table>
+<thead>
+<tr>
+<th class="num">Turno</th>
+<th class="num">Antes</th>
+<th class="num">Primeiro mês</th>
+<th class="num">Quando enche</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="num">Manhã (8h às 12h)</td>
+<td class="num">100% convênio</td>
+<td>2 horários particulares</td>
+<td>4 horários particulares</td>
+</tr>
+<tr>
+<td class="num">Tarde (14h às 18h)</td>
+<td class="num">100% convênio</td>
+<td>3 horários particulares (fim da tarde)</td>
+<td>5 horários particulares</td>
+</tr>
+<tr>
+<td class="num">Sábado</td>
+<td class="num">100% convênio</td>
+<td class="num">metade particular</td>
+<td>o que a procura pedir</td>
+</tr>
+</tbody>
+</table></div>
+<div class="ad-slot ad-slot--mobile"><div class="ad-wrap ad-wrap--336x280">
+  <span class="ad-label" aria-hidden="true">publicidade</span>
+  <a class="house-ad house-ad--336x280 house-ad--dark" href="https://www.proclip.com.br/apostila?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=comunidade-manual&amp;utm_content=336x280-como-diminuir-a-dependencia-de-convenio" rel="noopener" data-ad="comunidade-manual" data-format="336x280" aria-label="Publicidade: comunidade do Manual da Clínica Popular®, mais de 80 donos de clínica">
+    <img class="house-ad-logo" src="https://clintia.com.br/assets/logo/logo-clintia-branca-horizontal.png" width="1215" height="281" alt="" loading="lazy" decoding="async">
+    <span class="house-ad-kicker">Comunidade do Manual</span>
+    <span class="house-ad-title">Mais de 80 donos de clínica popular no mesmo grupo</span>
+    <span class="house-ad-line">Quem já aplica o método troca o que funcionou e o que deu errado.</span>
+    <span class="btn btn-on-dark house-ad-btn">Conhecer o Manual</span>
+  </a>
+</div></div><h2 id="passo-4-estar-presente-onde-o-paciente-confere">Passo 4: estar presente onde o paciente confere</h2>
+<p>Antes de marcar, o paciente particular confere a clínica, e confere no celular. Hoje ele decide pelas plataformas que mais usa: a busca do Google, o Google Maps, o perfil da empresa no Google, o WhatsApp e o Instagram. Antes de chamar, olha a nota, as avaliações, as fotos e se a clínica parece séria.</p>
+<ul>
+<li><strong>Perfil no Google 100% completo:</strong> horário, especialidades, telefone, fotos reais da fachada e da recepção, e avaliações respondidas.</li>
+<li><strong>Instagram que mostra médico, estrutura e o paciente sendo atendido</strong>, com a cultura do bairro, e não só promoção. É ali que a pessoa confirma que a clínica existe e cuida bem.</li>
+<li><strong>WhatsApp que responde em minutos</strong>, com o preço e dois horários para a pessoa escolher. Quem pergunta preço e espera uma hora já marcou em outro lugar.</li>
+</ul>
+<p>O roteiro de resposta para "quanto custa a consulta?" está em <a href="https://clintia.com.br/blog/quanto-custa-a-consulta-whatsapp/">Quanto custa a consulta? O que responder no WhatsApp da clínica</a>.</p>
+<h2 id="passo-5-o-cartao-de-beneficios-a-ponte-entre-os-dois">Passo 5: o cartão de benefícios, a ponte entre os dois</h2>
+<p>Falta a peça que segura o paciente com a clínica todo mês. O cartão de benefícios é uma mensalidade pequena que dá desconto em consulta e exame e traz o paciente de volta. Ele é a ponte entre o convênio e o particular: o paciente não tem plano, mas tem um vínculo com a clínica.</p>
+<h3 id="dois-cuidados-antes-de-lancar">Dois cuidados antes de lançar</h3>
+<p><strong>Primeiro, a conta.</strong> Some a mensalidade de um ano e compare com o que esse paciente já gastava na clínica no mesmo período. O cartão não pode sair mais barato do que o paciente já pagava, senão a clínica troca receita por desconto. A mensalidade e os descontos têm de fechar com o uso real da base.</p>
+<p><strong>Segundo, um responsável.</strong> Coloque uma pessoa da recepção como responsável por oferecer o cartão para todo paciente, inclusive o de convênio. Cartão que é responsabilidade de todo mundo não é vendido por ninguém. A clínica precisa de uma cultura de oferecer e de pessoas com meta de venda.</p>
+<p>Lembre também que o paciente tem família. O plano família costuma ser a forma mais simples de aumentar o ticket do cartão sem mexer no preço.</p>
+<h3 id="o-que-a-regra-diz">O que a regra diz</h3>
+<p>Cartão de desconto não é plano de saúde: não pode prometer cobertura, internação nem urgência, e a ANS não o trata como operadora. Do lado dos médicos, o CFM revogou em 2019 a resolução que considerava antiética a participação em cartões de desconto (Resolução 2.226/2019) e, em 2023, passou a permitir que o médico anuncie descontos (Resolução 2.336/2023). Mesmo assim, a regra de uso, o contrato e o material de divulgação passam pelo jurídico da clínica antes do lançamento.</p>
+<h2 id="como-acompanhar-todo-mes">Como acompanhar todo mês</h2>
+<p>Todo mês, refaça a conta do passo 1. O que você quer ver é a porcentagem do convênio caindo devagar, sem a agenda esvaziar. Junto dela, quatro números dizem se cada passo está funcionando:</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Tabela; role para o lado se necessário"><table>
+<thead>
+<tr>
+<th class="num">Número</th>
+<th class="num">O que mostra</th>
+<th class="num">Se não melhorar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Peso do convênio no faturamento</td>
+<td>Se a dependência está caindo</td>
+<td>Rever os passos 2 e 3</td>
+</tr>
+<tr>
+<td>Peso do maior convênio</td>
+<td>Se o risco principal está diminuindo</td>
+<td>Priorizar a troca dos horários desse convênio</td>
+</tr>
+<tr>
+<td>Ocupação dos horários particulares</td>
+<td>Se a agenda reservada está enchendo</td>
+<td>Mais procura (passo 2) ou resposta mais rápida (passo 4)</td>
+</tr>
+<tr>
+<td>Custo de cada paciente particular novo</td>
+<td>Quanto custa trazer esse paciente</td>
+<td>Rever palavras-chave, negativas e a página do anúncio</td>
+</tr>
+</tbody>
+</table></div>
+<p>A conta do custo por paciente, canal por canal, está explicada em <a href="https://clintia.com.br/blog/custo-de-aquisicao-de-paciente/">Custo de aquisição de paciente é o número que separa faturar de lucrar</a>. E a base de pacientes que já passou pela clínica é o canal mais barato para encher os primeiros horários particulares: <a href="https://clintia.com.br/blog/reativacao-de-pacientes/">Reativação de pacientes enche a agenda sem gastar um real de mídia</a>.</p>
+<p>Com esse acompanhamento, quando um convênio cortar ou atrasar, a clínica tem um aborrecimento, não um susto. Já existe um plano em ação.</p>
+<h2 id="os-erros-que-mais-atrasam-a-saida-do-convenio">Os erros que mais atrasam a saída do convênio</h2>
+<ol>
+<li><strong>Descredenciar antes de ter o particular.</strong> A agenda esvazia, o caixa aperta e a clínica volta correndo para o convênio, em condição pior.</li>
+<li><strong>Baixar o preço particular para competir com o valor do convênio.</strong> O particular passa a valer o mesmo que o convênio, só que sem o volume dele.</li>
+<li><strong>Anunciar sem horário reservado.</strong> O paciente chega, não acha vaga e a verba vira reclamação.</li>
+<li><strong>Anunciar para a cidade inteira.</strong> O paciente da clínica popular escolhe pela distância. Raio largo em cidade grande traz quem não vai atravessar a cidade para consultar.</li>
+<li><strong>Lançar cartão sem a conta e sem responsável.</strong> Vira desconto para quem já pagava cheio e ninguém oferece para quem ainda não conhece.</li>
+</ol>
+<h2 id="perguntas-frequentes">Perguntas frequentes</h2>
+<div class="faq">
+  <details class="faq-item">
+    <summary><span>Vale a pena sair de todos os convênios de uma vez?</span><svg class="ico chev" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m6 9 6 6 6-6"/></svg></summary>
+    <div class="faq-a"><p>Quase nunca. O convênio ocupa horário e paga as contas fixas enquanto o particular ainda não tem volume. O caminho seguro é reduzir o peso do convênio aos poucos: primeiro descobrir quanto ele paga de verdade, depois reservar horários para o particular e só pensar em descredenciar o convênio que paga pior quando esses horários estiverem enchendo.</p></div>
+  </details>
+  <details class="faq-item">
+    <summary><span>Quanto do faturamento pode vir de um único convênio?</span><svg class="ico chev" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m6 9 6 6 6-6"/></svg></summary>
+    <div class="faq-a"><p>Não existe número oficial. A régua que a gente usa nas clínicas é 40%: quando um único convênio passa disso, uma mudança de tabela, um atraso de pagamento ou um descredenciamento mexe no caixa inteiro de uma vez. Acima dessa marca, ele é o primeiro risco a trabalhar.</p></div>
+  </details>
+  <details class="faq-item">
+    <summary><span>Como calcular o valor real que o convênio paga por consulta?</span><svg class="ico chev" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m6 9 6 6 6-6"/></svg></summary>
+    <div class="faq-a"><p>Pegue o valor da tabela, tire a média do que foi glosado e não voltou e considere quantos dias o dinheiro leva para cair na conta. Um convênio que paga R$ 60 na tabela, glosa uma parte e paga em 60 dias vale menos do que os R$ 60 que aparecem no contrato, e é esse valor que tem de ser comparado com a consulta particular.</p></div>
+  </details>
+  <details class="faq-item">
+    <summary><span>Que palavras-chave usar no Google para atrair paciente particular?</span><svg class="ico chev" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m6 9 6 6 6-6"/></svg></summary>
+    <div class="faq-a"><p>As de quem já quer pagar: o nome da especialidade com particular, preço, valor ou consulta, e o nome do bairro ou da cidade. E as negativas, para não pagar clique de quem procura convênio: o nome dos planos, aceita, credenciado, gratuito e SUS.</p></div>
+  </details>
+  <details class="faq-item">
+    <summary><span>A clínica pode ter cartão de benefícios?</span><svg class="ico chev" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m6 9 6 6 6-6"/></svg></summary>
+    <div class="faq-a"><p>Pode, com cuidado. Cartão de desconto não é plano de saúde e não pode prometer cobertura, internação nem atendimento de urgência. O CFM revogou em 2019 a resolução que vetava a participação de médicos nesses cartões (Resolução 2.226/2019) e, em 2023, passou a permitir que o médico anuncie descontos (Resolução 2.336/2023). Antes de lançar, a regra de uso, o contrato e o material de divulgação passam pelo jurídico da clínica.</p></div>
+  </details>
+  <details class="faq-item">
+    <summary><span>Em quanto tempo a dependência de convênio diminui?</span><svg class="ico chev" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m6 9 6 6 6-6"/></svg></summary>
+    <div class="faq-a"><p>Depende da especialidade, do bairro e de quanto a clínica investe para trazer o paciente particular. O que dá para medir desde o primeiro mês é a porcentagem do convênio no faturamento, a ocupação dos horários reservados para o particular e o custo de cada paciente particular novo. Se esses três números andam na direção certa, o processo está funcionando.</p></div>
+  </details>
+</div>
+<h2 id="faca-hoje">Faça hoje</h2>
+<ol>
+<li><strong>Separe o faturamento do mês passado</strong> em convênio e particular, e anote a porcentagem de cada um.</li>
+<li><strong>Abra o convênio por operadora.</strong> Marque qualquer uma que passe de 40% do faturamento.</li>
+<li><strong>Calcule o valor real do maior convênio:</strong> valor de tabela, menos a glosa que não voltou, e o prazo até o dinheiro cair.</li>
+<li><strong>Escolha uma especialidade e reserve dois horários particulares</strong> por turno na agenda desse médico, começando pelos mais procurados.</li>
+<li><strong>Confira o perfil da clínica no Google:</strong> horário, especialidades, fotos reais e avaliações respondidas.</li>
+</ol>
+<p>O passo a passo completo desta matéria está no Manual da Clínica Popular®: a folha de posicionamento, a campanha de Google por especialidade com as palavras-chave e as negativas, a planilha para a conta do convênio e o capítulo inteiro do cartão de benefícios. <a href="https://www.proclip.com.br/apostila?utm_source=site&amp;utm_medium=cta&amp;utm_campaign=como-diminuir-a-dependencia-de-convenio">Conhecer o Manual</a>.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Marketing para clínica popular começa no Google, não no Instagram</title>
       <link>https://clintia.com.br/blog/marketing-para-clinica-popular/</link>
@@ -41,12 +311,12 @@
 <p>A história que a gente mais ouve de dono de clínica: contratou agência, seis meses depois o Instagram estava bonito e a agenda, igual. A agência entregou o que foi contratado. O erro foi contratar o Instagram antes de arrumar o Google e o WhatsApp.</p>
 <div class="ad-slot ad-slot--mobile"><div class="ad-wrap ad-wrap--336x280">
   <span class="ad-label" aria-hidden="true">publicidade</span>
-  <a class="house-ad house-ad--336x280 house-ad--light" href="https://lp.clintia.com.br/sessao-estrategica-2026?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=sessao-estrategica&amp;utm_content=336x280-marketing-para-clinica-popular" rel="noopener" data-ad="sessao-estrategica" data-format="336x280" aria-label="Publicidade: Sessão Estratégica PROClip®, diagnóstico comercial de 30 minutos sem custo">
+  <a class="house-ad house-ad--336x280 house-ad--light" href="https://www.proclip.com.br/apostila?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=manual&amp;utm_content=336x280-marketing-para-clinica-popular" rel="noopener" data-ad="manual" data-format="336x280" aria-label="Publicidade: O Manual da Clínica Popular®, ebook com planilha de CAP, scripts de WhatsApp e comunidade">
     <img class="house-ad-logo" src="https://clintia.com.br/assets/logo/clintia-logo-horizontal-cor-600.png" width="600" height="135" alt="" loading="lazy" decoding="async">
-    <span class="house-ad-kicker">PROClip®</span>
-    <span class="house-ad-title">Quanto custa cada paciente da sua clínica hoje?</span>
-    <span class="house-ad-line">30 minutos, sem custo, com os seus números.</span>
-    <span class="btn btn-primary house-ad-btn">Agendar Sessão Estratégica</span>
+    <span class="house-ad-kicker">O Manual da Clínica Popular®</span>
+    <span class="house-ad-title">A campanha de Google por especialidade, pronta pra copiar</span>
+    <span class="house-ad-line">No Manual, com as palavras-chave, as negativas e o modelo de landing page.</span>
+    <span class="btn btn-primary house-ad-btn">Conhecer o Manual</span>
   </a>
 </div></div><h2 id="onde-o-paciente-de-clinica-popular-procura-google-maps-e-agora-a-ia">Onde o paciente de clínica popular procura: Google, Maps e agora a IA</h2>
 <p>Atrair pacientes para clínica popular é, na prática, aparecer em três lugares que concentram a intenção do seu bairro.</p>
@@ -203,7 +473,7 @@
 <li>Pergunte para a agência (ou para você mesmo) quanto custou cada paciente que pagou no mês passado, por canal. Se a resposta vier em cliques ou alcance, você não tem o número.</li>
 <li>Puxe do sistema quantos pacientes estão há mais de 180 dias sem voltar. Esse é o tamanho do seu canal mais barato.</li>
 </ol>
-<p>Para ver como esses números ficam na sua clínica, a gente faz uma Sessão Estratégica de 30 minutos: tempo de resposta, ficha do Google, CAP por canal e o que dá para recuperar da base antes de colocar um real a mais em mídia. <a href="https://lp.clintia.com.br/sessao-estrategica-2026?utm_source=site&amp;utm_medium=cta&amp;utm_campaign=marketing-para-clinica-popular">Agende a sua Sessão Estratégica</a>.</p>]]></content:encoded>
+<p>O modelo da campanha de Google por especialidade, com as palavras-chave, as negativas e a landing page, está pronto no <a href="https://www.proclip.com.br/apostila?utm_source=site&amp;utm_medium=cta&amp;utm_campaign=marketing-para-clinica-popular">Manual da Clínica Popular®</a>, junto do checklist da ficha do Google em 4 semanas e da planilha do custo por paciente. É o caminho desta matéria, em material para aplicar na sua clínica.</p>]]></content:encoded>
     </item>
     <item>
       <title>Custo de aquisição de paciente é o número que separa faturar de lucrar</title>
@@ -288,12 +558,12 @@
 <p>Os três números são verdadeiros. Só o último diz quanto custou o paciente que pagou. Quando a agência reporta R$ 7,25, o número está certo, só que mede o começo do funil.</p>
 <div class="ad-slot ad-slot--mobile"><div class="ad-wrap ad-wrap--336x280">
   <span class="ad-label" aria-hidden="true">publicidade</span>
-  <a class="house-ad house-ad--336x280 house-ad--light" href="https://lp.clintia.com.br/sessao-estrategica-2026?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=sessao-estrategica&amp;utm_content=336x280-custo-de-aquisicao-de-paciente" rel="noopener" data-ad="sessao-estrategica" data-format="336x280" aria-label="Publicidade: Sessão Estratégica PROClip®, diagnóstico comercial de 30 minutos sem custo">
+  <a class="house-ad house-ad--336x280 house-ad--light" href="https://www.proclip.com.br/apostila?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=manual&amp;utm_content=336x280-custo-de-aquisicao-de-paciente" rel="noopener" data-ad="manual" data-format="336x280" aria-label="Publicidade: O Manual da Clínica Popular®, ebook com planilha de CAP, scripts de WhatsApp e comunidade">
     <img class="house-ad-logo" src="https://clintia.com.br/assets/logo/clintia-logo-horizontal-cor-600.png" width="600" height="135" alt="" loading="lazy" decoding="async">
-    <span class="house-ad-kicker">PROClip®</span>
-    <span class="house-ad-title">Quanto custa cada paciente da sua clínica hoje?</span>
-    <span class="house-ad-line">30 minutos, sem custo, com os seus números.</span>
-    <span class="btn btn-primary house-ad-btn">Agendar Sessão Estratégica</span>
+    <span class="house-ad-kicker">O Manual da Clínica Popular®</span>
+    <span class="house-ad-title">A planilha do custo por paciente, já com as fórmulas</span>
+    <span class="house-ad-line">No Manual, junto do Painel do Dono e dos modelos de campanha.</span>
+    <span class="btn btn-primary house-ad-btn">Conhecer o Manual</span>
   </a>
 </div></div><h2 id="cap-por-canal-google-meta-ficha-do-google-indicacao-e-base">CAP por canal: Google, Meta, ficha do Google, indicação e base</h2>
 <p>A média esconde o problema. Uma clínica com CAP médio de R$ 24 pode ter um canal a R$ 8 e outro a R$ 40 e, sem separar, mantém verba no caro e corta o barato. A regra de rateio que usamos: mídia é custo direto do canal; o honorário do gestor de tráfego é dividido entre os canais pagos na proporção da verba, arredondado no exemplo para R$ 900 no Google e R$ 300 no Meta; a ferramenta de CRM e WhatsApp vai para os canais que a recepção trabalha sem mídia, a ficha do Google e a base (R$ 200 para cada), porque é nela que a resposta e a reativação acontecem.</p>
@@ -538,7 +808,7 @@
 <li><strong>Meça o tempo da primeira resposta.</strong> Pegue as últimas 20 conversas de contato novo no WhatsApp. Acima de 5 minutos, essa é a alavanca mais barata para baixar o CAP.</li>
 <li><strong>Liste os orçamentos abertos da semana.</strong> Quem perguntou preço e não agendou recebe um retorno em até 24 horas. Registre quantos voltaram.</li>
 </ol>
-<p>Se você quer ver essa conta feita com os números da sua clínica, a Sessão Estratégica é uma conversa de 30 minutos, online, com o Bernardo. Você traz quantos pacientes procuram por mês, quantos fecham, quanto vai para mídia e quanto da receita vem de convênio, e sai com o gargalo apontado e o que dá para fazer em 45 dias. <a href="https://lp.clintia.com.br/sessao-estrategica-2026?utm_source=site&amp;utm_medium=cta&amp;utm_campaign=custo-de-aquisicao-de-paciente">Agendar Sessão Estratégica</a>.</p>]]></content:encoded>
+<p>Para fazer essa conta com os números da sua clínica, a planilha do custo por paciente está pronta no <a href="https://www.proclip.com.br/apostila?utm_source=site&amp;utm_medium=cta&amp;utm_campaign=custo-de-aquisicao-de-paciente">Manual da Clínica Popular®</a>: você preenche o investimento e os pacientes de cada canal, e ela mostra quanto custou cada paciente e qual canal está pesando. Vem com o Painel do Dono, os modelos de campanha e a comunidade de donos de clínica popular.</p>]]></content:encoded>
     </item>
     <item>
       <title>Quanto custa a consulta? O que responder no WhatsApp da clínica</title>
@@ -563,12 +833,12 @@
 <p>Passar o valor e parar ali é listar a clínica numa tabela de preços. E tabela se compara.</p>
 <div class="ad-slot ad-slot--mobile"><div class="ad-wrap ad-wrap--336x280">
   <span class="ad-label" aria-hidden="true">publicidade</span>
-  <a class="house-ad house-ad--336x280 house-ad--light" href="https://lp.clintia.com.br/sessao-estrategica-2026?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=sessao-estrategica&amp;utm_content=336x280-quanto-custa-a-consulta-whatsapp" rel="noopener" data-ad="sessao-estrategica" data-format="336x280" aria-label="Publicidade: Sessão Estratégica PROClip®, diagnóstico comercial de 30 minutos sem custo">
+  <a class="house-ad house-ad--336x280 house-ad--light" href="https://www.proclip.com.br/apostila?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=manual&amp;utm_content=336x280-quanto-custa-a-consulta-whatsapp" rel="noopener" data-ad="manual" data-format="336x280" aria-label="Publicidade: O Manual da Clínica Popular®, ebook com planilha de CAP, scripts de WhatsApp e comunidade">
     <img class="house-ad-logo" src="https://clintia.com.br/assets/logo/clintia-logo-horizontal-cor-600.png" width="600" height="135" alt="" loading="lazy" decoding="async">
-    <span class="house-ad-kicker">PROClip®</span>
-    <span class="house-ad-title">Quanto custa cada paciente da sua clínica hoje?</span>
-    <span class="house-ad-line">30 minutos, sem custo, com os seus números.</span>
-    <span class="btn btn-primary house-ad-btn">Agendar Sessão Estratégica</span>
+    <span class="house-ad-kicker">O Manual da Clínica Popular®</span>
+    <span class="house-ad-title">Os scripts de WhatsApp pra quando perguntam o preço</span>
+    <span class="house-ad-line">No Manual, com o Playbook da Recepção e o CRM com as fases prontas.</span>
+    <span class="btn btn-primary house-ad-btn">Conhecer o Manual</span>
   </a>
 </div></div><h2 id="erro-2-esconder-o-valor-so-passamos-na-consulta">Erro 2: esconder o valor ("só passamos na consulta")</h2>
 <p>Do outro lado está o conselho que agência gosta de dar: não fala o preço, valoriza primeiro, pede o telefone para ligar. Em clínica popular isso não funciona.</p>
@@ -776,11 +1046,11 @@
 <p>Repare na última linha. Orçamento aberto é a fatia mais quente da base: a pessoa perguntou, recebeu o valor e sumiu. Em clínica acessível isso acontece todo dia no WhatsApp, e quase nunca alguém volta para perguntar se ficou dúvida. O que responder quando a primeira mensagem é o preço, e como registrar o orçamento aberto, está em <a href="https://clintia.com.br/blog/quanto-custa-a-consulta-whatsapp/">outra matéria</a>. Se a sua clínica não registra data prevista de retorno, comece com 180 dias sem nenhuma passagem e refine depois.</p>
 <div class="ad-slot ad-slot--mobile"><div class="ad-wrap ad-wrap--336x280">
   <span class="ad-label" aria-hidden="true">publicidade</span>
-  <a class="house-ad house-ad--336x280 house-ad--light" href="https://www.proclip.com.br/apostila?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=comunidade-manual&amp;utm_content=336x280-reativacao-de-pacientes" rel="noopener" data-ad="comunidade-manual" data-format="336x280" aria-label="Publicidade: comunidade do Manual da Clínica Popular®, mais de 80 donos de clínica">
+  <a class="house-ad house-ad--336x280 house-ad--light" href="https://www.proclip.com.br/apostila?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=manual&amp;utm_content=336x280-reativacao-de-pacientes" rel="noopener" data-ad="manual" data-format="336x280" aria-label="Publicidade: O Manual da Clínica Popular®, ebook com planilha de CAP, scripts de WhatsApp e comunidade">
     <img class="house-ad-logo" src="https://clintia.com.br/assets/logo/clintia-logo-horizontal-cor-600.png" width="600" height="135" alt="" loading="lazy" decoding="async">
-    <span class="house-ad-kicker">Comunidade do Manual</span>
-    <span class="house-ad-title">Mais de 80 donos de clínica popular no mesmo grupo</span>
-    <span class="house-ad-line">Quem já aplica o método troca o que funcionou e o que deu errado.</span>
+    <span class="house-ad-kicker">O Manual da Clínica Popular®</span>
+    <span class="house-ad-title">O CRM com as fases prontas pra reativar a base</span>
+    <span class="house-ad-line">No Manual, com os scripts de WhatsApp e a planilha do custo por paciente.</span>
     <span class="btn btn-primary house-ad-btn">Conhecer o Manual</span>
   </a>
 </div></div><h2 id="quanto-da-agenda-pode-vir-da-base-um-exemplo-de-40-em-160-horarios">Quanto da agenda pode vir da base: um exemplo de 40 em 160 horários</h2>
@@ -796,11 +1066,11 @@
 <p>Antes de qualquer envio, dois filtros: telefone válido com DDD e ninguém que já pediu para não receber contato.</p>
 <div class="ad-slot ad-slot--mobile"><div class="ad-wrap ad-wrap--336x280">
   <span class="ad-label" aria-hidden="true">publicidade</span>
-  <a class="house-ad house-ad--336x280 house-ad--dark" href="https://www.proclip.com.br/apostila?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=manual&amp;utm_content=336x280-reativacao-de-pacientes" rel="noopener" data-ad="manual" data-format="336x280" aria-label="Publicidade: O Manual da Clínica Popular®, ebook com planilha de CAP, scripts de WhatsApp e comunidade">
+  <a class="house-ad house-ad--336x280 house-ad--dark" href="https://www.proclip.com.br/apostila?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=comunidade-manual&amp;utm_content=336x280-reativacao-de-pacientes" rel="noopener" data-ad="comunidade-manual" data-format="336x280" aria-label="Publicidade: comunidade do Manual da Clínica Popular®, mais de 80 donos de clínica">
     <img class="house-ad-logo" src="https://clintia.com.br/assets/logo/logo-clintia-branca-horizontal.png" width="1215" height="281" alt="" loading="lazy" decoding="async">
-    <span class="house-ad-kicker">O Manual da Clínica Popular®</span>
-    <span class="house-ad-title">O sistema comercial das grandes redes, no tamanho da sua clínica</span>
-    <span class="house-ad-line">Ebook, planilha de CAP e scripts de WhatsApp.</span>
+    <span class="house-ad-kicker">Comunidade do Manual</span>
+    <span class="house-ad-title">Mais de 80 donos de clínica popular no mesmo grupo</span>
+    <span class="house-ad-line">Quem já aplica o método troca o que funcionou e o que deu errado.</span>
     <span class="btn btn-on-dark house-ad-btn">Conhecer o Manual</span>
   </a>
 </div></div><h2 id="reativacao-de-pacientes-a-mensagem-para-paciente-sumido-que-funciona-e-a-que-da-bloqueio">Reativação de pacientes: a mensagem para paciente sumido que funciona e a que dá bloqueio</h2>
@@ -953,7 +1223,7 @@
 <li>Anote, mesmo em planilha, quem respondeu, agendou e compareceu. Esse número diz se vale montar o funil no CRM.</li>
 </ol>
 <h2 id="o-proximo-passo">O próximo passo</h2>
-<p>Se a sua base tem milhares de cadastros e a reativação hoje é "a gente já tentou e parou", o gargalo está na estrutura que segura o processo depois da primeira semana, e raramente na mensagem. É isso que a gente implanta no PROClip®: CRM ligado ao WhatsApp, funil de reativação automático, recepção treinada e o painel que mostra quanto da agenda vem da base. Agende uma <a href="https://lp.clintia.com.br/sessao-estrategica-2026?utm_source=site&amp;utm_medium=cta&amp;utm_campaign=reativacao-de-pacientes">Sessão Estratégica</a> e a gente olha a sua base e a sua agenda juntos, com número.</p>]]></content:encoded>
+<p>Se a sua base tem milhares de cadastros e a reativação hoje é "a gente já tentou e parou", o gargalo está na estrutura que segura o processo depois da primeira semana, e raramente na mensagem. O <a href="https://www.proclip.com.br/apostila?utm_source=site&amp;utm_medium=cta&amp;utm_campaign=reativacao-de-pacientes">Manual da Clínica Popular®</a> traz o CRM com as fases prontas, os scripts de WhatsApp para o retorno e a planilha para medir quanto da agenda veio da base.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>

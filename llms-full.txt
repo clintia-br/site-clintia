@@ -1,6 +1,6 @@
 # ClintIA: site completo em texto
 
-Fonte: https://clintia.com.br/ · gerado em 2026-10-08
+Fonte: https://clintia.com.br/ · gerado em 2026-10-16
 
 ---
 
@@ -127,9 +127,14 @@ Dois trechos de reunião de diagnóstico. Em cada um, o momento em que o dono en
 - Caso 2 · dono de clínica popular: Vender bem não é dom. **Gargalo:** o comercial depende do dono, e ele mesmo diz que não sabe vender. Venda é processo, e processo se ensina.
 
 
+## O que donos e gestores de clínica popular disseram na reunião
+
+Trechos reais de reunião com a ClintIA. O rosto e o nome foram preservados. Toque pra ouvir.
+
+
 ## Clínicas populares e redes que a gente atende
 
-Imagens das clínicas que a gente atende. Embaixo de cada uma, quem ela é, o desafio e o que a gente faz.
+Fotos das clínicas e redes que a gente atende, com a cidade e o desafio que cada uma trouxe pra gente.
 
 - Bandeirantes Diagnósticos (Rio de Janeiro, RJ): Rede de diagnóstico com 7 unidades. Rede de diagnóstico com 7 unidades na Zona Oeste e na Zona Norte do Rio. Desafio: Dar presença digital a cada unidade e organizar o comercial da rede. O que a gente faz: Implantação digital da rede e gestão mensal de conteúdo e campanhas. A parte comercial, com o call center, é a fase seguinte.
 - Clínica Mais Med (Ipiaú, BA): Clínica popular. Clínica popular de uma unidade, fundada por um pediatra, no interior da Bahia. Desafio: Montar a estrutura digital do zero e levar a recepção pro CRM. O que a gente faz: Implantação: ficha do Google, site, campanhas no Google e na Meta, Instagram e o CRM da recepção, com a gestão mensal de campanhas e conteúdo na sequência.
@@ -557,6 +562,11 @@ Dois trechos de reunião de diagnóstico. Em cada um, o momento em que o dono en
 - Caso 2 · dono de clínica popular: Vender bem não é dom. **Gargalo:** o comercial depende do dono, e ele mesmo diz que não sabe vender. Venda é processo, e processo se ensina.
 
 
+## O que donos e gestores de clínica popular disseram na reunião
+
+Trechos reais de reunião com a ClintIA. O rosto e o nome foram preservados. Toque pra ouvir.
+
+
 ## Quer a sua clínica popular nessa lista?
 
 A Sessão Estratégica é uma conversa de 30 minutos. Você traz quantos pacientes procuram por mês, quantos fecham e quanto gasta em mídia. A gente devolve um diagnóstico com o que dá pra fazer primeiro.
@@ -855,6 +865,171 @@ Quando o site passar a usar uma ferramenta nova ou mudar a forma de tratar dados
 
 ---
 
+# Como diminuir a dependência de convênio sem esvaziar a agenda da clínica
+
+URL: https://clintia.com.br/blog/como-diminuir-a-dependencia-de-convenio/
+Autor: Bernardo Carneiro · Publicado em 2026-10-16 · Categoria: Números e previsibilidade
+
+Se a sua clínica popular recebe R$ 60 por consulta de convênio, paga o médico, a recepção e o aluguel e ainda espera 30 ou 60 dias para o dinheiro cair, a conta aperta todo mês, mesmo com a agenda cheia. Diminuir essa dependência não exige sair do convênio de uma vez. Exige saber quanto ele paga de verdade, trazer o paciente particular certo, abrir espaço na agenda para ele e ter onde segurar esse paciente depois da primeira consulta. São cinco passos, e dá para começar o primeiro esta semana.
+
+> **Em vídeo:** a gente resumiu os cinco passos num Reel no Instagram. [Assista aqui](https://www.instagram.com/reel/DekWElCDBN0/) e volte para o detalhe de cada um.
+
+## A meta não é sair 100% do convênio
+
+Quem promete clínica 100% particular da noite para o dia está vendendo uma coisa que a clínica não sustenta. O convênio enche horário, paga as contas fixas e traz paciente que a clínica não teria de outra forma. O problema é depender dele.
+
+Convênio funciona como construir em terreno de outra pessoa. Enquanto o dono deixa, a obra fica de pé. No dia em que ele muda a tabela, atrasa o pagamento ou corta a clínica da rede, a agenda some junto, e não há nada que a clínica possa fazer além de esperar.
+
+O objetivo é construir, ao lado, um terreno que é da clínica: um fluxo de pacientes particulares que chega pelo próprio marketing, agenda pela própria recepção e volta pelo próprio relacionamento. Ele cresce aos poucos e vai ganhando espaço no faturamento, sem esvaziar a agenda no caminho.
+
+### O tamanho do mercado que não tem plano
+
+Segundo a ANS, os planos de assistência médica tinham 53,164 milhões de beneficiários em agosto de 2026. Com a estimativa de população do IBGE, isso dá perto de 25% dos brasileiros. Três em cada quatro pessoas pagam a consulta do próprio bolso ou dependem do SUS, e é exatamente esse público que procura a clínica popular quando não quer esperar semanas por uma vaga.
+
+O mercado particular está aí. O que costuma faltar é a estrutura para a clínica chegar até ele.
+
+## Passo 1: a conta que quase nenhum dono faz
+
+Antes de mudar qualquer coisa, a clínica precisa saber quanto depende do convênio, de qual convênio e quanto cada um paga de verdade. Sem essa conta, toda decisão é sensação.
+
+**Como fazer:**
+
+1. Pegue o faturamento do mês passado e separe em duas linhas: o que veio de convênio e o que veio de particular.
+2. Escreva a porcentagem de cada uma.
+3. Abra a linha do convênio por operadora. Se um único convênio passa de 40% do faturamento, esse é o seu risco mais sério.
+4. Para cada convênio, faça a conta do valor real: quanto ele paga por consulta, menos o que é glosado e não volta, e quantos dias você espera para o dinheiro cair.
+
+### A glosa e o prazo entram na conta
+
+Glosa é o valor que a operadora recusa ou segura depois do atendimento, por erro de guia, falta de autorização ou divergência de código. Nos hospitais associados à Anahp, a glosa inicial ficou em 15,89% do faturado com planos em 2024 e perto de 16% em 2025, e o prazo médio de recebimento passou de 70 dias. A realidade de uma clínica é outra, com volume e guias diferentes, mas o mecanismo é o mesmo: parte do que a tabela promete demora a entrar, e parte não entra.
+
+### A conta feita (exemplo hipotético)
+
+Uma clínica popular que fatura R$ 120 mil por mês:
+
+| Fonte | Faturamento no mês | Peso no total | Valor de tabela da consulta | O que sobra depois da glosa | Prazo para cair |
+|---|---|---|---|---|---|
+| Convênio A | R$ 54.000 | 45% | R$ 60 | R$ 54 | 60 dias |
+| Convênio B | R$ 18.000 | 15% | R$ 75 | R$ 72 | 30 dias |
+| Particular | R$ 48.000 | 40% | R$ 120 | R$ 120 | no dia |
+| Total | R$ 120.000 | 100% | | | |
+
+Três leituras saem dessa tabela. O convênio A sozinho passa de 40% e é o risco da clínica. A consulta dele vale menos de R$ 60, porque a glosa e os 60 dias de espera também custam. E cada horário do convênio A que vira um horário particular quase dobra o que aquele horário rende.
+
+É esse número, o valor real, que você compara com o particular. Não o valor do contrato.
+
+## Passo 2: trazer o paciente particular certo
+
+Com a conta na mão, vem a parte que decide se o particular vai entrar ou não. Anunciar "consulta particular" para a cidade inteira gasta verba e traz curioso. O paciente particular da clínica popular tem um perfil bem definido.
+
+### Com quem a sua clínica fala no particular
+
+Antes de anunciar, defina com quem a clínica fala. Em geral é a pessoa que não tem plano, ou que tem e cansou de esperar semanas por uma vaga com especialista. Ela quer saber três coisas: quanto custa, se é perto e quando consegue ser atendida.
+
+A comunicação da clínica tem de responder essas três perguntas, no jeito de falar do bairro. Preço visível, endereço e referência do bairro, e o próximo horário livre. É isso que faz a pessoa chamar no WhatsApp em vez de continuar procurando.
+
+### No Google, uma campanha por especialidade
+
+No Google Ads, o paciente particular já está procurando. O trabalho é aparecer para ele e não pagar clique de quem procura outra coisa.
+
+- **Uma campanha por especialidade**, com verba própria. Cardiologia não divide orçamento com pediatria, porque a procura, o preço e a concorrência são diferentes.
+- **Palavras de quem já quer pagar:** "cardiologista particular", "consulta com cardiologista preço", "ultrassom valor", sempre com o nome do bairro ou da cidade ao lado.
+- **Palavras negativas**, para não pagar clique de quem veio atrás de convênio: o nome dos planos, "aceita", "credenciado", "gratuito", "SUS".
+- **No anúncio:** a especialidade, o preço e o bairro. Quem clica já sabe o que vai encontrar.
+
+| Tipo | Exemplos | Por quê |
+|---|---|---|
+| Palavra-chave | cardiologista particular [bairro] · consulta cardiologista preço · ultrassom valor [cidade] | Quem escreve preço ou particular já decidiu pagar |
+| Palavra negativa | nome dos convênios · aceita · credenciado · gratuito · SUS | Quem escreve isso procura cobertura e não vai fechar no particular |
+
+A estrutura completa de uma campanha de Google para clínica popular, com grupos de anúncios e landing page, está em [Marketing para clínica popular começa no Google, não no Instagram](https://clintia.com.br/blog/marketing-para-clinica-popular/).
+
+### No Meta Ads, um raio em volta da clínica
+
+No Facebook e no Instagram, a pessoa não está procurando. Por isso o anúncio fala com quem mora perto: um raio de poucos quilômetros em volta da clínica, com a especialidade, o preço e o bairro na peça. Se a clínica fica no interior, onde o paciente viaja mais para consultar, o raio é maior.
+
+## Passo 3: abrir espaço na agenda para o particular
+
+Esse é o passo que quase nenhuma clínica faz e o que mais muda a agenda. Se o convênio ocupa todos os horários, o paciente particular que o anúncio trouxe chega, pergunta e não encontra vaga. A verba vira frustração.
+
+**Como fazer:**
+
+1. Na agenda de cada médico, reserve alguns horários só para o particular.
+2. Comece pelos horários mais procurados, como início da manhã, fim da tarde e sábado, porque é neles que o paciente que paga decide.
+3. Comece pequeno: dois ou três horários por turno.
+4. Aumente conforme esses horários enchem. Horário reservado que fica vazio por semanas volta para o convênio, e o motivo vira tarefa para o passo 2.
+
+O sistema de agenda da maioria das clínicas já permite criar essas filas separadas por tipo de atendimento. Se o seu não permite, uma cor na agenda e uma regra clara para a recepção resolvem no começo.
+
+| Turno | Antes | Primeiro mês | Quando enche |
+|---|---|---|---|
+| Manhã (8h às 12h) | 100% convênio | 2 horários particulares | 4 horários particulares |
+| Tarde (14h às 18h) | 100% convênio | 3 horários particulares (fim da tarde) | 5 horários particulares |
+| Sábado | 100% convênio | metade particular | o que a procura pedir |
+
+## Passo 4: estar presente onde o paciente confere
+
+Antes de marcar, o paciente particular confere a clínica, e confere no celular. Hoje ele decide pelas plataformas que mais usa: a busca do Google, o Google Maps, o perfil da empresa no Google, o WhatsApp e o Instagram. Antes de chamar, olha a nota, as avaliações, as fotos e se a clínica parece séria.
+
+- **Perfil no Google 100% completo:** horário, especialidades, telefone, fotos reais da fachada e da recepção, e avaliações respondidas.
+- **Instagram que mostra médico, estrutura e o paciente sendo atendido**, com a cultura do bairro, e não só promoção. É ali que a pessoa confirma que a clínica existe e cuida bem.
+- **WhatsApp que responde em minutos**, com o preço e dois horários para a pessoa escolher. Quem pergunta preço e espera uma hora já marcou em outro lugar.
+
+O roteiro de resposta para "quanto custa a consulta?" está em [Quanto custa a consulta? O que responder no WhatsApp da clínica](https://clintia.com.br/blog/quanto-custa-a-consulta-whatsapp/).
+
+## Passo 5: o cartão de benefícios, a ponte entre os dois
+
+Falta a peça que segura o paciente com a clínica todo mês. O cartão de benefícios é uma mensalidade pequena que dá desconto em consulta e exame e traz o paciente de volta. Ele é a ponte entre o convênio e o particular: o paciente não tem plano, mas tem um vínculo com a clínica.
+
+### Dois cuidados antes de lançar
+
+**Primeiro, a conta.** Some a mensalidade de um ano e compare com o que esse paciente já gastava na clínica no mesmo período. O cartão não pode sair mais barato do que o paciente já pagava, senão a clínica troca receita por desconto. A mensalidade e os descontos têm de fechar com o uso real da base.
+
+**Segundo, um responsável.** Coloque uma pessoa da recepção como responsável por oferecer o cartão para todo paciente, inclusive o de convênio. Cartão que é responsabilidade de todo mundo não é vendido por ninguém. A clínica precisa de uma cultura de oferecer e de pessoas com meta de venda.
+
+Lembre também que o paciente tem família. O plano família costuma ser a forma mais simples de aumentar o ticket do cartão sem mexer no preço.
+
+### O que a regra diz
+
+Cartão de desconto não é plano de saúde: não pode prometer cobertura, internação nem urgência, e a ANS não o trata como operadora. Do lado dos médicos, o CFM revogou em 2019 a resolução que considerava antiética a participação em cartões de desconto (Resolução 2.226/2019) e, em 2023, passou a permitir que o médico anuncie descontos (Resolução 2.336/2023). Mesmo assim, a regra de uso, o contrato e o material de divulgação passam pelo jurídico da clínica antes do lançamento.
+
+## Como acompanhar todo mês
+
+Todo mês, refaça a conta do passo 1. O que você quer ver é a porcentagem do convênio caindo devagar, sem a agenda esvaziar. Junto dela, quatro números dizem se cada passo está funcionando:
+
+| Número | O que mostra | Se não melhorar |
+|---|---|---|
+| Peso do convênio no faturamento | Se a dependência está caindo | Rever os passos 2 e 3 |
+| Peso do maior convênio | Se o risco principal está diminuindo | Priorizar a troca dos horários desse convênio |
+| Ocupação dos horários particulares | Se a agenda reservada está enchendo | Mais procura (passo 2) ou resposta mais rápida (passo 4) |
+| Custo de cada paciente particular novo | Quanto custa trazer esse paciente | Rever palavras-chave, negativas e a página do anúncio |
+
+A conta do custo por paciente, canal por canal, está explicada em [Custo de aquisição de paciente é o número que separa faturar de lucrar](https://clintia.com.br/blog/custo-de-aquisicao-de-paciente/). E a base de pacientes que já passou pela clínica é o canal mais barato para encher os primeiros horários particulares: [Reativação de pacientes enche a agenda sem gastar um real de mídia](https://clintia.com.br/blog/reativacao-de-pacientes/).
+
+Com esse acompanhamento, quando um convênio cortar ou atrasar, a clínica tem um aborrecimento, não um susto. Já existe um plano em ação.
+
+## Os erros que mais atrasam a saída do convênio
+
+1. **Descredenciar antes de ter o particular.** A agenda esvazia, o caixa aperta e a clínica volta correndo para o convênio, em condição pior.
+2. **Baixar o preço particular para competir com o valor do convênio.** O particular passa a valer o mesmo que o convênio, só que sem o volume dele.
+3. **Anunciar sem horário reservado.** O paciente chega, não acha vaga e a verba vira reclamação.
+4. **Anunciar para a cidade inteira.** O paciente da clínica popular escolhe pela distância. Raio largo em cidade grande traz quem não vai atravessar a cidade para consultar.
+5. **Lançar cartão sem a conta e sem responsável.** Vira desconto para quem já pagava cheio e ninguém oferece para quem ainda não conhece.
+
+<!-- faq: o gerador renderiza aqui o bloco "Perguntas frequentes" a partir do frontmatter `faq`, antes de "Faça hoje" -->
+
+## Faça hoje
+
+1. **Separe o faturamento do mês passado** em convênio e particular, e anote a porcentagem de cada um.
+2. **Abra o convênio por operadora.** Marque qualquer uma que passe de 40% do faturamento.
+3. **Calcule o valor real do maior convênio:** valor de tabela, menos a glosa que não voltou, e o prazo até o dinheiro cair.
+4. **Escolha uma especialidade e reserve dois horários particulares** por turno na agenda desse médico, começando pelos mais procurados.
+5. **Confira o perfil da clínica no Google:** horário, especialidades, fotos reais e avaliações respondidas.
+
+O passo a passo completo desta matéria está no Manual da Clínica Popular®: a folha de posicionamento, a campanha de Google por especialidade com as palavras-chave e as negativas, a planilha para a conta do convênio e o capítulo inteiro do cartão de benefícios. [Conhecer o Manual](https://www.proclip.com.br/apostila?utm_source=site&utm_medium=cta&utm_campaign=como-diminuir-a-dependencia-de-convenio).
+
+---
+
 # Marketing para clínica popular começa no Google, não no Instagram
 
 URL: https://clintia.com.br/blog/marketing-para-clinica-popular/
@@ -1043,7 +1218,7 @@ Precisa, e é a que mais precisa medir. Em clínica popular típica, 70% a 85% d
 4. Pergunte para a agência (ou para você mesmo) quanto custou cada paciente que pagou no mês passado, por canal. Se a resposta vier em cliques ou alcance, você não tem o número.
 5. Puxe do sistema quantos pacientes estão há mais de 180 dias sem voltar. Esse é o tamanho do seu canal mais barato.
 
-Para ver como esses números ficam na sua clínica, a gente faz uma Sessão Estratégica de 30 minutos: tempo de resposta, ficha do Google, CAP por canal e o que dá para recuperar da base antes de colocar um real a mais em mídia. [Agende a sua Sessão Estratégica](https://lp.clintia.com.br/sessao-estrategica-2026?utm_source=site&utm_medium=cta&utm_campaign=marketing-para-clinica-popular).
+O modelo da campanha de Google por especialidade, com as palavras-chave, as negativas e a landing page, está pronto no [Manual da Clínica Popular®](https://www.proclip.com.br/apostila?utm_source=site&utm_medium=cta&utm_campaign=marketing-para-clinica-popular), junto do checklist da ficha do Google em 4 semanas e da planilha do custo por paciente. É o caminho desta matéria, em material para aplicar na sua clínica.
 
 ---
 
@@ -1219,7 +1394,7 @@ O painel também é diagnóstico. Se muita gente chama e pouca agenda, o problem
 4. **Meça o tempo da primeira resposta.** Pegue as últimas 20 conversas de contato novo no WhatsApp. Acima de 5 minutos, essa é a alavanca mais barata para baixar o CAP.
 5. **Liste os orçamentos abertos da semana.** Quem perguntou preço e não agendou recebe um retorno em até 24 horas. Registre quantos voltaram.
 
-Se você quer ver essa conta feita com os números da sua clínica, a Sessão Estratégica é uma conversa de 30 minutos, online, com o Bernardo. Você traz quantos pacientes procuram por mês, quantos fecham, quanto vai para mídia e quanto da receita vem de convênio, e sai com o gargalo apontado e o que dá para fazer em 45 dias. [Agendar Sessão Estratégica](https://lp.clintia.com.br/sessao-estrategica-2026?utm_source=site&utm_medium=cta&utm_campaign=custo-de-aquisicao-de-paciente).
+Para fazer essa conta com os números da sua clínica, a planilha do custo por paciente está pronta no [Manual da Clínica Popular®](https://www.proclip.com.br/apostila?utm_source=site&utm_medium=cta&utm_campaign=custo-de-aquisicao-de-paciente): você preenche o investimento e os pacientes de cada canal, e ela mostra quanto custou cada paciente e qual canal está pesando. Vem com o Painel do Dono, os modelos de campanha e a comunidade de donos de clínica popular.
 
 ---
 
@@ -1537,4 +1712,4 @@ Um aviso sobre essa conta: se a taxa de resposta do seu piloto der 3% em vez de 
 
 ## O próximo passo
 
-Se a sua base tem milhares de cadastros e a reativação hoje é "a gente já tentou e parou", o gargalo está na estrutura que segura o processo depois da primeira semana, e raramente na mensagem. É isso que a gente implanta no PROClip®: CRM ligado ao WhatsApp, funil de reativação automático, recepção treinada e o painel que mostra quanto da agenda vem da base. Agende uma [Sessão Estratégica](https://lp.clintia.com.br/sessao-estrategica-2026?utm_source=site&utm_medium=cta&utm_campaign=reativacao-de-pacientes) e a gente olha a sua base e a sua agenda juntos, com número.
+Se a sua base tem milhares de cadastros e a reativação hoje é "a gente já tentou e parou", o gargalo está na estrutura que segura o processo depois da primeira semana, e raramente na mensagem. O [Manual da Clínica Popular®](https://www.proclip.com.br/apostila?utm_source=site&utm_medium=cta&utm_campaign=reativacao-de-pacientes) traz o CRM com as fases prontas, os scripts de WhatsApp para o retorno e a planilha para medir quanto da agenda veio da base.
