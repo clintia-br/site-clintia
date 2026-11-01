@@ -1,6 +1,6 @@
 # ClintIA: site completo em texto
 
-Fonte: https://clintia.com.br/ · gerado em 2026-10-16
+Fonte: https://clintia.com.br/ · gerado em 2026-11-01
 
 ---
 
@@ -1711,3 +1711,146 @@ Um aviso sobre essa conta: se a taxa de resposta do seu piloto der 3% em vez de 
 ## O próximo passo
 
 Se a sua base tem milhares de cadastros e a reativação hoje é "a gente já tentou e parou", o gargalo está na estrutura que segura o processo depois da primeira semana, e raramente na mensagem. O [Manual da Clínica Popular®](https://www.proclip.com.br/apostila?utm_source=site&utm_medium=cta&utm_campaign=reativacao-de-pacientes) traz o CRM com as fases prontas, os scripts de WhatsApp para o retorno e a planilha para medir quanto da agenda veio da base.
+
+---
+
+# Como credenciar a clínica em plano de saúde: passo a passo, documentos e contrato
+
+URL: https://clintia.com.br/blog/como-credenciar-clinica-em-plano-de-saude/
+Autor: Bernardo Carneiro · Publicado em 2026-11-01 · Categoria: Números e previsibilidade
+
+Credenciar a clínica em plano de saúde é assinar um contrato escrito com a operadora para atender os beneficiários dela e receber dela pelo atendimento. O caminho é o mesmo na maioria dos casos: descobrir quais planos existem na sua cidade, deixar a documentação em dia, fazer o pedido no canal da operadora, passar pela análise, negociar a tabela e preparar a clínica para faturar. Credenciamento não é automático, e cada operadora define as próprias exigências e o próprio prazo.
+
+> **Por que escrevemos esta matéria:** a dúvida apareceu na nossa comunidade de donos de clínica. Reunimos aqui o que dá para fazer, com os links oficiais para você conferir.
+
+## Antes de pedir: credenciar compensa para a sua clínica?
+
+Convênio pode trazer volume, ajudar a preencher horário e sustentar especialista que ainda está construindo nome na região. O outro lado é que o valor costuma ser menor que o particular, o dinheiro entra depois, e parte da conta pode ser glosada, ou seja, recusada pela operadora.
+
+Por isso, antes de pedir, faça uma conta simples por consulta ou exame:
+
+1. Quanto a operadora paga pelo procedimento.
+2. Quanto você paga ao médico ou ao laboratório por esse procedimento.
+3. Quanto sobra para cobrir recepção, aluguel, sistema e faturamento.
+4. Quantos dias o dinheiro leva para entrar na conta.
+
+Se o caixa da clínica não aguenta esperar o prazo de pagamento, o credenciamento pode apertar o mês mesmo com a agenda cheia. E se a ideia é crescer pelo convênio, vale planejar para ele não virar a sua única fonte de paciente. Explicamos essa conta em [como diminuir a dependência de convênio sem esvaziar a agenda](https://clintia.com.br/blog/como-diminuir-a-dependencia-de-convenio).
+
+## Credenciado, referenciado e cooperado: é tudo a mesma coisa?
+
+Na prática, credenciado e referenciado querem dizer a mesma coisa: a clínica faz parte da rede da operadora. Bradesco Saúde e SulAmérica usam "referenciado". Amil e Hapvida usam "credenciado". A lei trata todos como prestadores de serviço.
+
+A Unimed funciona de outro jeito. Cada cooperativa é uma empresa da sua região, com regras próprias. Médico entra como cooperado, e clínica ou laboratório costuma entrar como prestador credenciado. Por isso, o pedido vai para a Unimed da sua cidade.
+
+## Passo 1: descubra quais planos valem a pena na sua cidade
+
+Pedir credenciamento em todas as operadoras gasta tempo. Comece pelas que têm beneficiários perto de você.
+
+A ANS mantém uma ferramenta pública, o [TabNet](https://www.ans.gov.br/anstabnet/), que mostra [beneficiários por operadora](https://www.ans.gov.br/anstabnet/cgi-bin/dh?dados/tabnet_cc.def) e permite recortar por local. A mesma pessoa pode aparecer mais de uma vez, porque a contagem é por vínculo, então use o número para comparar operadoras e não como conta exata de gente.
+
+Some a isso o que a recepção já sabe: quais planos os pacientes mais perguntam se a clínica aceita? Essa lista, anotada por duas semanas, costuma valer mais que qualquer palpite.
+
+## Passo 2: procure o buraco na rede da operadora
+
+Operadora credencia quando precisa daquele serviço naquele lugar. Antes de pedir, abra o guia médico do plano e procure a sua especialidade no seu bairro e nos bairros vizinhos.
+
+Se existe pouca oferta perto de você, você tem um argumento concreto. Escreva no pedido o que a clínica oferece, em que região e quais serviços são difíceis de encontrar ali, como uma especialidade com fila ou um exame feito no mesmo lugar da consulta.
+
+## Passo 3: deixe a documentação em dia
+
+Cada operadora tem a sua lista, e ela é a que vale. Em geral, tenha pronto:
+
+- contrato social com a última alteração e cartão do CNPJ;
+- alvará de funcionamento e licença sanitária, quando exigidos no seu município;
+- número do CNES, o [Cadastro Nacional de Estabelecimentos de Saúde](https://cnes.datasus.gov.br/), com os dados atualizados;
+- registro da clínica no conselho profissional e indicação do responsável técnico;
+- lista do corpo clínico, com registro no conselho e especialidade de cada profissional;
+- comprovante de conta bancária em nome da empresa;
+- fotos da fachada, da recepção e das salas, quando pedidas.
+
+No caso de clínica médica, a [Lei 6.839/1980](https://www.planalto.gov.br/ccivil_03/leis/l6839.htm) obriga o registro da empresa no conselho competente, e a [Resolução CFM 1.980/2011](https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2011/1980_2011.pdf) trata do registro no CRM e do médico responsável técnico. Confira com o CRM do seu estado o que está em vigor e o que se aplica ao seu caso.
+
+## Passo 4: faça o pedido pelo canal da operadora
+
+Use sempre o canal oficial e guarde o protocolo. Conferimos estes caminhos em 1º de novembro de 2026, e as operadoras podem mudar as páginas:
+
+| Operadora | Onde pedir |
+|---|---|
+| Bradesco Saúde | [Seja um referenciado](https://www.bradescoseguros.com.br/clientes/produtos/plano-saude/servicos/seja-um-referenciado) |
+| SulAmérica | [Portal do prestador](https://saude.sulamericaseguros.com.br/prestador/login/), na opção de solicitar referenciamento |
+| Amil | [Seja nosso credenciado](https://www.amil.com.br/seja-nosso-credenciado) |
+| Hapvida | [Área do prestador](https://www2.hapvida.com.br/prestador), em "Seja um prestador Hapvida" |
+| Hapvida SP e RJ (antiga NotreDame Intermédica) | [Quero ser um credenciado](https://www.gndi.com.br/quero-ser-um-credenciado-saude) |
+| Unimed | No site da Unimed da sua região, em páginas como "Quero ser prestador". Veja o [exemplo da Unimed Cascavel](https://www.unimed.coop.br/site/web/cascavel/quero-ser-prestador) |
+
+Para operadora regional ou de autogestão, ligue na central de atendimento e peça o setor de credenciamento ou de rede. Na maioria das vezes, é ele que decide, e não o vendedor de planos.
+
+Se o site não responder, procure o gestor de rede da operadora na sua região. Outros donos de clínica da cidade costumam saber quem é, e um contato direto, com o pedido já protocolado, ajuda mais que reenviar o formulário.
+
+## Passo 5: passe pela análise e negocie a tabela
+
+Depois do pedido, a operadora analisa os documentos e a necessidade da rede. Pode haver visita à clínica. Se a resposta for positiva, vem a proposta de contrato com a tabela de preços.
+
+Nem sempre há espaço para negociar, principalmente em clínica pequena e operadora grande. Mesmo assim, compare a tabela com a sua conta do início, procedimento por procedimento. Peça a tabela completa antes de assinar, com o valor de cada consulta e exame que você pretende atender.
+
+Se um procedimento paga menos do que custa, pergunte se ele pode ficar de fora do contrato. Cada serviço que a clínica aceita entra na sua obrigação de atender.
+
+## O que olhar no contrato antes de assinar
+
+A [Lei 9.656/1998](https://www.planalto.gov.br/ccivil_03/leis/l9656.htm), com a mudança feita pela [Lei 13.003/2014](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13003.htm), exige contrato escrito entre operadora e prestador. A [Resolução Normativa 503/2022 da ANS](https://bvsms.saude.gov.br/bvs/saudelegis/ans/2022/res0503_04_04_2022.html) define o que esse contrato precisa ter:
+
+- quais serviços a clínica vai prestar, descritos por procedimento;
+- valores, critério, forma e periodicidade do reajuste;
+- prazos e procedimentos de faturamento e de pagamento;
+- quais atendimentos dependem de autorização da operadora;
+- como funciona a auditoria, quais os motivos de glosa e os prazos para contestar;
+- vigência, renovação, rescisão e o prazo de aviso;
+- penalidades;
+- foro na comarca onde a clínica presta o serviço.
+
+A mesma norma proíbe a operadora de exigir exclusividade, de impedir que você conteste uma glosa, de restringir a liberdade profissional e de usar um reajuste que mantenha ou reduza o valor nominal do serviço. O reajuste também não pode ficar condicionado à sinistralidade da operadora.
+
+Sobre o reajuste, a [ANS explica](https://www.gov.br/ans/pt-br/assuntos/prestadores/fator-de-qualidade-1/obrigatoriedade-do-contrato-escrito) que ele é anual e precisa estar previsto no contrato. Se a livre negociação for a única forma prevista, as partes têm 90 dias corridos a partir de 1º de janeiro para fechar acordo. Sem acordo, vale o índice definido pela ANS. Sem contrato escrito, esse índice não se aplica, e a clínica fica sem essa proteção.
+
+Por isso, nunca comece a atender com "depois a gente assina". E, como todo contrato, leia com seu advogado ou contador antes de assinar. Este texto explica o caminho, mas não substitui a análise do seu caso.
+
+## Depois do contrato: a clínica precisa estar pronta para faturar
+
+Assinar é metade do trabalho. O dinheiro depende de cobrar direito.
+
+A troca de dados com a operadora segue o [Padrão TISS](https://www.gov.br/ans/pt-br/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-2013-tiss), da ANS. Ele organiza autorização, cobrança, demonstrativo de pagamento e recurso de glosa. Na prática, você precisa de:
+
+- sistema de gestão que gere as guias e o arquivo no padrão TISS;
+- uma pessoa responsável por faturamento, com data fixa para fechar e enviar as contas;
+- rotina de conferência na recepção: carteirinha, autorização e assinatura do paciente;
+- controle do que foi enviado, do que foi pago e do que foi glosado.
+
+Glosa não recorrida vira prejuízo. Olhe o demonstrativo todo mês, anote o motivo de cada recusa e recorra no prazo do contrato. Se o mesmo motivo se repete, o problema costuma estar no processo da recepção, e é lá que se corrige.
+
+Dois cuidados com o paciente: ele não pode pagar à parte por procedimento coberto no contrato, fora a coparticipação prevista no plano dele. E a agenda precisa ter regra clara para que o convênio não ocupe todos os horários do particular.
+
+## Vale contratar alguém para fazer o credenciamento?
+
+Existem profissionais e consultorias que cuidam desse processo, e a ajuda pode valer a pena quando falta tempo para organizar documentos e acompanhar pedidos em várias operadoras.
+
+Antes de contratar, peça para ver clínicas parecidas que a pessoa atendeu, entenda se o pagamento depende do resultado e desconfie de quem garante a aprovação. Quem decide é a operadora. Pergunte também a outros donos de clínica da sua região, porque essa indicação depende muito da cidade. Na nossa comunidade, essa troca já acontece.
+
+## Erros que atrasam ou encarecem o credenciamento
+
+1. **Pedir para todas as operadoras ao mesmo tempo.** Comece pelas duas ou três com mais gente na sua região.
+2. **Enviar documento vencido ou incompleto.** Na Unimed Cascavel, por exemplo, pedido sem toda a documentação não é analisado.
+3. **Assinar sem a tabela completa.** O valor da consulta pode ser aceitável e o do exame, não.
+4. **Começar a atender sem contrato escrito.** Sem ele, a clínica perde proteção e fica sem regra clara de pagamento.
+5. **Não preparar o faturamento.** A clínica atende, a conta volta glosada, e ninguém recorre.
+
+<!-- faq: o gerador renderiza aqui o bloco "Perguntas frequentes" a partir do frontmatter `faq`, antes de "Faça hoje" -->
+
+## Faça hoje
+
+1. **Peça à recepção** a lista dos planos mais perguntados nas últimas duas semanas.
+2. **Escolha duas ou três operadoras** e confira no [TabNet da ANS](https://www.ans.gov.br/anstabnet/) o tamanho delas na sua região.
+3. **Procure a sua especialidade no guia médico** dessas operadoras e anote onde falta oferta.
+4. **Junte os documentos** e confira a validade de cada um.
+5. **Faça a conta por procedimento** antes de assinar qualquer proposta.
+
+A planilha do custo por paciente e o capítulo sobre não depender de uma fonte só estão no [Manual da Clínica Popular®](https://www.proclip.com.br/apostila).

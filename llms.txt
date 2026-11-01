@@ -31,6 +31,7 @@ Fatos principais:
 - [Custo de aquisição de paciente é o número que separa faturar de lucrar](https://clintia.com.br/blog/custo-de-aquisicao-de-paciente/): Como calcular o custo de aquisição de paciente por canal e por paciente atendido, cruzar com margem e mix convênio/particular e baixar sem cortar verba.
 - [Quanto custa a consulta? O que responder no WhatsApp da clínica](https://clintia.com.br/blog/quanto-custa-a-consulta-whatsapp/): Paciente perguntou quanto custa a consulta no WhatsApp? Diga o valor, pergunte antes e ofereça horário junto. Script em 4 movimentos e conversa modelo.
 - [Reativação de pacientes enche a agenda sem gastar um real de mídia](https://clintia.com.br/blog/reativacao-de-pacientes/): Reativação de pacientes na clínica popular: como definir quem está inativo, o que mandar, a cadência de 3 toques e a conta de custo e retorno.
+- [Como credenciar a clínica em plano de saúde: passo a passo, documentos e contrato](https://clintia.com.br/blog/como-credenciar-clinica-em-plano-de-saude/): Como credenciar a clínica em convênio: documentos, por onde pedir em cada operadora, o que olhar no contrato e o que a ANS exige. Guia com links oficiais.
 
 ## Versões em Markdown
 
