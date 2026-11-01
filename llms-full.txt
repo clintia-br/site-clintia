@@ -1843,6 +1843,14 @@ Antes de contratar, peça para ver clínicas parecidas que a pessoa atendeu, ent
 4. **Começar a atender sem contrato escrito.** Sem ele, a clínica perde proteção e fica sem regra clara de pagamento.
 5. **Não preparar o faturamento.** A clínica atende, a conta volta glosada, e ninguém recorre.
 
+## Credencie, mas não construa a clínica em cima de um plano só
+
+O convênio pode ajudar a encher horário, principalmente no começo. O risco está em quanto do faturamento passa a depender dele. Quem define a tabela, o prazo de pagamento e a continuidade do contrato é a operadora, e uma mudança dela mexe na sua agenda mesmo que nada tenha mudado dentro da clínica.
+
+Funciona como construir em terreno de outra pessoa. A obra fica de pé enquanto o dono deixa. Por isso, ao mesmo tempo em que credencia, vale construir o que é seu: a ficha do Google com avaliações em dia, a base de pacientes cuidada, um canal próprio para trazer o paciente particular e, quando fizer sentido, um cartão de benefícios. Cartão de benefícios não é plano de saúde: a mensalidade dá direito a preço, nunca a atendimento.
+
+Uma rotina simples ajuda: todo mês, anote quanto do faturamento veio de cada operadora e quanto veio da própria clínica. Se uma fonte começar a pesar demais, é hora de reforçar o particular. Mostramos esse caminho, passo a passo, em [como diminuir a dependência de convênio sem esvaziar a agenda](https://clintia.com.br/blog/como-diminuir-a-dependencia-de-convenio).
+
 <!-- faq: o gerador renderiza aqui o bloco "Perguntas frequentes" a partir do frontmatter `faq`, antes de "Faça hoje" -->
 
 ## Faça hoje
@@ -1852,5 +1860,6 @@ Antes de contratar, peça para ver clínicas parecidas que a pessoa atendeu, ent
 3. **Procure a sua especialidade no guia médico** dessas operadoras e anote onde falta oferta.
 4. **Junte os documentos** e confira a validade de cada um.
 5. **Faça a conta por procedimento** antes de assinar qualquer proposta.
+6. **Anote quanto do faturamento vem de cada fonte de paciente,** para o convênio entrar sem virar a sua única porta.
 
 A planilha do custo por paciente e o capítulo sobre não depender de uma fonte só estão no [Manual da Clínica Popular®](https://www.proclip.com.br/apostila).
