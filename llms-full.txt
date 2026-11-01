@@ -1742,6 +1742,12 @@ Na prática, credenciado e referenciado querem dizer a mesma coisa: a clínica f
 
 A Unimed funciona de outro jeito. Cada cooperativa é uma empresa da sua região, com regras próprias. Médico entra como cooperado, e clínica ou laboratório costuma entrar como prestador credenciado. Por isso, o pedido vai para a Unimed da sua cidade.
 
+## O pedido é do médico ou da clínica?
+
+Os dois caminhos existem. O médico pode pedir como pessoa física, e a clínica pede como pessoa jurídica, com o CNPJ. Na clínica popular, com vários profissionais e exames no mesmo lugar, o caminho costuma ser o da empresa: o contrato fica com a clínica, e o corpo clínico entra na lista enviada à operadora.
+
+Confirme isso antes de pedir, porque a regra muda de uma operadora para outra. Pergunte também ao seu contador como o recebimento do convênio entra na sua tributação e como o médico parceiro será pago. Se o profissional sair, a clínica precisa saber se o contrato cobre o substituto.
+
 ## Passo 1: descubra quais planos valem a pena na sua cidade
 
 Pedir credenciamento em todas as operadoras gasta tempo. Comece pelas que têm beneficiários perto de você.
@@ -1764,7 +1770,7 @@ Cada operadora tem a sua lista, e ela é a que vale. Em geral, tenha pronto:
 - alvará de funcionamento e licença sanitária, quando exigidos no seu município;
 - número do CNES, o [Cadastro Nacional de Estabelecimentos de Saúde](https://cnes.datasus.gov.br/), com os dados atualizados;
 - registro da clínica no conselho profissional e indicação do responsável técnico;
-- lista do corpo clínico, com registro no conselho e especialidade de cada profissional;
+- lista do corpo clínico, com registro no conselho e especialidade de cada profissional, incluindo o RQE, o registro de especialidade do médico;
 - comprovante de conta bancária em nome da empresa;
 - fotos da fachada, da recepção e das salas, quando pedidas.
 
@@ -1793,13 +1799,13 @@ Depois do pedido, a operadora analisa os documentos e a necessidade da rede. Pod
 
 Nem sempre há espaço para negociar, principalmente em clínica pequena e operadora grande. Mesmo assim, compare a tabela com a sua conta do início, procedimento por procedimento. Peça a tabela completa antes de assinar, com o valor de cada consulta e exame que você pretende atender.
 
-Se um procedimento paga menos do que custa, pergunte se ele pode ficar de fora do contrato. Cada serviço que a clínica aceita entra na sua obrigação de atender.
+Se um procedimento paga menos do que custa, pergunte se ele pode ficar de fora do contrato. Cada serviço que a clínica aceita entra na sua obrigação de atender. Para comparar com o que você gasta para trazer um paciente particular, use a conta do [custo de aquisição de paciente](https://clintia.com.br/blog/custo-de-aquisicao-de-paciente).
 
 ## O que olhar no contrato antes de assinar
 
 A [Lei 9.656/1998](https://www.planalto.gov.br/ccivil_03/leis/l9656.htm), com a mudança feita pela [Lei 13.003/2014](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13003.htm), exige contrato escrito entre operadora e prestador. A [Resolução Normativa 503/2022 da ANS](https://bvsms.saude.gov.br/bvs/saudelegis/ans/2022/res0503_04_04_2022.html) define o que esse contrato precisa ter:
 
-- quais serviços a clínica vai prestar, descritos por procedimento;
+- quais serviços a clínica vai prestar, descritos por procedimento, com a terminologia da TUSS;
 - valores, critério, forma e periodicidade do reajuste;
 - prazos e procedimentos de faturamento e de pagamento;
 - quais atendimentos dependem de autorização da operadora;
@@ -1811,6 +1817,8 @@ A [Lei 9.656/1998](https://www.planalto.gov.br/ccivil_03/leis/l9656.htm), com a 
 A mesma norma proíbe a operadora de exigir exclusividade, de impedir que você conteste uma glosa, de restringir a liberdade profissional e de usar um reajuste que mantenha ou reduza o valor nominal do serviço. O reajuste também não pode ficar condicionado à sinistralidade da operadora.
 
 Sobre o reajuste, a [ANS explica](https://www.gov.br/ans/pt-br/assuntos/prestadores/fator-de-qualidade-1/obrigatoriedade-do-contrato-escrito) que ele é anual e precisa estar previsto no contrato. Se a livre negociação for a única forma prevista, as partes têm 90 dias corridos a partir de 1º de janeiro para fechar acordo. Sem acordo, vale o índice definido pela ANS. Sem contrato escrito, esse índice não se aplica, e a clínica fica sem essa proteção.
+
+Olhe também como sair. O contrato precisa dizer com quanto tempo de aviso a clínica ou a operadora pode encerrar a relação, e a norma prevê regras para quem está em tratamento continuado, pré-natal ou pré-operatório. Se a clínica decidir sair de um plano, organize a saída antes para esses pacientes não ficarem sem atendimento.
 
 Por isso, nunca comece a atender com "depois a gente assina". E, como todo contrato, leia com seu advogado ou contador antes de assinar. Este texto explica o caminho, mas não substitui a análise do seu caso.
 
@@ -1847,7 +1855,7 @@ Antes de contratar, peça para ver clínicas parecidas que a pessoa atendeu, ent
 
 O convênio pode ajudar a encher horário, principalmente no começo. O risco está em quanto do faturamento passa a depender dele. Quem define a tabela, o prazo de pagamento e a continuidade do contrato é a operadora, e uma mudança dela mexe na sua agenda mesmo que nada tenha mudado dentro da clínica.
 
-Funciona como construir em terreno de outra pessoa. A obra fica de pé enquanto o dono deixa. Por isso, ao mesmo tempo em que credencia, vale construir o que é seu: a ficha do Google com avaliações em dia, a base de pacientes cuidada, um canal próprio para trazer o paciente particular e, quando fizer sentido, um cartão de benefícios. Cartão de benefícios não é plano de saúde: a mensalidade dá direito a preço, nunca a atendimento.
+Funciona como construir em terreno de outra pessoa. A obra fica de pé enquanto o dono deixa. Por isso, ao mesmo tempo em que credencia, vale construir o que é seu: a ficha do Google com avaliações em dia, a base de pacientes cuidada, [um canal próprio para trazer o paciente particular](https://clintia.com.br/blog/marketing-para-clinica-popular) e, quando fizer sentido, um cartão de benefícios. Cartão de benefícios não é plano de saúde: a mensalidade dá direito a preço, nunca a atendimento.
 
 Uma rotina simples ajuda: todo mês, anote quanto do faturamento veio de cada operadora e quanto veio da própria clínica. Se uma fonte começar a pesar demais, é hora de reforçar o particular. Mostramos esse caminho, passo a passo, em [como diminuir a dependência de convênio sem esvaziar a agenda](https://clintia.com.br/blog/como-diminuir-a-dependencia-de-convenio).
 

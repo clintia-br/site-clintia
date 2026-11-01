@@ -5,7 +5,7 @@
     <link>https://clintia.com.br/blog/</link>
     <description>Gestão comercial, marketing e operação de clínicas populares, com número e método.</description>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 01 Nov 2026 13:45:36 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 13:56:08 -0300</lastBuildDate>
     <atom:link href="https://clintia.com.br/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://clintia.com.br/assets/logo/clintia-logo-horizontal-cor-600.png</url>
@@ -1258,13 +1258,13 @@
     <span class="house-ad-line">No Manual, a planilha do custo por paciente e o caminho para não depender de uma fonte só.</span>
     <span class="btn btn-primary house-ad-btn">Conhecer o Manual</span>
   </a>
-</div></div><h2 id="passo-1-descubra-quais-planos-valem-a-pena-na-sua-cidade">Passo 1: descubra quais planos valem a pena na sua cidade</h2>
+</div></div><h2 id="o-pedido-e-do-medico-ou-da-clinica">O pedido é do médico ou da clínica?</h2>
+<p>Os dois caminhos existem. O médico pode pedir como pessoa física, e a clínica pede como pessoa jurídica, com o CNPJ. Na clínica popular, com vários profissionais e exames no mesmo lugar, o caminho costuma ser o da empresa: o contrato fica com a clínica, e o corpo clínico entra na lista enviada à operadora.</p>
+<p>Confirme isso antes de pedir, porque a regra muda de uma operadora para outra. Pergunte também ao seu contador como o recebimento do convênio entra na sua tributação e como o médico parceiro será pago. Se o profissional sair, a clínica precisa saber se o contrato cobre o substituto.</p>
+<h2 id="passo-1-descubra-quais-planos-valem-a-pena-na-sua-cidade">Passo 1: descubra quais planos valem a pena na sua cidade</h2>
 <p>Pedir credenciamento em todas as operadoras gasta tempo. Comece pelas que têm beneficiários perto de você.</p>
 <p>A ANS mantém uma ferramenta pública, o <a href="https://www.ans.gov.br/anstabnet/">TabNet</a>, que mostra <a href="https://www.ans.gov.br/anstabnet/cgi-bin/dh?dados/tabnet_cc.def">beneficiários por operadora</a> e permite recortar por local. A mesma pessoa pode aparecer mais de uma vez, porque a contagem é por vínculo, então use o número para comparar operadoras e não como conta exata de gente.</p>
 <p>Some a isso o que a recepção já sabe: quais planos os pacientes mais perguntam se a clínica aceita? Essa lista, anotada por duas semanas, costuma valer mais que qualquer palpite.</p>
-<h2 id="passo-2-procure-o-buraco-na-rede-da-operadora">Passo 2: procure o buraco na rede da operadora</h2>
-<p>Operadora credencia quando precisa daquele serviço naquele lugar. Antes de pedir, abra o guia médico do plano e procure a sua especialidade no seu bairro e nos bairros vizinhos.</p>
-<p>Se existe pouca oferta perto de você, você tem um argumento concreto. Escreva no pedido o que a clínica oferece, em que região e quais serviços são difíceis de encontrar ali, como uma especialidade com fila ou um exame feito no mesmo lugar da consulta.</p>
 <div class="ad-slot ad-slot--mobile"><div class="ad-wrap ad-wrap--336x280">
   <span class="ad-label" aria-hidden="true">publicidade</span>
   <a class="house-ad house-ad--336x280 house-ad--dark" href="https://www.proclip.com.br/apostila?utm_source=site&amp;utm_medium=banner&amp;utm_campaign=comunidade-manual&amp;utm_content=336x280-como-credenciar-clinica-em-plano-de-saude" rel="noopener" data-ad="comunidade-manual" data-format="336x280" aria-label="Publicidade: comunidade do Manual da Clínica Popular®, mais de 80 donos de clínica">
@@ -1274,14 +1274,17 @@
     <span class="house-ad-line">Quem já aplica o método troca o que funcionou e o que deu errado.</span>
     <span class="btn btn-on-dark house-ad-btn">Conhecer o Manual</span>
   </a>
-</div></div><h2 id="passo-3-deixe-a-documentacao-em-dia">Passo 3: deixe a documentação em dia</h2>
+</div></div><h2 id="passo-2-procure-o-buraco-na-rede-da-operadora">Passo 2: procure o buraco na rede da operadora</h2>
+<p>Operadora credencia quando precisa daquele serviço naquele lugar. Antes de pedir, abra o guia médico do plano e procure a sua especialidade no seu bairro e nos bairros vizinhos.</p>
+<p>Se existe pouca oferta perto de você, você tem um argumento concreto. Escreva no pedido o que a clínica oferece, em que região e quais serviços são difíceis de encontrar ali, como uma especialidade com fila ou um exame feito no mesmo lugar da consulta.</p>
+<h2 id="passo-3-deixe-a-documentacao-em-dia">Passo 3: deixe a documentação em dia</h2>
 <p>Cada operadora tem a sua lista, e ela é a que vale. Em geral, tenha pronto:</p>
 <ul>
 <li>contrato social com a última alteração e cartão do CNPJ;</li>
 <li>alvará de funcionamento e licença sanitária, quando exigidos no seu município;</li>
 <li>número do CNES, o <a href="https://cnes.datasus.gov.br/">Cadastro Nacional de Estabelecimentos de Saúde</a>, com os dados atualizados;</li>
 <li>registro da clínica no conselho profissional e indicação do responsável técnico;</li>
-<li>lista do corpo clínico, com registro no conselho e especialidade de cada profissional;</li>
+<li>lista do corpo clínico, com registro no conselho e especialidade de cada profissional, incluindo o RQE, o registro de especialidade do médico;</li>
 <li>comprovante de conta bancária em nome da empresa;</li>
 <li>fotos da fachada, da recepção e das salas, quando pedidas.</li>
 </ul>
@@ -1327,11 +1330,11 @@
 <h2 id="passo-5-passe-pela-analise-e-negocie-a-tabela">Passo 5: passe pela análise e negocie a tabela</h2>
 <p>Depois do pedido, a operadora analisa os documentos e a necessidade da rede. Pode haver visita à clínica. Se a resposta for positiva, vem a proposta de contrato com a tabela de preços.</p>
 <p>Nem sempre há espaço para negociar, principalmente em clínica pequena e operadora grande. Mesmo assim, compare a tabela com a sua conta do início, procedimento por procedimento. Peça a tabela completa antes de assinar, com o valor de cada consulta e exame que você pretende atender.</p>
-<p>Se um procedimento paga menos do que custa, pergunte se ele pode ficar de fora do contrato. Cada serviço que a clínica aceita entra na sua obrigação de atender.</p>
+<p>Se um procedimento paga menos do que custa, pergunte se ele pode ficar de fora do contrato. Cada serviço que a clínica aceita entra na sua obrigação de atender. Para comparar com o que você gasta para trazer um paciente particular, use a conta do <a href="https://clintia.com.br/blog/custo-de-aquisicao-de-paciente">custo de aquisição de paciente</a>.</p>
 <h2 id="o-que-olhar-no-contrato-antes-de-assinar">O que olhar no contrato antes de assinar</h2>
 <p>A <a href="https://www.planalto.gov.br/ccivil_03/leis/l9656.htm">Lei 9.656/1998</a>, com a mudança feita pela <a href="https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13003.htm">Lei 13.003/2014</a>, exige contrato escrito entre operadora e prestador. A <a href="https://bvsms.saude.gov.br/bvs/saudelegis/ans/2022/res0503_04_04_2022.html">Resolução Normativa 503/2022 da ANS</a> define o que esse contrato precisa ter:</p>
 <ul>
-<li>quais serviços a clínica vai prestar, descritos por procedimento;</li>
+<li>quais serviços a clínica vai prestar, descritos por procedimento, com a terminologia da TUSS;</li>
 <li>valores, critério, forma e periodicidade do reajuste;</li>
 <li>prazos e procedimentos de faturamento e de pagamento;</li>
 <li>quais atendimentos dependem de autorização da operadora;</li>
@@ -1342,6 +1345,7 @@
 </ul>
 <p>A mesma norma proíbe a operadora de exigir exclusividade, de impedir que você conteste uma glosa, de restringir a liberdade profissional e de usar um reajuste que mantenha ou reduza o valor nominal do serviço. O reajuste também não pode ficar condicionado à sinistralidade da operadora.</p>
 <p>Sobre o reajuste, a <a href="https://www.gov.br/ans/pt-br/assuntos/prestadores/fator-de-qualidade-1/obrigatoriedade-do-contrato-escrito">ANS explica</a> que ele é anual e precisa estar previsto no contrato. Se a livre negociação for a única forma prevista, as partes têm 90 dias corridos a partir de 1º de janeiro para fechar acordo. Sem acordo, vale o índice definido pela ANS. Sem contrato escrito, esse índice não se aplica, e a clínica fica sem essa proteção.</p>
+<p>Olhe também como sair. O contrato precisa dizer com quanto tempo de aviso a clínica ou a operadora pode encerrar a relação, e a norma prevê regras para quem está em tratamento continuado, pré-natal ou pré-operatório. Se a clínica decidir sair de um plano, organize a saída antes para esses pacientes não ficarem sem atendimento.</p>
 <p>Por isso, nunca comece a atender com "depois a gente assina". E, como todo contrato, leia com seu advogado ou contador antes de assinar. Este texto explica o caminho, mas não substitui a análise do seu caso.</p>
 <h2 id="depois-do-contrato-a-clinica-precisa-estar-pronta-para-faturar">Depois do contrato: a clínica precisa estar pronta para faturar</h2>
 <p>Assinar é metade do trabalho. O dinheiro depende de cobrar direito.</p>
@@ -1367,7 +1371,7 @@
 </ol>
 <h2 id="credencie-mas-nao-construa-a-clinica-em-cima-de-um-plano-so">Credencie, mas não construa a clínica em cima de um plano só</h2>
 <p>O convênio pode ajudar a encher horário, principalmente no começo. O risco está em quanto do faturamento passa a depender dele. Quem define a tabela, o prazo de pagamento e a continuidade do contrato é a operadora, e uma mudança dela mexe na sua agenda mesmo que nada tenha mudado dentro da clínica.</p>
-<p>Funciona como construir em terreno de outra pessoa. A obra fica de pé enquanto o dono deixa. Por isso, ao mesmo tempo em que credencia, vale construir o que é seu: a ficha do Google com avaliações em dia, a base de pacientes cuidada, um canal próprio para trazer o paciente particular e, quando fizer sentido, um cartão de benefícios. Cartão de benefícios não é plano de saúde: a mensalidade dá direito a preço, nunca a atendimento.</p>
+<p>Funciona como construir em terreno de outra pessoa. A obra fica de pé enquanto o dono deixa. Por isso, ao mesmo tempo em que credencia, vale construir o que é seu: a ficha do Google com avaliações em dia, a base de pacientes cuidada, <a href="https://clintia.com.br/blog/marketing-para-clinica-popular">um canal próprio para trazer o paciente particular</a> e, quando fizer sentido, um cartão de benefícios. Cartão de benefícios não é plano de saúde: a mensalidade dá direito a preço, nunca a atendimento.</p>
 <p>Uma rotina simples ajuda: todo mês, anote quanto do faturamento veio de cada operadora e quanto veio da própria clínica. Se uma fonte começar a pesar demais, é hora de reforçar o particular. Mostramos esse caminho, passo a passo, em <a href="https://clintia.com.br/blog/como-diminuir-a-dependencia-de-convenio">como diminuir a dependência de convênio sem esvaziar a agenda</a>.</p>
 <h2 id="perguntas-frequentes">Perguntas frequentes</h2>
 <div class="faq">
