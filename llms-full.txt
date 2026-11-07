@@ -1,6 +1,6 @@
 # ClintIA: site completo em texto
 
-Fonte: https://clintia.com.br/ · gerado em 2026-11-01
+Fonte: https://clintia.com.br/ · gerado em 2026-11-07
 
 ---
 
@@ -248,7 +248,7 @@ Os números aparecem assim que a origem de cada paciente passa a ser registrada,
 
 ### Por onde começar: Comunidade MCP® ou PROClip®?
 
-Se a clínica ainda vai aplicar com a própria equipe, a comunidade é o caminho: o Manual com o método no papel, a área de membros e os outros donos. Se o dono quer a implantação feita pela nossa equipe, é o PROClip®, e o primeiro passo é a Sessão Estratégica, uma conversa em que a gente olha os números e diz qual dos dois faz sentido.
+Se a clínica ainda vai aplicar com a própria equipe, a comunidade é o caminho: o Manual com o método no papel, a área de membros e os outros donos. Se o dono quer a implantação feita pela nossa equipe, é o PROClip®, e o primeiro passo é entrar na fila do mês: na reunião de diagnóstico a gente olha os números e diz qual dos dois faz sentido.
 
 ---
 
@@ -483,7 +483,7 @@ Não existe pacote nem tabela pra isso. Cada projeto tem escopo e prazo próprio
 
 ## Vamos olhar os números da sua clínica
 
-Trinta minutos com a nossa equipe, sem custo. Você traz quantos pacientes procuram por mês, quantos fecham e quanto vai em mídia. A gente devolve um diagnóstico e diz qual das duas frentes faz sentido, ou se nenhuma faz agora.
+Entre na fila do mês. Na reunião de diagnóstico você traz quantos pacientes procuram por mês, quantos fecham e quanto vai em mídia. A gente devolve um diagnóstico e diz qual das duas frentes faz sentido, ou se nenhuma faz agora.
 
 ### Vocês fazem só uma parte, tipo só tráfego ou só CRM?
 
@@ -499,7 +499,7 @@ O que funciona fica e entra no conjunto: o agendamento, a ficha do Google com av
 
 ### Posso começar pelo Manual e contratar o PROClip® depois?
 
-Pode. O método é o mesmo, então nada do que você aplicou se perde. Na Sessão Estratégica a gente parte do que já está rodando na clínica e monta o que falta.
+Pode. O método é o mesmo, então nada do que você aplicou se perde. Na reunião de diagnóstico a gente parte do que já está rodando na clínica e monta o que falta.
 
 ### O PROClip® serve pra rede?
 
@@ -567,7 +567,7 @@ Trechos reais de reunião com a ClintIA. O rosto e o nome foram preservados. Toq
 
 ## Quer a sua clínica popular nessa lista?
 
-A Sessão Estratégica é uma conversa de 30 minutos. Você traz quantos pacientes procuram por mês, quantos fecham e quanto gasta em mídia. A gente devolve um diagnóstico com o que dá pra fazer primeiro.
+Entre na fila do mês. A nossa equipe chama no WhatsApp para entender a clínica, e a reunião de diagnóstico com o Bernardo olha quantos pacientes procuram, quantos fecham e quanto vai em mídia.
 
 ---
 
@@ -622,7 +622,7 @@ O medo de autuação é legítimo, e por isso a auditoria não é opcional: toda
 
 ## Do primeiro contato ao primeiro dia de implantação
 
-- Sessão Estratégica (30 minutos): Conversa com a nossa equipe sobre os números da sua clínica: quantos procuram, quantos fecham, quanto de no-show, de onde vêm os pacientes hoje, quanto vai pra mídia.
+- Fila e reunião de diagnóstico: Você entra na fila do mês, a nossa equipe chama no WhatsApp e a reunião com o Bernardo olha os números da clínica: quantos procuram, quantos fecham, quanto de no-show, de onde vêm os pacientes hoje, quanto vai pra mídia.
 - Diagnóstico e proposta: Você recebe por escrito o que a gente faria, em que ordem e o que espera de resultado, com os dados da sua operação.
 - Assinatura e onboarding: Depois da assinatura, a liderança de operações marca o onboarding e o cronograma do projeto fica num lugar só, que você acompanha pelo celular ou pelo computador.
 
@@ -660,13 +660,13 @@ No total, o que a gente precisa do dono são algumas horas distribuídas ao long
 - Quem espera resultado em uma semana, sem método e sem estrutura.
 - Quem quer dicas soltas, sem compromisso de montar a estrutura.
 
-Faturamento e número de especialistas parceiros a gente vê na Sessão.
+Faturamento e número de especialistas parceiros a gente vê na reunião de diagnóstico.
 
 ## Perguntas diretas, respostas diretas
 
 ## Vamos olhar os números da sua clínica
 
-Trinta minutos com a nossa equipe, sem custo. Você sai com um diagnóstico e com uma resposta honesta sobre o que dá pra fazer primeiro, e sobre o que não vale a pena.
+Entre na fila do mês. A nossa equipe chama no WhatsApp, e você sai da reunião de diagnóstico com uma resposta honesta sobre o que dá pra fazer primeiro, e sobre o que não vale a pena.
 
 ### Em quanto tempo vejo resultado?
 
@@ -698,7 +698,7 @@ A recepção recebe treinamento com script e uso do CRM. A primeira resposta e o
 
 ### O Bernardo participa ou só vende?
 
-O Bernardo responde pelo diagnóstico e pelo plano de cada clínica que entra: a Sessão Estratégica é com a nossa equipe, e o que sai dela passa por ele antes da proposta. A implantação é feita pela equipe, com a liderança de operações centralizando a entrega e respondendo pelo prazo combinado.
+O Bernardo responde pelo diagnóstico e pelo plano de cada clínica que entra: a reunião de diagnóstico é com ele, e a proposta sai depois dela. A implantação é feita pela equipe, com a liderança de operações centralizando a entrega e respondendo pelo prazo combinado.
 
 ---
 
@@ -759,7 +759,7 @@ Não é pra quem quer terceirizar: o processo vem pronto, mas quem instala é vo
 
 ## Mesmo método. Muda quem executa.
 
-No Manual, você aplica na própria clínica, com o roteiro, as ferramentas e a comunidade. No PROClip®, quem monta é a nossa equipe, dentro da clínica, no prazo definido no diagnóstico; da sua parte, o aval do que vai ao ar. Quem começa pelo Manual e depois quer a equipe executando não perde nada: o método é o mesmo, e a Sessão Estratégica parte do que já está rodando.
+No Manual, você aplica na própria clínica, com o roteiro, as ferramentas e a comunidade. No PROClip®, quem monta é a nossa equipe, dentro da clínica, no prazo definido no diagnóstico; da sua parte, o aval do que vai ao ar. Quem começa pelo Manual e depois quer a equipe executando não perde nada: o método é o mesmo, e a reunião de diagnóstico parte do que já está rodando.
 
 ## Bernardo Carneiro, fundador da ClintIA
 
@@ -785,9 +785,9 @@ O valor vigente está sempre na página do produto, em proclip.com.br/apostila.
 
 URL: https://clintia.com.br/contato/
 
-E-mail, Instagram, formulário e a Sessão Estratégica: 30 minutos, sem custo, olhando os números da sua clínica popular antes de qualquer proposta.
+E-mail, Instagram, formulário e a fila de diagnóstico: a equipe chama no WhatsApp e olha os números da sua clínica popular antes de qualquer proposta.
 
-Escreva por e-mail, pelo Instagram ou pelo formulário desta página. Se o assunto é a sua clínica, melhor ainda: agende a Sessão Estratégica e a conversa já começa pelos números.
+Escreva por e-mail, pelo Instagram ou pelo formulário desta página. Se o assunto é a sua clínica, melhor ainda: entre na fila do mês e a conversa já começa pelos números.
 
 ### Vocês respondem em quanto tempo?
 
@@ -799,11 +799,11 @@ Sim. O trabalho é remoto e já rodou em clínica de capital e de cidade do inte
 
 ### Posso falar direto com o Bernardo?
 
-O diagnóstico de toda clínica que entra passa por ele. A Sessão Estratégica é com a nossa equipe: o que sai dela é encaminhado pra ele antes de qualquer proposta.
+Pode. A reunião de diagnóstico é com ele, marcada pela ordem da fila do mês, e o diagnóstico de toda clínica que entra passa por ele antes de qualquer proposta.
 
-### A Sessão Estratégica tem custo?
+### Como funciona a fila?
 
-Não. São 30 minutos olhando os números da sua clínica. Se não fizer sentido pra sua operação, a gente fala na hora.
+Você preenche a ficha da clínica, a nossa equipe chama no WhatsApp e a reunião de diagnóstico é marcada pela ordem da fila do mês. Se não fizer sentido pra sua operação, a gente fala na hora.
 
 ---
 
